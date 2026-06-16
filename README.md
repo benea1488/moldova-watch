@@ -41,7 +41,9 @@ Public e mai eficient (minute nelimitate la Actions). Privat are limita de 2000 
 `Settings` → `Secrets and variables` → `Actions` → `New repository secret`:
 
 ```
-ANTHROPIC_API_KEY       (opțional — activează brief-ul editorial Claude)
+GEMINI_API_KEY          (opțional — activează brief-ul editorial cu Google Gemini)
+EMAIL_USER              (opțional — adresa ta de Gmail de pe care trimiți raportul, ex: ionut@gmail.com)
+EMAIL_PASS              (opțional — parola de aplicație generată din contul Google pentru a permite trimiterea de e-mailuri)
 ALEPH_API_KEY           (opțional — rate limit mai bun; cere la support@occrp.org)
 TELEGRAM_BOT_TOKEN      (opțional)
 TELEGRAM_CHAT_ID        (opțional)

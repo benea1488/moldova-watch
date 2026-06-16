@@ -77,6 +77,9 @@ def main() -> int:
     # telegram
     notify.notify(fresh, settings)
 
+    # email
+    notify.send_email_digest(path)
+
     store.save()
     log.info("State salvat. Gata.")
     return 0

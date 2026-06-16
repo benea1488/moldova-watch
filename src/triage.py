@@ -1,17 +1,18 @@
-"""Triere editoriala optionala cu Claude API.
+"""Triere editoriala optionala cu Gemini API.
 
-Activata DOAR daca exista secretul ANTHROPIC_API_KEY. Daca lipseste, se sare
-peste (cost zero). Produce un brief editorial scurt + conexiuni cross-sursa +
-unghiuri de investigatie, pe baza itemelor de top.
+Activata DOAR daca exista secretul GEMINI_API_KEY. Produce un brief editorial
+scurt + conexiuni cross-sursa + unghiuri de investigatie.
 """
 from __future__ import annotations
 
+import google.generativeai as genai
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
+
 from .config import env
 from .models import Item
-from .util import get, log, make_session, post
+from .util import log
 
-API = "https://api.anthropic.com/v1/messages"
-MODEL = "claude-sonnet-4-6"
+MODEL = "gemini-2.5-flash"
 
 SYSTEM = (
     "Esti asistent de documentare pentru un editor de investigatii cu acoperire "
@@ -24,9 +25,8 @@ SYSTEM = (
     "Nu inventa. Daca un semnal e slab, spune-o."
 )
 
-
 def brief(items: list[Item], max_items: int = 30) -> str | None:
-    api_key = env("ANTHROPIC_API_KEY")
+    api_key = env("GEMINI_API_KEY")
     if not api_key:
         return None
 
@@ -43,28 +43,23 @@ def brief(items: list[Item], max_items: int = 30) -> str | None:
         )
     user = "Semnale de azi:\n\n" + "\n".join(lines)
 
-    session = make_session(timeout=60)
     try:
-        r = post(session, API,
-            headers={
-                "x-api-key": api_key,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json",
-            },
-            json={
-                "model": MODEL,
-                "max_tokens": 1200,
-                "system": SYSTEM,
-                "messages": [{"role": "user", "content": user}],
-            },
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel(MODEL, system_instruction=SYSTEM)
+        response = model.generate_content(
+            user,
+            generation_config=genai.types.GenerationConfig(
+                max_output_tokens=1200,
+            ),
+            safety_settings={
+                HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+                HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+                HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+                HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+            }
         )
-        if r.status_code != 200:
-            log.warning("  triage Claude API status %s", r.status_code)
-            return None
-        data = r.json()
-        parts = [b.get("text", "") for b in data.get("content", [])
-                 if b.get("type") == "text"]
-        return "\n".join(p for p in parts if p).strip() or None
+        text = response.text.strip()
+        return text or None
     except Exception as exc:
         log.warning("  triage ESEC: %s", exc)
         return None
