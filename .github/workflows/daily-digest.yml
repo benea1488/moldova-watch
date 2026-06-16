@@ -1,0 +1,69 @@
+name: Daily digest
+
+on:
+  schedule:
+    # 06:30 UTC zilnic = 09:30 ora Chisinau (vara) / 08:30 (iarna)
+    # GitHub poate intarzia 5-15 min la load mare; ajusteaza daca vrei mai devreme
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "Cate zile in urma sa verificam (default: 7)"
+        required: false
+        default: "7"
+
+permissions:
+  contents: write   # ca sa putem commita digest-ul si seen.json inapoi
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run digest
+        env:
+          OPENSANCTIONS_API_KEY: ${{ secrets.OPENSANCTIONS_API_KEY }}
+          ALEPH_API_KEY: ${{ secrets.ALEPH_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || '7' }}
+          PYTHONUNBUFFERED: "1"
+        run: python -m src.main
+
+      - name: Commit digest & state
+        run: |
+          git config user.name "moldova-watch[bot]"
+          git config user.email "moldova-watch@users.noreply.github.com"
+          git add digests/ data/seen.json
+          if git diff --staged --quiet; then
+            echo "Nimic de commitat."
+          else
+            git commit -m "Digest $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Upload digest as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-${{ github.run_id }}
+          path: digests/latest.md
+          retention-days: 30

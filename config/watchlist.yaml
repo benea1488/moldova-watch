@@ -1,0 +1,171 @@
+# Watchlist Moldova Watch
+# -----------------------------------------------------------------------------
+# Fiecare entitate are:
+#   name     - numele canonic (apare in digest)
+#   weight   - cat de important e (1-5); intra in scor
+#   tags     - etichete libere pentru filtrare (politician, oligarh, banca, energie...)
+#   aliases  - TOATE variantele sub care poate aparea numele in surse:
+#              latina fara diacritice, romana cu diacritice, rusa/chirilic,
+#              transliterari uzuale. Cu cat mai complet, cu atat recall mai mare.
+#
+# Editorul modifica liber acest fisier. Codul nu trebuie atins.
+# -----------------------------------------------------------------------------
+
+entities:
+  - name: Vladimir Plahotniuc
+    weight: 5
+    tags: [oligarh, politician]
+    aliases:
+      - Plahotniuc
+      - Plahotniuk
+      - Влад Плахотнюк
+      - Владимир Плахотнюк
+      - Плахотнюк
+
+  - name: Ilan Shor
+    weight: 5
+    tags: [oligarh, politician, fugar]
+    aliases:
+      - Ilan Shor
+      - Ilan Sor
+      - Ilan Șor
+      - Илан Шор
+      - Шор
+
+  - name: Marina Tauber
+    weight: 4
+    tags: [politician]
+    aliases:
+      - Tauber
+      - Марина Таубер
+      - Таубер
+
+  - name: Igor Dodon
+    weight: 4
+    tags: [politician, fost-presedinte]
+    aliases:
+      - Dodon
+      - Игорь Додон
+      - Додон
+
+  - name: Vladimir Voronin
+    weight: 3
+    tags: [politician, fost-presedinte]
+    aliases:
+      - Voronin
+      - Владимир Воронин
+      - Воронин
+
+  - name: Vlad Filat
+    weight: 3
+    tags: [politician, fost-premier]
+    aliases:
+      - Filat
+      - Влад Филат
+      - Филат
+
+  - name: Maia Sandu
+    weight: 3
+    tags: [politician, presedinte]
+    aliases:
+      - Sandu
+      - Майя Санду
+      - Санду
+
+  - name: Alexandr Stoianoglo
+    weight: 3
+    tags: [politician, justitie]
+    aliases:
+      - Stoianoglo
+      - Stoianoglo
+      - Александр Стояногло
+      - Стояногло
+
+  - name: Vadim Krasnoselsky
+    weight: 4
+    tags: [transnistria, politician]
+    aliases:
+      - Krasnoselsky
+      - Krasnoselski
+      - Вадим Красносельский
+      - Красносельский
+
+  - name: Viktor Gushan
+    weight: 4
+    tags: [transnistria, oligarh, sheriff]
+    aliases:
+      - Gushan
+      - Gusan
+      - Виктор Гушан
+      - Гушан
+
+  - name: Evghenia Gutul
+    weight: 4
+    tags: [gagauzia, politician]
+    aliases:
+      - Gutul
+      - Gutsul
+      - Guțul
+      - Евгения Гуцул
+      - Гуцул
+
+  - name: Irina Vlah
+    weight: 3
+    tags: [gagauzia, politician]
+    aliases:
+      - Irina Vlah
+      - Ирина Влах
+      - Влах
+
+# Entitati corporative / structuri (cauta in OpenCorporates/Aleph/GLEIF/EUR-Lex)
+  - name: Sheriff (Tiraspol)
+    weight: 4
+    tags: [transnistria, companie]
+    aliases:
+      - Sheriff Tiraspol
+      - ООО Шериф
+      - Шериф
+
+  - name: Banca de Economii
+    weight: 3
+    tags: [banca, frauda-bancara]
+    aliases:
+      - Banca de Economii
+      - BEM
+      - Banca de Economii a Moldovei
+
+  - name: Unibank
+    weight: 3
+    tags: [banca, frauda-bancara]
+    aliases:
+      - Unibank
+
+  - name: Banca Sociala
+    weight: 3
+    tags: [banca, frauda-bancara]
+    aliases:
+      - Banca Sociala
+      - Banca Socială
+      - Banca Socialã
+
+# Teme / dosare urmarite ca text liber (intra in scoring cu weight mai mic)
+themes:
+  - name: Frauda bancara (miliardul furat)
+    weight: 3
+    aliases:
+      - miliardul furat
+      - frauda bancara
+      - bank fraud Moldova
+      - Laundromat
+      - Russian Laundromat
+  - name: Energie / Gazprom / Moldovagaz
+    weight: 2
+    aliases:
+      - Moldovagaz
+      - Gazprom Moldova
+      - Energocom
+  - name: Aur / contrabanda
+    weight: 2
+    aliases:
+      - contrabanda aur
+      - gold smuggling Moldova

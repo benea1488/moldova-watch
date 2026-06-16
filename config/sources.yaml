@@ -1,0 +1,62 @@
+# Configurare surse Moldova Watch
+# Fiecare sursa poate fi pornita/oprita si parametrizata fara sa atingi codul.
+
+# Cate zile in urma verificam implicit (suprascris de env LOOKBACK_DAYS)
+lookback_days: 7
+
+# Cate iteme intra in sectiunea "Priority" din capul digestului
+priority_top_n: 15
+
+# Pragul minim de scor pentru a aparea in Telegram (doar semnal tare)
+telegram_min_score: 6.0
+
+sources:
+  opensanctions:
+    enabled: true
+    # interogheaza fiecare alias din watchlist + tara MD
+    per_alias: true
+
+  hudoc:
+    enabled: true
+    respondent: MDA
+    # colectiile CEDO; COMMUNICATEDCASES = early signal (1-2 ani inainte de hotarare)
+    collections: [JUDGMENTS, DECISIONS, COMMUNICATEDCASES, CLIN]
+
+  aleph:
+    enabled: true
+    countries: [md]
+
+  eurlex:
+    enabled: true
+
+  worldbank:
+    enabled: true
+    country: MD
+
+  gdelt:
+    enabled: true
+    # excludem sursele RO/MD ca sa vedem DOAR acoperirea externa
+    exclude_source_countries: [RO, MD]
+
+  # SURSA NOUA: presa de investigatie din Moldova (acoperire interna)
+  mdpress:
+    enabled: true
+    # feed-urile sunt config-driven: daca unul moare, il scoti de aici, nu din cod
+    feeds:
+      - name: Ziarul de Garda
+        url: https://www.zdg.md/feed/
+      - name: RISE Moldova
+        url: https://www.rise.md/feed/
+      - name: Anticoruptie.md
+        url: https://anticoruptie.md/ro/rss
+      - name: Mold-street
+        url: https://www.mold-street.com/rss/
+      - name: NewsMaker
+        url: https://newsmaker.md/rss/
+      - name: IPN
+        url: https://www.ipn.md/rss/ro
+    # outlet-uri de la care includem TOT (nu doar hit-uri pe watchlist),
+    # fiindca sunt redactii pur de investigatie
+    always_include:
+      - RISE Moldova
+      - Anticoruptie.md
