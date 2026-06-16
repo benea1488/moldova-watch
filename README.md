@@ -10,7 +10,7 @@ Rulează automat în GitHub Actions, agregă semnale din baze internaționale + 
 
 | Sursă | Ce captează | Cheie API |
 |---|---|---|
-| **OpenSanctions** | Sancțiuni, PEPs, entități linkate — interogat per alias din watchlist + țara MD | Da, gratuit non-comercial |
+| **OpenSanctions** | Sancțiuni, PEPs, entități linkate — via OpenSanctions Bulk Data | Nu, complet gratuit |
 | **HUDOC (CEDO)** | Hotărâri, decizii, cazuri comunicate (early-signal) cu Moldova stat pârât | Nu |
 | **OCCRP Aleph** | Entități din leak-uri/investigații cu legătură MD (inclusiv offshore) | Opțional |
 | **EUR-Lex** | Acte UE care menționează Moldova (CFSP, sancțiuni, asociere) | Nu |
@@ -36,29 +36,24 @@ Rulează automat în GitHub Actions, agregă semnale din baze internaționale + 
 
 Public e mai eficient (minute nelimitate la Actions). Privat are limita de 2000 min/lună pe planul Free.
 
-### 2. Obține cheia OpenSanctions (gratuit)
-
-https://www.opensanctions.org/api/ → Sign up → cheie API. Pentru jurnalism non-comercial e gratuit.
-
-### 3. Adaugă secretele
+### 2. Adaugă secretele
 
 `Settings` → `Secrets and variables` → `Actions` → `New repository secret`:
 
 ```
-OPENSANCTIONS_API_KEY   (obligatoriu — fără ea, sursa e dezactivată)
 ANTHROPIC_API_KEY       (opțional — activează brief-ul editorial Claude)
 ALEPH_API_KEY           (opțional — rate limit mai bun; cere la support@occrp.org)
 TELEGRAM_BOT_TOKEN      (opțional)
 TELEGRAM_CHAT_ID        (opțional)
 ```
 
-### 4. Activează workflow-ul
+### 3. Activează workflow-ul
 
 Tab `Actions` → `Daily digest` → `Enable workflow`. Prima rulare manuală: `Run workflow` cu `lookback_days: 30` ca să prinzi backlog-ul.
 
 Rulează implicit la **06:30 UTC**. Modifică `cron` în `.github/workflows/daily-digest.yml` pentru alt orar.
 
-### 5. (Opțional) Telegram
+### 4. (Opțional) Telegram
 
 1. `@BotFather` → `/newbot` → primești token.
 2. Scrie-i botului într-un chat/grup.
@@ -78,7 +73,6 @@ Pe Telegram ajung doar itemele **priority** (scor ≥ prag, configurabil în `so
 
 ```bash
 pip install -r requirements.txt
-export OPENSANCTIONS_API_KEY=...    # opțional pentru test
 python -m src.main
 python tests/test_core.py           # teste
 ```

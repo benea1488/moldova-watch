@@ -1,52 +1,84 @@
-"""OpenSanctions: sanctiuni, PEPs, entitati linkate. Interogheaza per alias + tara MD."""
+"""OpenSanctions: sanctiuni, PEPs, entitati linkate. Interogheaza bulk data (fara API key)."""
 from __future__ import annotations
 
-from ..config import env
+import csv
+import io
+import urllib.request
+import datetime
+
 from ..models import Item
-from ..util import get
 from .base import Source
 
-API = "https://api.opensanctions.org/search/default"
-
+# Folosim setul de date 'default' care include sanctiuni, PEPs, etc. (la fel ca /search/default)
+BULK_URL = "https://data.opensanctions.org/datasets/latest/default/targets.simple.csv"
 
 class OpenSanctions(Source):
     name = "OpenSanctions"
     key = "opensanctions"
 
     def fetch(self) -> list[Item]:
-        api_key = env("OPENSANCTIONS_API_KEY")
-        if not api_key:
-            raise RuntimeError("lipseste OPENSANCTIONS_API_KEY (sursa dezactivata)")
-
-        headers = {"Authorization": f"ApiKey {api_key}"}
         out: list[Item] = []
         seen_ids: set[str] = set()
 
-        queries = self.wl.all_aliases() if self.cfg.get("per_alias", True) else ["Moldova"]
-        for q in queries:
-            params = {"q": q, "limit": 8, "countries": "md"}
-            r = get(self.session, API, params=params, headers=headers)
-            if r.status_code == 403:
-                raise RuntimeError("cheie respinsa (403)")
-            if r.status_code != 200:
-                continue
-            for res in r.json().get("results", []):
-                rid = res.get("id")
-                if rid in seen_ids:
-                    continue
-                seen_ids.add(rid)
-                props = res.get("properties", {})
-                topics = props.get("topics", []) or []
-                tags = ["sanction"] if "sanction" in topics else []
-                caption = res.get("caption", "(fara nume)")
-                schema = res.get("schema", "")
-                out.append(Item(
-                    source=self.name,
-                    title=f"{caption} [{schema}]",
-                    url=f"https://www.opensanctions.org/entities/{rid}/",
-                    date=res.get("last_change", "") or res.get("last_seen", ""),
-                    summary="Topics: " + ", ".join(topics) if topics else "",
-                    tags=tags,
-                    meta={"datasets": res.get("datasets", []), "query": q},
-                ))
+        req = urllib.request.Request(BULK_URL)
+        try:
+            with urllib.request.urlopen(req) as response:
+                wrapper = io.TextIOWrapper(response, encoding='utf-8', errors='replace')
+                reader = csv.reader(wrapper)
+                try:
+                    headers = next(reader)
+                except StopIteration:
+                    return []
+                
+                try:
+                    id_idx = headers.index("id")
+                    schema_idx = headers.index("schema")
+                    name_idx = headers.index("name")
+                    aliases_idx = headers.index("aliases")
+                    dataset_idx = headers.index("dataset")
+                    sanctions_idx = headers.index("sanctions")
+                    last_change_idx = headers.index("last_change")
+                except ValueError:
+                    raise RuntimeError("Formatul CSV OpenSanctions s-a modificat.")
+                
+                for row in reader:
+                    if len(row) <= last_change_idx:
+                        continue
+                    
+                    name = row[name_idx]
+                    aliases = row[aliases_idx]
+                    
+                    # Verificam direct in watchlist (doar daca exista un nume)
+                    if not name and not aliases:
+                        continue
+                        
+                    hits = self.wl.match(name, aliases)
+                    if not hits:
+                        continue
+                        
+                    rid = row[id_idx]
+                    if rid in seen_ids:
+                        continue
+                    seen_ids.add(rid)
+                    
+                    schema = row[schema_idx]
+                    dataset = row[dataset_idx]
+                    sanctions = row[sanctions_idx]
+                    last_change = row[last_change_idx]
+                    
+                    tags = ["sanction"] if sanctions else []
+                    summary = f"Datasets: {dataset}" if dataset else ""
+                    
+                    out.append(Item(
+                        source=self.name,
+                        title=f"{name} [{schema}]",
+                        url=f"https://www.opensanctions.org/entities/{rid}/",
+                        date=last_change or datetime.datetime.now().isoformat(),
+                        summary=summary,
+                        tags=tags,
+                        meta={"datasets": dataset.split(";"), "query": [h.name for h in hits]},
+                    ))
+        except Exception as e:
+            raise RuntimeError(f"Eroare la descarcarea bulk data OpenSanctions: {e}")
+            
         return out
