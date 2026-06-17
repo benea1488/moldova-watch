@@ -1,11 +1,76 @@
 {
-  "generated": "2026-06-16T16:18:47.585496+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-06-17T11:22:43.780841+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] În regiunea transnistreană, starea de urgență economică a fost prelungită până pe 17 iulie",
+      "url": "https://www.zdg.md/stiri/in-regiunea-transnistreana-starea-de-urgenta-economica-a-fost-prelungita-pana-pe-17-iulie/",
+      "date": "Wed, 17 Jun 2026 08:09:39 +0000",
+      "summary": "Așa-numitul Soviet Suprem al regiunii transnistrene a aprobat decretul lui Vadim Krasnoselski privind prelungirea stării de urgență în economie. Aceasta va fi valabilă până pe 17 iulie, transmite Zona de Securitate. Regimul actual al stării de urgență în economie este în vigoare în regiune din decem",
+      "entities": [
+        "Vadim Krasnoselsky"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "22c49ea1971e8540"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Președinta Maia Sandu va participa la Summitul R. Moldova – Uniunea Europeană de la Bruxelles, alături de președintele Consiliului European și de președinta Comisiei Europene",
+      "url": "https://www.zdg.md/stiri/presedinta-maia-sandu-va-participa-la-summitul-r-moldova-uniunea-europeana-de-la-bruxelles-alaturi-de-presedintele-consiliului-european-si-de-presedinta-comisiei-europene/",
+      "date": "Wed, 17 Jun 2026 08:59:45 +0000",
+      "summary": "Președinta Maia Sandu va participa pe 22 iunie la Summitul R. Moldova &#8211; Uniunea Europeană, care va avea loc la Bruxelles, a anunțat miecuri, 17 iunie, Președinția. UE va fi reprezentată de președintele Consiliului European, António Costa, și de președinta Comisiei Europene, Ursula von der Leye",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "4efdd2c5cf211123"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Кто возглавит президентскую гонку в Молдове без Майи Санду? Опрос IMAS",
+      "url": "https://newsmaker.md/ru/kto-vozglavit-prezidentskuyu-gonku-v-moldove-bez-maii-sandu-opros-imas",
+      "date": "Wed, 17 Jun 2026 09:43:58 +0000",
+      "summary": "В отсутствие Майи Санду, которая не может баллотироваться на третий срок, лидерство в президентском рейтинге переходит к лидеру Партии социалистов (ПСРМ) Игорю Додону. Об этом свидетельствуют результаты опроса общественного мнения, представленные 17 июня социологической компанией IMAS. За Додона гот",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "901f7cd0fc78dc0c"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Un necunoscut s-a dat drept jurnalist RISE Moldova și a încercat să obțină informații de la reprezentanți ai opoziției din Belarus",
+      "url": "https://www.rise.md/un-necunoscut-s-a-dat-drept-jurnalist-rise-moldova-si-a-incercat-sa-obtina-informatii-de-la-reprezentanti-ai-opozitiei-din-belarus/",
+      "date": "Wed, 17 Jun 2026 03:35:13 +0000",
+      "summary": "Această tentativă întreprinsă cu scop de provocare a durat mai bine de două luni. Un provocator anonim a [&#8230;]\nThe post Un necunoscut s-a dat drept jurnalist RISE Moldova și a încercat să obțină informații de la reprezentanți ai opoziției din Belarus appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "936389078dbe767a"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
-      34
+      36
     ],
     [
       "Banca de Economii",
@@ -37,7 +102,7 @@
     ],
     [
       "Vadim Krasnoselsky",
-      3
+      4
     ],
     [
       "Ilan Shor",
