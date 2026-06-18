@@ -1,61 +1,130 @@
 {
-  "generated": "2026-06-17T11:22:43.780841+00:00",
-  "count": 4,
+  "generated": "2026-06-18T10:54:12.448824+00:00",
+  "count": 7,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] În regiunea transnistreană, starea de urgență economică a fost prelungită până pe 17 iulie",
-      "url": "https://www.zdg.md/stiri/in-regiunea-transnistreana-starea-de-urgenta-economica-a-fost-prelungita-pana-pe-17-iulie/",
-      "date": "Wed, 17 Jun 2026 08:09:39 +0000",
-      "summary": "Așa-numitul Soviet Suprem al regiunii transnistrene a aprobat decretul lui Vadim Krasnoselski privind prelungirea stării de urgență în economie. Aceasta va fi valabilă până pe 17 iulie, transmite Zona de Securitate. Regimul actual al stării de urgență în economie este în vigoare în regiune din decem",
+      "title": "[Ziarul de Garda] Arest preventiv în lipsă pentru Ilan Șor în dosarul privind delapidarea a 100 de milioane de dolari de la Banca de Economii",
+      "url": "https://www.zdg.md/stiri/arest-preventiv-in-lipsa-pentru-ilan-sor-in-dosarul-privind-delapidarea-a-100-de-milioane-de-dolari-de-la-banca-de-economii/",
+      "date": "Thu, 18 Jun 2026 09:06:52 +0000",
+      "summary": "În privința lui Ilan Șor a fost aplicată miercuri, 17 iunie, în lipsa lui măsura preventivă a arestului pentru un termen de 30 de zile, în cauza penală privind delapidarea sumei de 100 de milioane de dolari de la SA „Banca de Economii” (BEM), anunță joi, 18 iunie, Procuratura Anticorupție (PA). Ilan",
       "entities": [
-        "Vadim Krasnoselsky"
+        "Ilan Shor",
+        "Banca de Economii"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 11.9,
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "22c49ea1971e8540"
+      "uid": "eb3da75d98cd3069"
     },
     {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Președinta Maia Sandu va participa la Summitul R. Moldova – Uniunea Europeană de la Bruxelles, alături de președintele Consiliului European și de președinta Comisiei Europene",
-      "url": "https://www.zdg.md/stiri/presedinta-maia-sandu-va-participa-la-summitul-r-moldova-uniunea-europeana-de-la-bruxelles-alaturi-de-presedintele-consiliului-european-si-de-presedinta-comisiei-europene/",
-      "date": "Wed, 17 Jun 2026 08:59:45 +0000",
-      "summary": "Președinta Maia Sandu va participa pe 22 iunie la Summitul R. Moldova &#8211; Uniunea Europeană, care va avea loc la Bruxelles, a anunțat miecuri, 17 iunie, Președinția. UE va fi reprezentată de președintele Consiliului European, António Costa, și de președinta Comisiei Europene, Ursula von der Leye",
+      "source": "OpenSanctions",
+      "title": "Gabriel SANDU [Person]",
+      "url": "https://www.opensanctions.org/entities/ro-cdep-56b37de2b4259d5d2c023459b41e5a3a38770e46/",
+      "date": "2026-06-16T11:19:32",
+      "summary": "Datasets: Romania Members of Chamber of Deputies",
       "entities": [
         "Maia Sandu"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 9.26,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "datasets": [
+          "Romania Members of Chamber of Deputies"
+        ],
+        "query": [
+          "Maia Sandu"
+        ]
       },
-      "uid": "4efdd2c5cf211123"
+      "uid": "cb2ed8639447c58a"
+    },
+    {
+      "source": "OpenSanctions",
+      "title": "Viorica SANDU [Person]",
+      "url": "https://www.opensanctions.org/entities/ro-cdep-75b1f31e7a3f144a670a80569ec6de314f815d85/",
+      "date": "2026-06-16T11:19:32",
+      "summary": "Datasets: Romania Members of Chamber of Deputies",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 9.26,
+      "meta": {
+        "datasets": [
+          "Romania Members of Chamber of Deputies"
+        ],
+        "query": [
+          "Maia Sandu"
+        ]
+      },
+      "uid": "c61b049d961a9125"
+    },
+    {
+      "source": "OpenSanctions",
+      "title": "Viorica SANDU [Person]",
+      "url": "https://www.opensanctions.org/entities/ro-cdep-af46e4d621accfc0fb81e4caccadf835ea184315/",
+      "date": "2026-06-16T11:19:32",
+      "summary": "Datasets: Romania Members of Chamber of Deputies",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 9.26,
+      "meta": {
+        "datasets": [
+          "Romania Members of Chamber of Deputies"
+        ],
+        "query": [
+          "Maia Sandu"
+        ]
+      },
+      "uid": "3574dc08698b4f33"
+    },
+    {
+      "source": "OpenSanctions",
+      "title": "Mihai SANDU-CAPRĂ [Person]",
+      "url": "https://www.opensanctions.org/entities/ro-cdep-d7727feec3ea9520175eed597e6200624397f7bf/",
+      "date": "2026-06-16T11:19:32",
+      "summary": "Datasets: Romania Members of Chamber of Deputies",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 9.26,
+      "meta": {
+        "datasets": [
+          "Romania Members of Chamber of Deputies"
+        ],
+        "query": [
+          "Maia Sandu"
+        ]
+      },
+      "uid": "f5a47671ed90aeb6"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Кто возглавит президентскую гонку в Молдове без Майи Санду? Опрос IMAS",
-      "url": "https://newsmaker.md/ru/kto-vozglavit-prezidentskuyu-gonku-v-moldove-bez-maii-sandu-opros-imas",
-      "date": "Wed, 17 Jun 2026 09:43:58 +0000",
-      "summary": "В отсутствие Майи Санду, которая не может баллотироваться на третий срок, лидерство в президентском рейтинге переходит к лидеру Партии социалистов (ПСРМ) Игорю Додону. Об этом свидетельствуют результаты опроса общественного мнения, представленные 17 июня социологической компанией IMAS. За Додона гот",
+      "title": "[NewsMaker] Новый ордер на арест Шора. Его обвиняют в хищении $100 млн из Banca de Economii",
+      "url": "https://newsmaker.md/ru/shoru-vydali-novyi-order-na-zaochnyi-arest-ego-obvinyayut-v-hishenii-100-mln-iz-banca-de-economii",
+      "date": "Thu, 18 Jun 2026 09:52:13 +0000",
+      "summary": "Суд Чекан выдал ордер на заочный арест на 30 суток беглого Илана Шора по обвинению в хищении $100 млн из Banca de Economii. По данным Антикоррупционной прокуратуры, суд вынес решение 17 июня. В частности, Шора обвиняются в том, что он был организатором, подстрекателем и соавтором преступления, связа",
       "entities": [
-        "Maia Sandu"
+        "Banca de Economii"
       ],
       "tags": [],
       "score": 7.9,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "901f7cd0fc78dc0c"
+      "uid": "cf4a5f6a70e5a6f1"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Un necunoscut s-a dat drept jurnalist RISE Moldova și a încercat să obțină informații de la reprezentanți ai opoziției din Belarus",
-      "url": "https://www.rise.md/un-necunoscut-s-a-dat-drept-jurnalist-rise-moldova-si-a-incercat-sa-obtina-informatii-de-la-reprezentanti-ai-opozitiei-din-belarus/",
-      "date": "Wed, 17 Jun 2026 03:35:13 +0000",
-      "summary": "Această tentativă întreprinsă cu scop de provocare a durat mai bine de două luni. Un provocator anonim a [&#8230;]\nThe post Un necunoscut s-a dat drept jurnalist RISE Moldova și a încercat să obțină informații de la reprezentanți ai opoziției din Belarus appeared first on Rise Moldova.",
+      "title": "[RISE Moldova] Bisericile Moldovei: Schema Mitropoliei (II)",
+      "url": "https://www.rise.md/articol/bisericile-moldovei-schema-mitropoliei-ii/",
+      "date": "Thu, 18 Jun 2026 05:52:39 +0000",
+      "summary": "„Statul Republica Moldova, de la întemeierea sa, nu a donat Bisericii niciun bănuț.” Respectiv, „de unde statul Republica [&#8230;]\nThe post Bisericile Moldovei: Schema Mitropoliei (II) appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -64,17 +133,17 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "936389078dbe767a"
+      "uid": "df93e6b04fee1575"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      36
+      40
     ],
     [
       "Banca de Economii",
-      31
+      33
     ],
     [
       "Vladimir Voronin",
@@ -106,7 +175,7 @@
     ],
     [
       "Ilan Shor",
-      3
+      4
     ]
   ],
   "errors": []
