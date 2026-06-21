@@ -1,109 +1,22 @@
 {
-  "generated": "2026-06-20T09:49:09.101851+00:00",
-  "count": 6,
+  "generated": "2026-06-21T10:11:34.191815+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Налоговый удар, ненависть на съезде PAS, незаменимый Шор / «Разборка» с Екатериной Дубасовой",
-      "url": "https://newsmaker.md/ru/video-nalogovyi-udar-nenavist-na-sezde-pas-nezamenimyi-shor-razborka-s-ekaterinoi-dubasovoi",
-      "date": "Sat, 20 Jun 2026 07:00:00 +0000",
-      "summary": "Жизнь в Молдове снова может подорожать – но власть уверяет, что будет не больно. PAS продвигает непопулярную налоговую реформу, заранее готовит кандидата в мэры Кишинева, но по-прежнему не показывает преемника Майи Санду. Зато на съезде партии звучат оскорбления в адрес оппонентов – в зале аплодирую",
-      "entities": [
-        "Ilan Shor",
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 11.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "d422eaef442a3f12"
-    },
-    {
-      "source": "OpenSanctions",
-      "title": "ЕВГЕНИЙ АЛЕКСАНДРОВИЧ ГУЦУЛ [Person]",
-      "url": "https://www.opensanctions.org/entities/ru-inn-753706914370/",
-      "date": "2026-06-19T18:40:01",
-      "summary": "Datasets: Graph-based entity tagging;Russian Unified State Register of Legal Entities",
-      "entities": [
-        "Evghenia Gutul"
-      ],
-      "tags": [],
-      "score": 10.2,
-      "meta": {
-        "datasets": [
-          "Graph-based entity tagging",
-          "Russian Unified State Register of Legal Entities"
-        ],
-        "query": [
-          "Evghenia Gutul"
-        ]
-      },
-      "uid": "acd59d6f5f2066f1"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] VIDEO/ Șeful Moldatsa, suspendat din funcție după o investigație ZdG | Proprietarul unei ferme din Beriozchi, condamnat la 20 de ani de închisoare | Deschiderea negocierilor de aderare cu R. Moldova și Ucraina | Un nou mandat de arestare pe numele lui Ilan Șor | SĂPTĂMÂNA DE GARDĂ",
-      "url": "https://www.zdg.md/stiri/video-seful-moldatsa-suspendat-din-functie-dupa-o-investigatie-zdg-proprietarul-unei-ferme-din-beriozchi-condamnat-la-20-de-ani-de-inchisoare-deschiderea-negocierilor-de-aderare-cu-r-moldova-s/",
-      "date": "Sat, 20 Jun 2026 06:00:00 +0000",
-      "summary": "Șeful Întreprinderii de Stat „Moldatsa” a fost suspendat din funcție în urma unei investigații publicate de Ziarul de Gardă. Ce am descoperit în CV-ul său și cum și-a angajat iubita la întreprindere, aflați în această ediție a Săptămânii de Gardă. Vorbim și despre avertismentul Serviciului de Inform",
-      "entities": [
-        "Ilan Shor"
-      ],
-      "tags": [],
-      "score": 9.5,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "230da61001a648fa"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Экс-министр Бумаков о «банде» Плахотнюка, «предвыборном трюке» PAS, опыте Месопотамии и о черном чесноке. Интервью NM",
-      "url": "https://newsmaker.md/ru/eks-ministr-bumakov-o-bande-plahotnyuka-predvybornom-tryuke-pas-opyte-mesopotamii-i-o-chernom-chesnoke-intervyu-nm",
-      "date": "Fri, 19 Jun 2026 14:41:04 +0000",
-      "summary": "Экс-министр сельского хозяйства, бывший посол Молдовы в Японии Василий Бумаков недавно возглавил Европейскую социал-демократическую партию (PSDE) Молдовы. О том, как он оказался в партии, которой когда-то рулил Плахотнюк, как занялся бизнесом, «подсмотренным» в Японии, и что не так с сельским хозяйс",
-      "entities": [
-        "Vladimir Plahotniuc"
-      ],
-      "tags": [],
-      "score": 9.5,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "7ac556ea8f03e7ad"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Marșul Familiei înainte de Marșul Pride: Dodon acuză guvernarea, PAS îi amintește de deportările în Siberia",
-      "url": "https://www.zdg.md/stiri/marsul-familiei-inainte-de-marsul-pride-dodon-acuza-guvernarea-pas-ii-aminteste-de-deportarile-in-siberia/",
-      "date": "Sat, 20 Jun 2026 09:31:01 +0000",
-      "summary": "În Scuarul Catedralei s-a desfășurat Marșul Familiei, organizat de reprezentanții Partidului Socialiștilor din R. Moldova (PSRM). Participanții au venit cu baloane albe și roșii, drapele ale R. Moldova și pancarte cu diverse mesaje, printre care și &#8211; „Există doar soț și soție”. În fruntea mani",
+      "title": "[NewsMaker] Додон обвинил PAS в развале церкви и «традиционной семьи». Реакция партии: некоторые политики пытаются разделить общество",
+      "url": "https://newsmaker.md/ru/dodon-obvinil-pas-v-razvale-czerkvi-i-tradiczionnoi-semi-reakcziya-partii-nekotorye-politiki-pytayutsya-razdelit-obshestvo",
+      "date": "Sat, 20 Jun 2026 15:01:55 +0000",
+      "summary": "Лидер Партии социалистов (ПСРМ) Игорь Додон обвинил правящую партию «Действие и солидарность» (PAS) в развале «столпов молдавского общества» — церкви и традиционной семьи. Во время организованного социалистами в центре Кишинева 20 июня «Марша семьи» Додон заявил, что власть вмешивается в дела церкви",
       "entities": [
         "Igor Dodon"
       ],
       "tags": [],
       "score": 8.7,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "NewsMaker"
       },
-      "uid": "49f06ade0ded8690"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Verișoara Maiei Sandu, angajată fără concurs la „Moldatsa”: „Eu îmi caut joburi așa cum fiecare din noi o face”",
-      "url": "https://www.zdg.md/stiri/verisoara-maiei-sandu-angajata-fara-concurs-la-moldatsa-eu-imi-caut-joburi-asa-cum-fiecare-din-noi-o-face/",
-      "date": "Sat, 20 Jun 2026 09:05:39 +0000",
-      "summary": "Anastasia Taburceanu, fosta purtătoare de cuvântul a Nataliei Gavrilița, și verișoara șefei statului, este angajată la Întreprinderea de Stat „Moldatsa”, în calitate de comunicatoare. Ea a confirmat pentru ZdG că îndeplinește această funcție de un an și are un salariu de 25 700 de lei, la care se ad",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "fa8f6eae9628bef1"
+      "uid": "f35d10c33fa2d203"
     }
   ],
   "momentum": [
@@ -128,15 +41,15 @@
       7
     ],
     [
+      "Igor Dodon",
+      6
+    ],
+    [
       "Ilan Shor",
       6
     ],
     [
       "Viktor Gushan",
-      5
-    ],
-    [
-      "Igor Dodon",
       5
     ],
     [
@@ -148,5 +61,7 @@
       4
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
