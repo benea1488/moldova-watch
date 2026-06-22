@@ -1,13 +1,13 @@
 {
-  "generated": "2026-06-21T10:11:34.191815+00:00",
+  "generated": "2026-06-22T12:32:32.615231+00:00",
   "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Додон обвинил PAS в развале церкви и «традиционной семьи». Реакция партии: некоторые политики пытаются разделить общество",
-      "url": "https://newsmaker.md/ru/dodon-obvinil-pas-v-razvale-czerkvi-i-tradiczionnoi-semi-reakcziya-partii-nekotorye-politiki-pytayutsya-razdelit-obshestvo",
-      "date": "Sat, 20 Jun 2026 15:01:55 +0000",
-      "summary": "Лидер Партии социалистов (ПСРМ) Игорь Додон обвинил правящую партию «Действие и солидарность» (PAS) в развале «столпов молдавского общества» — церкви и традиционной семьи. Во время организованного социалистами в центре Кишинева 20 июня «Марша семьи» Додон заявил, что власть вмешивается в дела церкви",
+      "title": "[NewsMaker] Додон намерен рассказать в Совете Европы «о героизации нацизма в Молдове»",
+      "url": "https://newsmaker.md/ru/dodon-nameren-rasskazat-v-sovete-evropy-o-geroizaczii-naczizma-v-moldove",
+      "date": "Mon, 22 Jun 2026 10:43:16 +0000",
+      "summary": "Лидер Партии социалистов Молдовы (ПСРМ), депутат Игорь Додон собирается на&#160;этой неделе произнести речь на&#160;заседании Парламентской ассамблее Совета Европы о&#160;«героизации нацизма в&#160;Молдове в&#160;последнее время». Об&#160;этом Додон, находящийся в&#160;Страсбурге, рассказал в&#160;с",
       "entities": [
         "Igor Dodon"
       ],
@@ -16,7 +16,7 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "f35d10c33fa2d203"
+      "uid": "ddd411b58b4993b2"
     }
   ],
   "momentum": [
@@ -42,7 +42,7 @@
     ],
     [
       "Igor Dodon",
-      6
+      7
     ],
     [
       "Ilan Shor",
@@ -61,7 +61,5 @@
       4
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
