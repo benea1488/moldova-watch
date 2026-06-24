@@ -1,30 +1,45 @@
 {
-  "generated": "2026-06-23T10:09:48.130524+00:00",
+  "generated": "2026-06-24T09:57:25.026578+00:00",
   "count": 5,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Ziua Suveranității R. Moldova. Maia Sandu: „Avem obligația să păzim, să păstrăm suveranitatea, independența și pacea”. Igor Dodon: „Nu a rămas mult să-i suportăm la conducere, până Moldova se va elibera și poporul își va lua țara înapoi”",
-      "url": "https://www.zdg.md/stiri/ziua-suveranitatii-r-moldova-maia-sandu-avem-obligatia-sa-pazim-sa-pastram-suveranitatea-independenta-si-pacea-igor-dodon-nu-a-ramas-mult-sa-i-suportam-la-conducere/",
-      "date": "Tue, 23 Jun 2026 09:33:45 +0000",
-      "summary": "R. Moldova sărbătorește marți, 23 iunie Ziua Suveranității. Declaraţia de Suveranitate a fost adoptată acum 36 de ani, pe 23 iunie 1990, de către deputaţii Sovietului Suprem al Republicii Sovietice Socialiste Moldoveneşti. „Acum 36 de ani, moldovenii au luptat pentru suveranitate și pentru dreptul d",
+      "title": "[Ziarul de Garda] 24 iunie – Ziua Universală a Iei: „Tradițiile autentice nu se pierd odată cu trecerea timpului”",
+      "url": "https://www.zdg.md/stiri/stiri-sociale/24-iunie-ziua-universala-a-iei-traditiile-autentice-nu-se-pierd-odata-cu-trecerea-timpului/",
+      "date": "Wed, 24 Jun 2026 08:10:00 +0000",
+      "summary": "La 24 iunie este marcată Ziua Universală a Iei, sărbătoare dedicată promovării frumuseții și valorii cămășii tradiționale românești. Cu această ocazie, președinta Maia Sandu a transmis un mesaj în care a subliniat că „ia ne amintește că tradițiile autentice nu se pierd odată cu trecerea timpului”. Î",
       "entities": [
-        "Igor Dodon",
         "Maia Sandu"
       ],
       "tags": [],
-      "score": 11.1,
+      "score": 7.9,
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "6bef29f80d7502f2"
+      "uid": "a76d9ece907f27d2"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Почему Табурчану не подавала декларации о доходах, будучи советницей премьера Речана? Ответ кабмина",
-      "url": "https://newsmaker.md/ru/pochemu-taburchanu-ne-podavala-deklaraczii-o-dohodah-buduchi-sovetniczei-premera-rechana-otvet-kabmina",
-      "date": "Tue, 23 Jun 2026 09:57:57 +0000",
-      "summary": "Двоюродная сестра президента Майи Санду Анастасия Табурчану, занимающая должность пресс-секретаря в MoldATSA, не была обязана подавать декларации о доходах в период работы советником бывшего премьер-министра Дорина Речана. Так в правительстве 23 июня прокомментировали NewsMaker расследование издания",
+      "title": "[NewsMaker] Партия Влах обратилась в КС из-за закона, на основании которого формированию запретили участвовать в выборах",
+      "url": "https://newsmaker.md/ru/partiya-vlah-obratilas-v-ks-iz-za-zakona-na-osnovanii-kotorogo-formirovaniyu-zapretili-uchastvovat-v-vyborah",
+      "date": "Wed, 24 Jun 2026 09:36:47 +0000",
+      "summary": "Лидер партии «Сердце Молдовы» Ирина Влах сообщила 24 июня, что ее формирование обратилось в Конституционный суд с требованием проверить закон о партиях, который позволяет Центральной избирательной комиссии (ЦИК) ограничивать деятельность политформирований без судебного разбирательства. Политик счита",
+      "entities": [
+        "Irina Vlah"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "41b0d88e99f1a60f"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Бывшего замдиректора СИБ Балана лишили гражданства Молдовы. Санду подписала указ",
+      "url": "https://newsmaker.md/ru/byvshego-zamdirektora-sib-balana-lishili-grajdanstva-moldovy-sandu-podpisala-ukaz",
+      "date": "Wed, 24 Jun 2026 06:23:21 +0000",
+      "summary": "Президент Молдовы Майя Санду 23 июня подписала указ о лишении бывшего замдиректора Службы информации и безопасности (СИБ) Александру Балана гражданства Молдовы. Осужденный за разглашение государственной тайны Балан покинул страну в мае этого года в рамках обмена на двух сотрудников СИБ, которых арес",
       "entities": [
         "Maia Sandu"
       ],
@@ -33,46 +48,14 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "291b365d4b6a44bd"
+      "uid": "93501e2066db72e9"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Табурчану зарабатывала в MoldATSA больше, чем уволенный Вангели? Расследование Rise Moldova",
-      "url": "https://newsmaker.md/ru/taburchanu-zarabatyvala-v-moldatsa-bolshe-chem-uvolennyi-vangeli-rassledovanie-rise-moldova",
-      "date": "Tue, 23 Jun 2026 09:21:41 +0000",
-      "summary": "Двоюродная сестра президента Майи Санду Анастасия Табурчану, занимающая должность пресс-секретаря в&#160;MoldATSA, за&#160;почти год работы заработала более миллиона леев. Издание Rise Moldova опубликовало 23&#160;июня расследование, согласно которому в&#160;2026 году зарплата Табурчану в&#160;MoldA",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "71b5c32c8304496d"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду и Гросу поздравили Молдову с годовщиной суверенитета: Интеграция в ЕС поможет нам защитить независимость и сохранить мир",
-      "url": "https://newsmaker.md/ru/sandu-i-grosu-pozdravili-moldovu-s-godovshinoi-suvereniteta-integracziya-v-es-pomojet-nam-zashitit-nezavisimost-i-sohranit-mir",
-      "date": "Tue, 23 Jun 2026 07:36:48 +0000",
-      "summary": "Президент Майя Санду и председатель парламента Игорь Гросу 23 июня поздравили граждан с 36-ой годовщиной со дня провозглашения суверенитета Молдовы. Оба отметили важность европейской интеграции для независимости нашей страны. «К сожалению, Москва никогда в полной мере не уважала наш суверенитет и не",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "4b1a4da05bf4062f"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Ce remunerare primește Anastasia Taburceanu la MoldATSA",
-      "url": "https://www.rise.md/ce-remunerare-primeste-anastasia-taburceanu-la-moldatsa/",
-      "date": "Tue, 23 Jun 2026 05:41:40 +0000",
-      "summary": "În mai puţin de un an de activitate în calitate de purtătoare de cuvânt la MoldATSA, întreprindere de [&#8230;]\nThe post Ce remunerare primește Anastasia Taburceanu la MoldATSA appeared first on Rise Moldova.",
+      "title": "[RISE Moldova] Scandalul salariilor de la MoldATSA: APP anunță verificări, iar Taburceanu demisionează",
+      "url": "https://www.rise.md/scandalul-salariilor-de-la-moldatsa-app-anunta-verificari-iar-taburceanu-demisioneaza/",
+      "date": "Tue, 23 Jun 2026 17:58:17 +0000",
+      "summary": "Agenția Proprietății Publice (APP), fondatoarea întreprinderii de stat MoldATSA, a dispus efectuarea unui control detaliat privind modul în [&#8230;]\nThe post Scandalul salariilor de la MoldATSA: APP anunță verificări, iar Taburceanu demisionează appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -81,13 +64,29 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "622fd234acaecf0b"
+      "uid": "4af0fb05fc89ce3d"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Portofelul lui Șor. Capii rețelei cripto",
+      "url": "https://www.rise.md/articol/portofelul-lui-sor-capii-retelei-cripto/",
+      "date": "Tue, 23 Jun 2026 14:45:27 +0000",
+      "summary": "Un fost deputat și un fost viceprimar urmează să ajungă pe banca acuzațiilor după ce au gestionat și [&#8230;]\nThe post Portofelul lui Șor. Capii rețelei cripto appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "35141168f2646070"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      46
+      48
     ],
     [
       "Banca de Economii",
@@ -124,6 +123,10 @@
     [
       "Vadim Krasnoselsky",
       4
+    ],
+    [
+      "Irina Vlah",
+      3
     ]
   ],
   "errors": []
