@@ -1,61 +1,13 @@
 {
-  "generated": "2026-06-24T09:57:25.026578+00:00",
-  "count": 5,
+  "generated": "2026-06-25T09:51:40.322032+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] 24 iunie – Ziua Universală a Iei: „Tradițiile autentice nu se pierd odată cu trecerea timpului”",
-      "url": "https://www.zdg.md/stiri/stiri-sociale/24-iunie-ziua-universala-a-iei-traditiile-autentice-nu-se-pierd-odata-cu-trecerea-timpului/",
-      "date": "Wed, 24 Jun 2026 08:10:00 +0000",
-      "summary": "La 24 iunie este marcată Ziua Universală a Iei, sărbătoare dedicată promovării frumuseții și valorii cămășii tradiționale românești. Cu această ocazie, președinta Maia Sandu a transmis un mesaj în care a subliniat că „ia ne amintește că tradițiile autentice nu se pierd odată cu trecerea timpului”. Î",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "a76d9ece907f27d2"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Партия Влах обратилась в КС из-за закона, на основании которого формированию запретили участвовать в выборах",
-      "url": "https://newsmaker.md/ru/partiya-vlah-obratilas-v-ks-iz-za-zakona-na-osnovanii-kotorogo-formirovaniyu-zapretili-uchastvovat-v-vyborah",
-      "date": "Wed, 24 Jun 2026 09:36:47 +0000",
-      "summary": "Лидер партии «Сердце Молдовы» Ирина Влах сообщила 24 июня, что ее формирование обратилось в Конституционный суд с требованием проверить закон о партиях, который позволяет Центральной избирательной комиссии (ЦИК) ограничивать деятельность политформирований без судебного разбирательства. Политик счита",
-      "entities": [
-        "Irina Vlah"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "41b0d88e99f1a60f"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Бывшего замдиректора СИБ Балана лишили гражданства Молдовы. Санду подписала указ",
-      "url": "https://newsmaker.md/ru/byvshego-zamdirektora-sib-balana-lishili-grajdanstva-moldovy-sandu-podpisala-ukaz",
-      "date": "Wed, 24 Jun 2026 06:23:21 +0000",
-      "summary": "Президент Молдовы Майя Санду 23 июня подписала указ о лишении бывшего замдиректора Службы информации и безопасности (СИБ) Александру Балана гражданства Молдовы. Осужденный за разглашение государственной тайны Балан покинул страну в мае этого года в рамках обмена на двух сотрудников СИБ, которых арес",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "93501e2066db72e9"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Scandalul salariilor de la MoldATSA: APP anunță verificări, iar Taburceanu demisionează",
-      "url": "https://www.rise.md/scandalul-salariilor-de-la-moldatsa-app-anunta-verificari-iar-taburceanu-demisioneaza/",
-      "date": "Tue, 23 Jun 2026 17:58:17 +0000",
-      "summary": "Agenția Proprietății Publice (APP), fondatoarea întreprinderii de stat MoldATSA, a dispus efectuarea unui control detaliat privind modul în [&#8230;]\nThe post Scandalul salariilor de la MoldATSA: APP anunță verificări, iar Taburceanu demisionează appeared first on Rise Moldova.",
+      "title": "[RISE Moldova] Scandalul MoldATSA: Agenţia Proprietății Publice va fi reorganizată „din temelii”",
+      "url": "https://www.rise.md/scandalul-moldatsa-agentia-proprietatii-publice-va-fi-reorganizata-din-temelii/",
+      "date": "Wed, 24 Jun 2026 15:43:49 +0000",
+      "summary": "Agenţia Proprietății Publice (APP), instituţie subordonată Guvernului, care asigură administrarea şi deetatizarea proprietăţii publice, va fi reorganizată „din [&#8230;]\nThe post Scandalul MoldATSA: Agenţia Proprietății Publice va fi reorganizată „din temelii” appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -64,23 +16,7 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "4af0fb05fc89ce3d"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Portofelul lui Șor. Capii rețelei cripto",
-      "url": "https://www.rise.md/articol/portofelul-lui-sor-capii-retelei-cripto/",
-      "date": "Tue, 23 Jun 2026 14:45:27 +0000",
-      "summary": "Un fost deputat și un fost viceprimar urmează să ajungă pe banca acuzațiilor după ce au gestionat și [&#8230;]\nThe post Portofelul lui Șor. Capii rețelei cripto appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
-      ],
-      "score": 6.0,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "35141168f2646070"
+      "uid": "c022098534b57ed4"
     }
   ],
   "momentum": [
