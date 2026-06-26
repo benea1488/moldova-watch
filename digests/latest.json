@@ -1,28 +1,108 @@
 {
-  "generated": "2026-06-25T09:51:40.322032+00:00",
-  "count": 1,
+  "generated": "2026-06-26T09:58:34.647660+00:00",
+  "count": 6,
   "items": [
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Scandalul MoldATSA: Agenţia Proprietății Publice va fi reorganizată „din temelii”",
-      "url": "https://www.rise.md/scandalul-moldatsa-agentia-proprietatii-publice-va-fi-reorganizata-din-temelii/",
-      "date": "Wed, 24 Jun 2026 15:43:49 +0000",
-      "summary": "Agenţia Proprietății Publice (APP), instituţie subordonată Guvernului, care asigură administrarea şi deetatizarea proprietăţii publice, va fi reorganizată „din [&#8230;]\nThe post Scandalul MoldATSA: Agenţia Proprietății Publice va fi reorganizată „din temelii” appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
+      "title": "[Ziarul de Garda] Rolul lui Radu Marian în numirea lui Dumitru Vangheli la șefia MoldATSA. Maia Sandu: „A venit cu cea mai bună intenție”",
+      "url": "https://www.zdg.md/stiri/politic/rolul-lui-radu-marian-in-numirea-lui-dumitru-vangheli-la-sefia-moldatsa-maia-sandu-a-venit-cu-cea-mai-buna-intentie/",
+      "date": "Fri, 26 Jun 2026 08:35:46 +0000",
+      "summary": "CV-ul cu informații false al lui Dumitru Vangheli, demis de la șefia Întreprinderii de Stat „MoldATSA” după ancheta ZdG, a fost recomandat de deputatul PAS Radu Marian. Parlamentarul a recunoscut că l-a propus pentru această funcție, informație confirmată și de Maia Sandu la emisiunea În Profunzime ",
+      "entities": [
+        "Maia Sandu"
       ],
-      "score": 6.0,
+      "tags": [],
+      "score": 7.9,
       "meta": {
-        "outlet": "RISE Moldova"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "c022098534b57ed4"
+      "uid": "ab1fd58b5450aa1d"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] TV8/ O rudă din familia extinsă a Maiei Sandu ar fi făcut tranzacții cu un om de afaceri sancționat. Reacția președintei",
+      "url": "https://www.zdg.md/stiri/politic/tv8-o-ruda-din-familia-extinsa-a-maiei-sandu-ar-fi-facut-tranzactii-cu-un-om-de-afaceri-sanctionat-reactia-presedintei/",
+      "date": "Fri, 26 Jun 2026 07:19:23 +0000",
+      "summary": "Șeful Zonei Antreprenoriatului Liber „Expo-Business-Chișinău”, Constantin Batin, soțul Tatianei Batin, șefa de cabinet a președintelui Parlamentului, Igor Grosu, și verișoară a președintei Maia Sandu, a făcut afaceri cu omul de afaceri leton Marks Blats, aflat sub sancțiuni internaționale. Cu câteva",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "65c6803b74119266"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Глава кабинета Гросу подала в отставку после расследования о бизнесе мужа? Она тоже кузина Санду",
+      "url": "https://newsmaker.md/ru/glava-kabineta-grosu-podala-v-otstavku-posle-rassledovaniya-o-biznese-muja-ona-toje-prihoditsya-sandu-kuzinoi",
+      "date": "Fri, 26 Jun 2026 08:38:00 +0000",
+      "summary": "Глава кабинета спикера парламента Молдовы Игоря Гросу Татьяна Батин подала в отставку. Известно, что она сестра Анастасии Табурчану, подавшей в отставку из-за скандала с зарплатой в госпредприятии MoldATSA, и кузина президента Майи Санду. Глава государства сама сообщила об отставке Батин 25 июня — в",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "311a0463ef111df9"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду о слухах про пост премьера и «преемников»: У меня еще два с половиной года мандата и множество дел",
+      "url": "https://newsmaker.md/ru/sandu-o-sluhah-pro-post-premera-i-preemnikov-u-menya-eshe-dva-s-polovinoi-goda-mandata-i-mnojestvo-del",
+      "date": "Fri, 26 Jun 2026 07:43:04 +0000",
+      "summary": "Президент Майя Санду прокомментировала 25 июня появившиеся слухи о том, что по завершении мандата главы государства может занять пост премьер-министра, а на ее место власти готовят бывшего главу кабмина Дорина Речана. В эфире передачи În Profunzime на ProTV Chișinău Санду отвергла слухи, добавив, чт",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "c0f1807a27a6d0e6"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Налоговая реформа нуждается в доработке? Санду призвала правительство не спешить",
+      "url": "https://newsmaker.md/ru/nalogovaya-reforma-nujdaetsya-v-dorabotke-sandu-prizvala-pravitelstvo-ne-speshit",
+      "date": "Fri, 26 Jun 2026 06:35:53 +0000",
+      "summary": "Обсуждаемый в Молдове проект бюджетно-налоговой политики нуждается в доработке, а правительству не стоит спешить с его принятием. Это заявила 25 июня президент Майя Санду в эфире передачи «În Profunzime» на ProTV Chișinău. Глава государства подчеркнула, что власти должны прислушаться к критике, чтоб",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "7bd24dda6650bc1a"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду о проекте унири Шошоаки: Инициатива агента Москвы",
+      "url": "https://newsmaker.md/ru/sandu-o-proekte-uniri-shoshoaki-inicziativa-agenta-moskvy",
+      "date": "Fri, 26 Jun 2026 05:52:46 +0000",
+      "summary": "Президент Майя Санду 25 июня высказалась по поводу законодательной инициативы партии S. O. S. România, возглавляемой Дианой Шошоакэ, об объединении Румынии и Молдовы, которую обсуждают в Бухаресте. Глава государства заявила, что законопроект инициирован «агентом Москвы» и призван «дискредитировать и",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "0784da1bee3163ad"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      48
+      54
     ],
     [
       "Banca de Economii",
@@ -65,5 +145,7 @@
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
