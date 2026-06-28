@@ -1,74 +1,7 @@
 {
-  "generated": "2026-06-27T09:11:41.100998+00:00",
-  "count": 4,
-  "items": [
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Maia Sandu, despre salariul verişoarei: „Arată a bani nemeritați”",
-      "url": "https://www.rise.md/maia-sandu-despre-salariul-verisoarei-arata-a-bani-nemeritati/",
-      "date": "Fri, 26 Jun 2026 11:33:59 +0000",
-      "summary": "În prima sa reacţie după scandalul legat de remunerarea verişoarei sale la MoldATSA, lucru dezvăluit de RISE Moldova, [&#8230;]\nThe post Maia Sandu, despre salariul verişoarei: „Arată a bani nemeritați” appeared first on Rise Moldova.",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [
-        "leak"
-      ],
-      "score": 9.4,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "595b1c8e1a3bee99"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Гагаузия: В Вулканештах воду дают через день/ Санду обсудила ситуацию в Гагаузии с комиссаром ОБСЕ",
-      "url": "https://newsmaker.md/ru/video-gagauziya-v-vulkaneshtah-vodu-dayut-cherez-den-sandu-obsudila-situacziyu-v-gagauzii-s-komissarom-obse",
-      "date": "Sat, 27 Jun 2026 08:14:24 +0000",
-      "summary": "Что происходит в Гагаузии, с какими проблемами сталкиваются жители автономии, и какие решения предлагают местные и центральные власти? NewsMaker рассказывает о главных событиях в автономии\nThe post (ВИДЕО) Гагаузия: В Вулканештах воду дают через день/ Санду обсудила ситуацию в Гагаузии с комиссаром ",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "923262ae43126652"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Случайная униря, налоговая буря и мега-скандал с родней Майи Санду/«Разборка» с Екатериной Дубасовой",
-      "url": "https://newsmaker.md/ru/video-sluchainaya-unirya-nalogovaya-burya-i-mega-skandal-s-rodnei-maii-sandurazborka-s-ekaterinoi-dubasovoi",
-      "date": "Sat, 27 Jun 2026 06:49:52 +0000",
-      "summary": "Мужчин до 55 лет могут на шесть недель отправить в казарму, а школьников – учить патриотизму и любви к родине – и это не про Россию, а про Молдову. Тем временем правительство PAS сначала предложило скандальную налоговую реформу, а потом само же испугалось, раскололось и сдало назад. А еще двоюродная",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "6a878e654ead6424"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Кузина Санду увольняется от Гросу/ Молдаван готовят к войне?/ В Молдове объявили красный код",
-      "url": "https://newsmaker.md/ru/video-kuzina-sandu-uvolnyaetsya-ot-grosu-moldavan-gotovyat-k-voine-v-moldove-obyavili-krasnyi-kod",
-      "date": "Fri, 26 Jun 2026 17:19:06 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Санду о решении ЕСПЧ по делу, связанном с коллегией Маноле: «Впервые слышу»— Новые задержанные по делу «Car Vertical»— Украина упростила получение гражданства для этнических украинцев из Молдовы— Двоюродная сестра Майи Санду ухо",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "16280bf9d70d1554"
-    }
-  ],
+  "generated": "2026-06-28T09:41:40.736088+00:00",
+  "count": 0,
+  "items": [],
   "momentum": [
     [
       "Maia Sandu",
@@ -115,7 +48,5 @@
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
