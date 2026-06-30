@@ -1,50 +1,83 @@
 {
-  "generated": "2026-06-29T11:32:00.997925+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-06-30T10:08:03.667222+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Anastasia Taburceanu a lucrat și la Guvern, într-un proiect finanțat din fonduri europene, în perioada în care era angajată la Moldatsa",
+      "url": "https://www.zdg.md/stiri/politic/anastasia-taburceanu-a-lucrat-si-la-guvern-intr-un-proiect-finantat-din-fonduri-europene-in-perioada-in-care-era-angajata-la-moldatsa/",
+      "date": "Tue, 30 Jun 2026 08:04:57 +0000",
+      "summary": "Anastasia Taburceanu, verișoara președintei Maia Sandu, care a demisionat de la Î.S. „Moldatsa” în contextul scandalului de la întreprindere, a lucrat, din octombrie 2024 până în iunie 2026, și în cadrul Echipei de Sprijin pentru Reforme (Reform Support Team) – un proiect finanțat de Uniunea Europea",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "24f3adda9857ac24"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] У Табурчану нашли еще одну должность — в проекте ЕС с зарплатой €4 тыс. Делегация ЕС сообщила о проверке",
+      "url": "https://newsmaker.md/ru/u-taburchanu-nashli-eshe-odnu-doljnost-v-proekte-es-s-zarplatoi-%e2%82%ac4-tys-delegacziya-es-soobshila-o-proverke",
+      "date": "Tue, 30 Jun 2026 07:56:01 +0000",
+      "summary": "Двоюродная сестра президента Майи Санду и бывший советник премьер-министра Дорина Речана Анастасия Табурчану, уволившаяся с должности пресс-секретаря в MoldATSA из-за скандала, работала также в составе Группы поддержки реформ — проекта, финансируемого Европейским союзом и Европейским банком реконстр",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "d897c359a82002c6"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Стояногло оправдали по делу о нарушении неприкосновенности частной жизни Виорела Мораря",
+      "url": "https://newsmaker.md/ru/stoyanoglo-opravdali-po-delu-o-narushenii-neprikosnovennosti-chastnoi-jizni-viorela-morarya",
+      "date": "Tue, 30 Jun 2026 06:44:22 +0000",
+      "summary": "Бывший генпрокурор и депутат от блока «Альтернатива» Александр Стояногло сообщил 29 июня, что суд Кишинева закрыл возбужденное против него в 2021 году дело о нарушении неприкосновенности частной жизни. Стояногло обвиняли в том, что он, «используя служебное положение», получил и обнародовал информаци",
+      "entities": [
+        "Alexandr Stoianoglo"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "a5da93f25f85c75e"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Dosarul medicilor legiști: 7 ani de anchete",
+      "url": "https://www.rise.md/dosarul-medicilor-legisti-7-ani-de-anchete/",
+      "date": "Tue, 30 Jun 2026 07:25:18 +0000",
+      "summary": "Au trecut deja aproape șapte ani de la reținerea directorului Centrului de Medicină Legală și a zece medici [&#8230;]\nThe post Dosarul medicilor legiști: 7 ani de anchete appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "7fe2a32e51204be0"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
-      58
-    ],
-    [
-      "Banca de Economii",
-      33
-    ],
-    [
-      "Vladimir Voronin",
-      25
-    ],
-    [
-      "Marina Tauber",
-      8
+      26
     ],
     [
       "Igor Dodon",
-      8
-    ],
-    [
-      "Vladimir Plahotniuc",
-      7
-    ],
-    [
-      "Ilan Shor",
-      6
-    ],
-    [
-      "Viktor Gushan",
-      5
-    ],
-    [
-      "Sheriff (Tiraspol)",
-      5
-    ],
-    [
-      "Vadim Krasnoselsky",
       4
     ],
     [
-      "Irina Vlah",
+      "Ilan Shor",
       3
     ]
   ],
