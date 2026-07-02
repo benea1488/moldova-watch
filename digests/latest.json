@@ -1,45 +1,35 @@
 {
-  "generated": "2026-07-01T10:30:00.575129+00:00",
-  "count": 6,
+  "generated": "2026-07-02T09:42:40.692872+00:00",
+  "count": 3,
   "items": [
     {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Maia Sandu se delimitează de cazul verișoarei sale: „Nu o recunosc”",
-      "url": "https://www.zdg.md/importante/maia-sandu-se-delimiteaza-de-cazul-verisoarei-sale-nu-o-recunosc/",
-      "date": "Wed, 01 Jul 2026 07:31:56 +0000",
-      "summary": "Președinta Maia Sandu a fost întrebată din nou despre rudele sale din structurile statului la conferința de presă de pe 1 iulie. Șefa statului a spus că majoritatea și-au construit cariera „în mod onest”, iar despre Anastasia Taburceanu a afirmat: „Nu o recunosc, nu pot să-mi explic aceste lucruri”.",
+      "source": "OpenSanctions",
+      "title": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СПЕЦИАЛИЗИРОВАННЫЙ ЗАСТРОЙЩИК \"КРАСНОСЕЛЬСКИЙ\" [Company]",
+      "url": "https://www.opensanctions.org/entities/ru-inn-9709126634/",
+      "date": "2026-07-01T12:41:33",
+      "summary": "Datasets: Graph-based entity tagging;Russian Unified State Register of Legal Entities",
       "entities": [
-        "Maia Sandu"
+        "Vadim Krasnoselsky"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 10.2,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "datasets": [
+          "Graph-based entity tagging",
+          "Russian Unified State Register of Legal Entities"
+        ],
+        "query": [
+          "Vadim Krasnoselsky"
+        ]
       },
-      "uid": "650fb1e2162ce62d"
+      "uid": "d43b1d454b412c6e"
     },
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] VIDEO/ Maia Sandu anunță o serie de „intervenții imediate” după scandalul de la Moldatsa și se adresează public la CNA, FISC și PAS",
-      "url": "https://www.zdg.md/stiri/politic/video-maia-sandu-anunta-o-serie-de-interventii-imediate-dupa-scandalul-de-la-moldatsa-si-se-adreseaza-public-la-cna-fisc-si-pas/",
-      "date": "Wed, 01 Jul 2026 06:52:12 +0000",
-      "summary": "Președinta Maia Sandu a anunțat miercuri, 1 iulie, un pachet de măsuri pentru reformarea administrării întreprinderilor de stat, în urma scandalului de la Î.S. „Moldatsa”. Printre acestea se numără controale privind cheltuirea banilor publici, verificarea de către SIS și CNA a candidaților la funcți",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "fcf7b9e5a930c5be"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] «Убедитесь в лояльности коллег». Санду напомнила PAS о ценностях партии и европейской интеграции",
-      "url": "https://newsmaker.md/ru/ubedites-v-loyalnosti-kolleg-sandu-napomnila-pas-o-czennostyah-partii-i-evropeiskoi-integraczii",
-      "date": "Wed, 01 Jul 2026 10:03:43 +0000",
-      "summary": "Президент Майя Санду 1&#160;июля обратилась к&#160;членами правящей партии «Действие и&#160;солидарность» (PAS), которую возглавляла до&#160;избрания главой государства. На&#160;фоне последних громких коррупционных скандалов Санду призвала бывших однопартийцев «убедиться в&#160;лояльности коллег цен",
+      "title": "[NewsMaker] MoldATSA разрушит PAS? Как скандал с веришоарой президента ударит по Санду и партии власти",
+      "url": "https://newsmaker.md/ru/moldatsa-razrushit-pas-kak-skandal-s-verishoaroi-prezidenta-udarit-po-sandu-i-partii-vlasti",
+      "date": "Wed, 01 Jul 2026 18:03:57 +0000",
+      "summary": "В правящей партии PAS начались кадровые чистки на фоне скандала вокруг госпредприятия MoldATSA. Кузину президента Майи Санду исключили из партии, а сама президент провела 1 июля спешный пресс-брифинг, на котором призвала правительство, налоговую службу и Наццентр борьбы с коррупцией провести аудит в",
       "entities": [
         "Maia Sandu"
       ],
@@ -48,46 +38,14 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "d3bfaeeec793853e"
+      "uid": "050358d3d1e97c36"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду призвала кабмин и НЦБК провести проверки на госпредприятиях: Не может быть оправданий для злоупотреблений",
-      "url": "https://newsmaker.md/ru/sandu-prizvala-kabmin-i-nczbk-provesti-proverki-na-gospredpriyatiyah-ne-mojet-byt-opravdanii-dlya-zloupotreblenii",
-      "date": "Wed, 01 Jul 2026 08:03:10 +0000",
-      "summary": "Президент Майя Санду 1 июля провела пресс-конференцию, на которой призвала правительство, налоговую службу и Наццентр борьбы с коррупцией (НЦБК) провести аудит всех госпредприятиий. После скандала с зарплатами в MoldATSA глава государства подчеркнула, что подобные злоупотребления несовместимы с проп",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "43b522641009e628"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] LIVE Санду выступает на пресс-конференции",
-      "url": "https://newsmaker.md/ru/live-sandu-vystupaet-na-press-konferenczii",
-      "date": "Wed, 01 Jul 2026 06:01:44 +0000",
-      "summary": "Президент Майя Санду выступает 1&#160;июля на&#160;пресс-конференции. О&#160;мероприятии за&#160;час до&#160;его начала сообщила администрация главы государства. Тему выступления Санду не&#160;уточнили, сообщив лишь, что президент планирует говорить на актуальные темы. ОБНОВЛЕНО 9:20 Президент призн",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "8240004a112e6779"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Scandalul MoldATSA: Şase demisii, percheziții şi o reorganizare",
-      "url": "https://www.rise.md/scandalul-moldatsa-sase-demisii-perchezitii-si-o-reorganizare/",
-      "date": "Tue, 30 Jun 2026 12:11:04 +0000",
-      "summary": "Ofițerii Centrului Național Anticorupție (CNA), împreună cu procurorii Anticorupție, au descins la sediul MoldATSA, instituție aflată în centrul [&#8230;]\nThe post Scandalul MoldATSA: Şase demisii, percheziții şi o reorganizare appeared first on Rise Moldova.",
+      "title": "[RISE Moldova] Сколько получает Анастасия Табурчану на ГП MoldATSA",
+      "url": "https://www.rise.md/%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82-%d0%b0%d0%bd%d0%b0%d1%81%d1%82%d0%b0%d1%81%d0%b8%d1%8f-%d1%82%d0%b0%d0%b1%d1%83%d1%80%d1%87%d0%b0%d0%bd/",
+      "date": "Thu, 02 Jul 2026 09:33:55 +0000",
+      "summary": "За чуть менее года работы в качестве пресс-секретаря MoldATSA — государственного предприятия, отвечающего за безопасность воздушного сообщения в [&#8230;]\nThe post Сколько получает Анастасия Табурчану на ГП MoldATSA appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -96,21 +54,17 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "30d5b1f0c59f4272"
+      "uid": "212441fd47e17f06"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      29
+      26
     ],
     [
       "Igor Dodon",
       4
-    ],
-    [
-      "Ilan Shor",
-      3
     ]
   ],
   "errors": []
