@@ -1,45 +1,13 @@
 {
-  "generated": "2026-07-03T09:42:09.708055+00:00",
-  "count": 5,
+  "generated": "2026-07-04T09:06:32.207486+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] După demisia lui Alexandru Munteanu, Igor Grosu promite că PAS va analiza „foarte atent așteptările societății”",
-      "url": "https://www.zdg.md/stiri/politic/dupa-demisia-lui-alexandru-munteanu-igor-grosu-promite-ca-pas-va-analiza-foarte-atent-asteptarile-societatii/",
-      "date": "Fri, 03 Jul 2026 09:05:10 +0000",
-      "summary": "Președintele Parlamentului și liderul PAS, Igor Grosu, i-a mulțumit premierului demisionar Alexandru Munteanu pentru activitatea desfășurată la conducerea Guvernului. În context, pentru că Maia Sandu a anunțat pentru săptămâna viitoare consultări cu fracțiunile parlamentare pentru desemnarea unui no",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "b8ab5cee0b7c0bdf"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] VIDEO/ Munteanu va asigura interimatul până la desemnarea unui nou prim-ministru. Maia Sandu va începe consultările cu partidele pentru identificarea unui nou șef de Guvern",
-      "url": "https://www.zdg.md/stiri/politic/video-munteanu-va-asigura-interimatul-pana-la-desemnarea-unui-nou-prim-ministru-maia-sandu-va-incepe-consultarile-cu-partidele-pentru-identificarea-unui-nou-sef-de-guvern/",
-      "date": "Fri, 03 Jul 2026 08:44:22 +0000",
-      "summary": "Președinta R. Moldova, Maia Sandu, a declarat că prim-ministrul Alexandru Munteanu a avut „mână liberă” să conducă Guvernul și că a plecat din funcție din propria inițiativă. În prima sa reacție după demisia premierului, șefa statului a anunțat că va începe luni, 6 iulie, consultările cu fracțiunile",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "e5a0b8b71af5b98c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] «Не думаю, что были противоречия». Санду прокомментировала объяснение Мунтяну своей отставки",
-      "url": "https://newsmaker.md/ru/ne-dumayu-chto-byli-protivorechiya-sandu-prokommentirovala-obyasnenie-muntyanu-svoei-otstavki",
-      "date": "Fri, 03 Jul 2026 08:49:24 +0000",
-      "summary": "Президент Молдовы Майя Санду заявила, что ей неизвестно о противоречиях, которые мешали бы Александру Мунтяну исполнять обязанности премьер-министра в соответствии «со своими принципами». Так она прокомментировала заявление главы правительства об отставке на пресс-конференции 3 июля. «Не&#160;думаю,",
+      "title": "[NewsMaker] (ВИДЕО) Отставка Мунтяну, разочарование Санду, супергерой Речан и перспектива досрочных выборов /«Разборка» с Екатериной Дубасовой",
+      "url": "https://newsmaker.md/ru/video-otstavka-muntyanu-razocharovanie-sandu-supergeroi-rechan-i-perspektiva-dosrochnyh-vyborov-razborka-s-ekaterinoi-dubasovoi",
+      "date": "Sat, 04 Jul 2026 07:01:00 +0000",
+      "summary": "Премьер-министр Александр Мунтяну подал в отставку. Президент Майя Санду, похоже, разочарована его премьерством. И, очевидно, не только им: именно ее веришоара взорвала молдавскую политику. В PAS тем временем появился новый антагонист: если раньше во всем винили Андрея Спыну, то теперь — Раду Мариан",
       "entities": [
         "Maia Sandu"
       ],
@@ -48,14 +16,14 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "62aec7e3b4b41486"
+      "uid": "467a0c3f68f2100e"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Майя Санду провела пресс-конференцию после заявления премьера об отставке",
-      "url": "https://newsmaker.md/ru/live-maiya-sandu-provodit-press-konferencziyu-posle-zayavleniya-premera-ob-otstavke",
-      "date": "Fri, 03 Jul 2026 08:01:01 +0000",
-      "summary": "Президент Молдовы Майя Санду 3 июля провела пресс-конференцию после заявления Александра Мунтяну об уходе с поста премьер-министра. *** Премьер-министр Молдовы Александр Мунтяну объявил, что 3 июля завершает свой мандат и покидает должность главы правительства. «Я принял предложение стать премьер-ми",
+      "title": "[NewsMaker] Мунтяну и Санду разошлись в принципах? Ждут ли Молдову досрочные выборы после отставки премьера",
+      "url": "https://newsmaker.md/ru/muntyanu-i-sandu-razoshlis-v-princzipah-jdut-li-moldovu-dosrochnye-vybory-posle-otstavki-premera",
+      "date": "Fri, 03 Jul 2026 18:25:11 +0000",
+      "summary": "После отставки премьер-министра Александру Мунтяну Молдова оказалась в ситуации политического кризиса. Президенту и правящей партии PAS будет непросто найти «премьера-камикадзе», как уже окрестили будущего главу правительства эксперты. О том, что происходит и как события могут развиваться дальше — в",
       "entities": [
         "Maia Sandu"
       ],
@@ -64,23 +32,23 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "3e5ed15778377f0d"
+      "uid": "b129df4a8e583b7b"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Ирина Влах исключила участие в выборах башкана Гагаузии",
-      "url": "https://newsmaker.md/ru/irina-vlah-isklyuchila-uchastie-v-vyborah-bashkana-gagauzii",
-      "date": "Fri, 03 Jul 2026 07:14:42 +0000",
-      "summary": "Бывшая глава Гагаузии Ирина Влах заявила, что не намерена баллотироваться на пост башкана. Об этом она рассказала в специальном выпуске программы RealPolitik на NM, посвященном политическому кризису в автономии. «Я&#160;не&#160;буду участвовать в&#160;башканских выборах, (…) хотя по&#160;закону могу",
+      "title": "[NewsMaker] По какой цене Молдова закупила электричество в июне",
+      "url": "https://newsmaker.md/ru/po-kakoi-czene-moldova-zakupila-elektrichestvo-v-iyune",
+      "date": "Fri, 03 Jul 2026 14:09:21 +0000",
+      "summary": "В июне более 60% электроэнергии, необходимой для потребления, закупили в Румынии и Украине. Energocom рассказал, что в июне Молдова купила электричество по средневзвешенной цене €131,52 за МВт·ч. В&#160;июне Energocom закупил в&#160;целом 314&#160;тыс. МВт·ч электроэнергии из&#160;внутренних и&#160;",
       "entities": [
-        "Irina Vlah"
+        "Energie / Gazprom / Moldovagaz"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 6.1,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "f77e55ca53a4126e"
+      "uid": "32f42cd287a90a08"
     }
   ],
   "momentum": [
@@ -90,7 +58,7 @@
     ],
     [
       "Igor Dodon",
-      4
+      3
     ]
   ],
   "errors": [
