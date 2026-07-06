@@ -1,29 +1,29 @@
 {
-  "generated": "2026-07-05T09:28:06.166016+00:00",
-  "count": 2,
+  "generated": "2026-07-06T11:12:30.706383+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Около 150 тыс. леев за месяц. Сколько получала Табурчану в MoldATSA",
-      "url": "https://newsmaker.md/ru/okolo-150-tys-leev-za-mesyacz-skolko-poluchala-taburchanu-v-moldatsa",
-      "date": "Sun, 05 Jul 2026 07:29:18 +0000",
-      "summary": "Самый высокий месячный доход в MoldATSA двоюродная сестра президента Майи Санду и бывший советник премьер-министра Дорина Речана Анастасия Табурчану получила в декабре 2025 года — 149 тыс. леев. Тогда как ее ежемесячная зарплата на посту пресс-секретаря компании, по ее словам, составляла 25 700 леев",
+      "title": "[Ziarul de Garda] Două partide refuză să participe la consultările pentru desemnarea unui nou premier",
+      "url": "https://www.zdg.md/stiri/politic/doua-partide-refuza-sa-participe-la-consultarile-pentru-desemnarea-unui-nou-premier/",
+      "date": "Mon, 06 Jul 2026 08:32:30 +0000",
+      "summary": "După ce președinta Maia Sandu a anunțat că luni, 6 iulie, începe consultările cu partidele parlamentare pentru desemnarea unui nou prim-ministru, Mișcarea Alternativa Națională (MAN) și Partidul Socialiștilor din R. Moldova (PSRM) au anunțat că vor boicota discuțiile de la Președinție. PSRM susține ",
       "entities": [
         "Maia Sandu"
       ],
       "tags": [],
       "score": 7.9,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "37a7f171307618bb"
+      "uid": "b3f81756232f3e48"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду поздравила США с Днем независимости: «Друг и партнер Молдовы»",
-      "url": "https://newsmaker.md/ru/sandu-pozdravila-ssha-s-dnem-nezavisimosti-drug-i-partner-moldovy",
-      "date": "Sat, 04 Jul 2026 12:09:01 +0000",
-      "summary": "Президент Майя Санду поздравила США с 250-летием провозглашения независимости. Глава государства подчеркнула, что Молдова гордится тем, что считает США своим другом и партнером. «Поздравляю народ Соединенных Штатов Америки с 250-летием независимости. На протяжении двух с половиной веков Америка дока",
+      "title": "[NewsMaker] Социалисты отказались участвовать в консультациях Санду по поводу премьера: «Имитация соблюдения Конституции»",
+      "url": "https://newsmaker.md/ru/soczialisty-otkazalis-uchastvovat-v-konsultacziyah-sandu-po-povodu-premera-imitacziya-soblyudeniya-konstituczii",
+      "date": "Mon, 06 Jul 2026 06:36:00 +0000",
+      "summary": "Партия социалистов (ПСРМ) сообщила 6 июля, что не будет участвовать в объявленных президентом Майей Санду консультациях по поводу кандидата на пост премьер-министра вместо подавшего в отставку Александру Мунтяну. Формирование настаивает на проведении досрочных выборов в парламент. «Граждане больше н",
       "entities": [
         "Maia Sandu"
       ],
@@ -32,16 +32,30 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "58da1bad301a14a5"
+      "uid": "063f4b5c93074837"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] В Кишиневе отметили День памяти жертв депортации. Санду: Это было планомерное уничтожение нашей идентичности",
+      "url": "https://newsmaker.md/ru/v-kishineve-otmetili-den-pamyati-jertv-deportaczii-sandu-eto-bylo-planomernoe-unichtojenie-nashei-identichnosti",
+      "date": "Mon, 06 Jul 2026 06:01:54 +0000",
+      "summary": "В Молдове 6 июля вспоминают жертв второй волны сталинских депортаций. Президент Майя Санду, спикер парламента Игорь Гросу и исполняющий обязанности премьер-министра Александру Мунтяну возложили цветы к памятнику депортированным у Железнодорожного вокзала. Перед собравшимися выступила президент Майя ",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "d46ecac1d0ed612d"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      32
+      35
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
