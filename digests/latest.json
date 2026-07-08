@@ -1,46 +1,13 @@
 {
-  "generated": "2026-07-07T10:06:58.882372+00:00",
-  "count": 3,
+  "generated": "2026-07-08T09:08:00.818944+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] В Высшей судебной палате пять новых судей. Указ Санду (DOC)",
-      "url": "https://newsmaker.md/ru/v-vysshei-sudebnoi-palate-pyat-novyh-sudei-ukaz-sandu-doc",
-      "date": "Tue, 07 Jul 2026 08:58:30 +0000",
-      "summary": "Указ президента Майи Санду о назначении в Высшую судебную палату пяти судей, среди которых и Анна Кучереску, известная по резонансным делам Евгении Гуцул и Влада Плахотнюка, опубликовали 7 июля в Официальном мониторе. Согласно документу, сразу после публикации Кучереску, а также судьи Елена Кроитор,",
-      "entities": [
-        "Maia Sandu",
-        "Evghenia Gutul"
-      ],
-      "tags": [],
-      "score": 11.1,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "9707270f229c1a1d"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] ULTIMA ORĂ/ Eugen Osmochescu a fost numit în funcția de prim-ministru interimar. Reacția lui Alexandru Munteanu",
-      "url": "https://www.zdg.md/stiri/politic/ultima-ora-eugen-osmochescu-a-fost-numit-in-functia-de-prim-ministru-interimar-reactia-lui-alexandru-munteanu/",
-      "date": "Tue, 07 Jul 2026 09:39:40 +0000",
-      "summary": "Astăzi, 7 iulie, Eugeniu Osmochescu a fost numit în funcția de prim-ministru interimar. Un decret în acest sens a fost semnat de președinta R. Moldova, Maia Sandu. Osmochescu a ocupat funcția de ministru al Dezvoltării Economice și Digitalizării și va intra în funcție de la data de 8 iulie 2026, pân",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "1db59c1935e3401c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Осмокеску временно возглавит правительство. Санду подписала указ",
-      "url": "https://newsmaker.md/ru/osmokesku-vremenno-vozglavit-pravitelstvo-sandu-podpisala-ukaz",
-      "date": "Tue, 07 Jul 2026 09:49:55 +0000",
-      "summary": "Исполняющий обязанности вице-премьера и&#160;министра экономического развития и&#160;цифровизации Еуджен Осмокеску временно возглавит правительство Молдовы после отставки Александру Мунтяну. Указ о&#160;назначении Осмокеску подписала 7&#160;июля президент Майя Санду. После этого Мунтяну написал в&#1",
+      "title": "[NewsMaker] Костюк: ««Демократия дома» придет к администрации президента, но не будет участвовать в консультациях с Санду»",
+      "url": "https://newsmaker.md/ru/kostyuk-demokratiya-doma-pridet-k-administraczii-prezidenta-no-ne-budet-uchastvovat-v-konsultacziyah-s-sandu",
+      "date": "Wed, 08 Jul 2026 07:49:11 +0000",
+      "summary": "Партия «Демократия дома» (Democrația Acasă) придет к зданию администрации президента в день проведения консультаций по выдвижению кандидата на пост премьер-министра, но ограничится ступенями и не будет участвовать во встрече с главой государства. Об этом лидер партии Василе Костюк заявил 7 июля в эф",
       "entities": [
         "Maia Sandu"
       ],
@@ -49,14 +16,16 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "6cc953f3897a9963"
+      "uid": "1bf5fa737969327f"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      34
+      33
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
