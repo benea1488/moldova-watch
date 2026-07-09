@@ -1,13 +1,63 @@
 {
-  "generated": "2026-07-08T09:08:00.818944+00:00",
-  "count": 1,
+  "generated": "2026-07-09T10:09:28.104987+00:00",
+  "count": 6,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Костюк: ««Демократия дома» придет к администрации президента, но не будет участвовать в консультациях с Санду»",
-      "url": "https://newsmaker.md/ru/kostyuk-demokratiya-doma-pridet-k-administraczii-prezidenta-no-ne-budet-uchastvovat-v-konsultacziyah-s-sandu",
-      "date": "Wed, 08 Jul 2026 07:49:11 +0000",
-      "summary": "Партия «Демократия дома» (Democrația Acasă) придет к зданию администрации президента в день проведения консультаций по выдвижению кандидата на пост премьер-министра, но ограничится ступенями и не будет участвовать во встрече с главой государства. Об этом лидер партии Василе Костюк заявил 7 июля в эф",
+      "title": "[Ziarul de Garda] „O stâncă” și un „talent nativ”. La Moscova a fost lansată cartea scrisă de Evghenia Guțul. La eveniment au participat Ilan Șor, Marina Tauber și mai mulți propagandiști ruși",
+      "url": "https://www.zdg.md/stiri/o-stanca-si-un-talent-nativ-la-moscova-a-fost-lansata-cartea-scrisa-de-evghenia-gutul-la-eveniment-au-participat-ilan-sor-marina-tauber-si-mai-multi-propagandist/",
+      "date": "Thu, 09 Jul 2026 08:31:34 +0000",
+      "summary": "Ieri, 8 iulie, la Moscova a avut loc prezentarea versiunii tipărite a cărții scrise de bașcana Găgăuziei, Evghenia Guțul. La eveniment au venit Ilan Șor și Marina Tauber, precum și un grup de propagandiști ruși, scrie Nokta. Versiunea electronică a cărții „Dosarul Guțul. Anatomia persecuției politic",
+      "entities": [
+        "Ilan Shor",
+        "Marina Tauber",
+        "Evghenia Gutul"
+      ],
+      "tags": [],
+      "score": 15.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "a7711774edce7218"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] PAS susține că ar fi ținta unui „atac concertat” de Plahotniuc. Perciun: „Scopul este decredibilizarea totală a guvernării”",
+      "url": "https://www.zdg.md/stiri/politic/pas-sustine-ca-ar-fi-tinta-unui-atac-concertat-de-plahotniuc-perciun-scopul-este-decredibilizarea-totala-a-guvernarii/",
+      "date": "Thu, 09 Jul 2026 08:45:24 +0000",
+      "summary": "În contextul scandalurilor legate de Î.S. Moldatsa, al salariilor de sute de mii de lei încasate de unii angajați ai statului și al reformei fiscale care a precedat căderea Guvernului Munteanu, președintele PAS, Igor Grosu, susține că toate acestea fac parte „dintr-o campanie”. O interpretare simila",
+      "entities": [
+        "Vladimir Plahotniuc"
+      ],
+      "tags": [],
+      "score": 9.5,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "ff58be73dba18689"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] PAS связала скандалы последних недель с Плахотнюком. Послание «тем, кто в тюрьме №13»: «Собаки лают — караван идет»",
+      "url": "https://newsmaker.md/ru/pas-svyazala-skandaly-poslednih-nedel-s-plahotnyukom-poslenie-tem-kto-v-n-hmvt-%e2%84%9613-sobaki-layut-karavan-idet",
+      "date": "Thu, 09 Jul 2026 09:50:43 +0000",
+      "summary": "Лидер PAS Игорь Гросу и министр образования Дан Перчун считают, что за скандалами вокруг правящей партии в последние недели стоит бывший лидер Демпартии Владимир Плахотнюк, которого суд приговорил к 19 годам лишения свободы по делу о «банковском мошенничестве». По словам Перчуна, цель этих «атак» — ",
+      "entities": [
+        "Vladimir Plahotniuc"
+      ],
+      "tags": [],
+      "score": 9.5,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "c25392a44c908226"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду начинает консультации по кандидатуре нового премьера: С оппозицией встретится в один день, с PAS — отдельно",
+      "url": "https://newsmaker.md/ru/sandu-nachinaet-konsultaczii-po-kandidature-novogo-premera-s-oppozicziei-vstretitsya-v-odin-den-s-pas-otdelno",
+      "date": "Thu, 09 Jul 2026 07:53:08 +0000",
+      "summary": "Президент Молдовы Майя Санду спустя почти неделю после отставки премьер-министра Александру Мунтяну проведет консультации с парламентскими фракциями, чтобы определить кандидата на пост главы правительства. Встречи состоятся 10 и 11 июля в здании администрации президента. В пятницу, 10 июля, Майя Сан",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,16 +66,46 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "1bf5fa737969327f"
+      "uid": "301264df75bad2ca"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Глава Института юстиции похвалила администрацию Санду за экономность: Впечатляющие результаты при ограниченных ресурсах",
+      "url": "https://newsmaker.md/ru/glava-instituta-yusticzii-voshitilas-ekonomnostyu-administraczii-sandu-vpechatlyayushie-rezultaty-pri-ogranichennyh-resursah",
+      "date": "Thu, 09 Jul 2026 06:14:58 +0000",
+      "summary": "Глава Национального института юстиции Рамона Стругариу прокомментировала 8 июля отчет администрации президента Майи Санду о расходах на зарубежные поездки в первой половине 2026 года. Стругариу, ранее представлявшая Румынию в Европейском парламенте, написала в соцсетях, что впечатлена экономностью а",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "cdf040772dc32349"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Moldovagaz подаст в суд на Energocom? Чебан обвинил госкомпанию в публикации конфиденциальных данных",
+      "url": "https://newsmaker.md/ru/glava-moldovagaz-obvinil-energocom-v-publikaczii-konfidenczialnyh-dannyh-chem-nedovolen-cheban",
+      "date": "Thu, 09 Jul 2026 07:55:01 +0000",
+      "summary": "Исполняющий обязанности председателя правления Moldovagaz Вадим Чебан 9 июля обвинил Energocom в публикации конфиденциальной информации после того, как предприятие отчиталось в соцсетях о затратах на собственную систему обработки платежей, представив и данные договора аутсорсинга с Moldovagaz. После",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "22ea32655f2552e8"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      33
+      35
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
