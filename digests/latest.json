@@ -1,13 +1,29 @@
 {
-  "generated": "2026-07-10T09:59:47.310804+00:00",
-  "count": 4,
+  "generated": "2026-07-11T08:20:20.168593+00:00",
+  "count": 5,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Costiuc a adus o plăcintă la Președinție. Pardidul „Democrația Acasă” nu a intrat la consultări, dar a propus un premier",
-      "url": "https://www.zdg.md/stiri/politic/costiuc-a-adus-o-placinta-la-presedintie-pardidul-democratia-acasa-nu-a-intrat-la-consultari-dar-a-propus-un-premier/",
-      "date": "Fri, 10 Jul 2026 08:34:11 +0000",
-      "summary": "Deputații fracțiunii parlamentare „Democrația Acasă”, în frunte cu liderul formațiunii, Vasile Costiuc, nu au participat la consultările anunțate de președinta Maia Sandu pentru desemnarea unui candidat la funcția de prim-ministru. Totuși, vineri, 10 iulie, aceștia au venit la sediul Președinției, u",
+      "title": "[NewsMaker] (ВИДЕО) Тофан вошел «в ту дверь», PAS крутит законом, Мунтяну обидели, а Злодей-Плахотнюк — вернулся / «Разборка» с Екатериной Дубасовой",
+      "url": "https://newsmaker.md/ru/video-tofan-voshel-v-tu-dver-pas-krutit-zakonom-muntyanu-obideli-a-zlodei-plahotnyuk-vernulsya-razborka-s-ekaterinoi-dubasovoi",
+      "date": "Sat, 11 Jul 2026 07:00:00 +0000",
+      "summary": "Партия PAS определились с кандидатом в премьеры. Им стал активный сторонник либеральных экономических реформ и бизнесмен Василий Тофан. Плахотнюк строит козни партии власти прямо из 13-й тюрьмы, правда в эти отговорки уже никто не верит. Тем временем депутат PAS пришел в бизнес из политики и весьма ",
+      "entities": [
+        "Vladimir Plahotniuc"
+      ],
+      "tags": [],
+      "score": 9.5,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "629eafcbd259875a"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] ULTIMA ORĂ/ Vasile Tofan, desemnat de președinta Maia Sandu în calitate de candidat la funcția de prim-ministru al R. Moldova",
+      "url": "https://www.zdg.md/stiri/ultima-ora-vasile-tofan-desemnat-de-presedinta-maia-sandu-in-calitate-de-candidat-la-functia-de-prim-ministru-al-r-moldova/",
+      "date": "Sat, 11 Jul 2026 08:11:47 +0000",
+      "summary": "Președinta Maia Sandu l-a desemnat pe Vasile Tofan în calitate de candidat la funcția de prim-ministru al R. Moldova. Sandu i-a urat succes, trasând următoarele obiective: „asigurarea îndeplinirii tuturor proceselor pentru ca să realizăm integrarea R. Moldoa în următorii ani, consolidarea reziliențe",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,14 +32,30 @@
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "43d76ab9c729fb10"
+      "uid": "de6b3aa4136326dd"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] «Наша партия» отказалась участвовать в консультациях по поводу кандидата в премьеры: Лучше готовиться к досрочным выборам",
-      "url": "https://newsmaker.md/ru/nasha-partiya-otkazalas-uchastvovat-v-konsultacziyah-po-povodu-kandidata-v-premery-luchshe-gotovitsya-k-dosrochnym-vyboram",
-      "date": "Fri, 10 Jul 2026 06:02:35 +0000",
-      "summary": "«Наша партия» не будет участвовать в консультациях президента Майи Санду по поводу назначения нового премьер-министра. Об этом сообщил 9 июля лидер формирования Ренато Усатый. Политик заявил, что Молдове не нужно новое правительство, снова сформированное правящей партией PAS. «Стране необходимо либо",
+      "title": "[Ziarul de Garda] VIDEO/ Propunerea PAS pentru funcția de premier | Directorul Penitenciarului nr. 9, reținut și plasat în arest | Parlamentul European cere deschiderea negocierilor pentru toate clusterele cu Moldova | Avertismentul MAE | Noutăți din justiție | SĂPTĂMÂNA DE GARDĂ",
+      "url": "https://www.zdg.md/video/video-propunerea-pas-pentru-functia-de-premier-directorul-penitenciarului-nr-9-retinut-si-plasat-in-arest-parlamentul-european-cere-deschiderea-negocierilor-pentru-toate-clusterele-cu-moldova/",
+      "date": "Sat, 11 Jul 2026 06:00:00 +0000",
+      "summary": "După căderea Guvernului Munteanu, președinta Maia Sandu a convocat consultări cu fracțiunile parlamentare pentru desemnarea unui candidat la funcția de prim-ministru. Opoziția parlamentară a boicotat consultările, iar partidul de guvernământ este așteptat la discuții sâmbătă, 11 iulie. Vineri, lider",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "e0bbb59cbe346e2d"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] LIVE Заявления Санду по итогам консультаций по поводу кандидата в премьер-министры",
+      "url": "https://newsmaker.md/ru/live-zayavleniya-sandu-po-itogam-konsultaczii-po-povodu-kandidata-v-premer-ministry",
+      "date": "Sat, 11 Jul 2026 08:00:31 +0000",
+      "summary": "Президент Майя Санду 11 июля выступает с заявлениями по итогам консультаций с&#160;парламентскими формированиями по&#160;поводу кандидатуры нового премьер-министра. NM ведет прямую трансляцию пресс-конференции главы государства. Напомним. 3 июля премьер-министр Александру Мунтяну объявил, что подает",
       "entities": [
         "Maia Sandu"
       ],
@@ -32,14 +64,14 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "2c66e1db6cd11c5d"
+      "uid": "575596032e56360b"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: Гагаузии урезали полномочия, Гросу рассказал о кандидатах в премьеры, веришоара Санду вернула 500 тыс. леев",
-      "url": "https://newsmaker.md/ru/nm-espresso-plahotnyuk-upravlyaet-skandalami-vokrug-pas-komrat-proigral-v-ks-pod-kishinevom-nashli-zagryaznenie-rtutyu",
-      "date": "Fri, 10 Jul 2026 05:08:00 +0000",
-      "summary": "Комрат и Кишинев Конституционный суд (КС), рассмотрев запрос минюста, признал неконституционными некоторые положения закона «О правовом статусе Гагаузии», в том числе полномочия автономии утверждать местный избирательный орган и назначать глав территориальных подразделений силовых структур. Председа",
+      "title": "[NewsMaker] NM Espresso: Молдове вновь «сосватали» премьера-бизнесмена, Костюк устроил протест с плацындой, и с чем PAS пришла к пятилетию у власти",
+      "url": "https://newsmaker.md/ru/nm-espresso-konsultaczii-s-oppozicziei-provalilis-pas-vydvinula-tofana-na-post-premera-i-chto-ne-sdelala-pas-za-5-let",
+      "date": "Sat, 11 Jul 2026 05:08:00 +0000",
+      "summary": "Кандидат в премьеры: консультации Санду, PAS и оппозиция Правящая партия PAS, спустя неделю после отставки Александра Мунтяну, наконец, определилась с кандидатом в премьер-министры. Выбор, в отличие от прошлого раза, не стал неожиданным. Имя бизнесмена Василия Тофана всплывало почти каждый раз, когд",
       "entities": [
         "Maia Sandu"
       ],
@@ -48,29 +80,17 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "726c480a022e3654"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Decizie irevocabilă: Construcția blocurilor de 22 de etaje de pe strada Bucovina, blocată în instanță",
-      "url": "https://www.rise.md/decizie-irevocabila-constructia-blocurilor-de-22-de-etaje-de-pe-strada-bucovina-blocata-in-instanta/",
-      "date": "Thu, 09 Jul 2026 12:14:06 +0000",
-      "summary": "Complexul locativ care ar urma să se construiască în apropiere de Port Mall, pe strada Bucovina 3 din [&#8230;]\nThe post Decizie irevocabilă: Construcția blocurilor de 22 de etaje de pe strada Bucovina, blocată în instanță appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
-      ],
-      "score": 6.0,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "e7779a7400f94f66"
+      "uid": "48340ee581a7c154"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
       32
+    ],
+    [
+      "Vladimir Plahotniuc",
+      3
     ]
   ],
   "errors": [
