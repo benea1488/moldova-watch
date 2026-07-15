@@ -1,60 +1,45 @@
 {
-  "generated": "2026-07-14T08:34:44.243926+00:00",
-  "count": 4,
+  "generated": "2026-07-15T08:41:28.861556+00:00",
+  "count": 5,
   "items": [
     {
-      "source": "OpenSanctions",
-      "title": "Maksim Evgenievich VORONIN [Person]",
-      "url": "https://www.opensanctions.org/entities/NK-CFhrNhxWWFtcoTxG4xyeHX/",
-      "date": "2026-07-13T13:19:33",
-      "summary": "Datasets: EU Council Official Journal Sanctioned Entities;UK FCDO Sanctions List",
+      "source": "MD Press",
+      "title": "[NewsMaker] «Я тоже посмеялся»: Плахотнюк ответил на обвинения PAS в причастности к недавним скандалам",
+      "url": "https://newsmaker.md/ru/ya-toje-posmeyalsya-plahotnyuk-otvetil-na-obvineniya-pas-v-prichastnosti-k-nedavnim-skandalam",
+      "date": "Wed, 15 Jul 2026 08:24:35 +0000",
+      "summary": "Бывший лидер Демократической партии Владимир Плахотнюк, приговоренный к 19 годам лишения свободы по делу о «банковском мошенничестве», отверг обвинения лидеров PAS в причастности к скандалам вокруг правящей партии в последние недели. Он назвал заявления представителей PAS «абсурдом». «Из новостей я ",
       "entities": [
-        "Vladimir Voronin"
+        "Vladimir Plahotniuc"
       ],
-      "tags": [
-        "sanction"
-      ],
-      "score": 11.4,
+      "tags": [],
+      "score": 9.5,
       "meta": {
-        "datasets": [
-          "EU Council Official Journal Sanctioned Entities",
-          "UK FCDO Sanctions List"
-        ],
-        "query": [
-          "Vladimir Voronin"
-        ]
+        "outlet": "NewsMaker"
       },
-      "uid": "5d4b04447be3d990"
-    },
-    {
-      "source": "OpenSanctions",
-      "title": "Maksim Evgenevich VORONIN [Person]",
-      "url": "https://www.opensanctions.org/entities/fr-ga-9071/",
-      "date": "2026-07-13T15:58:01",
-      "summary": "Datasets: French National Asset Freezing System",
-      "entities": [
-        "Vladimir Voronin"
-      ],
-      "tags": [
-        "sanction"
-      ],
-      "score": 11.4,
-      "meta": {
-        "datasets": [
-          "French National Asset Freezing System"
-        ],
-        "query": [
-          "Vladimir Voronin"
-        ]
-      },
-      "uid": "58f55326c90ecc7a"
+      "uid": "402dd6c3c9759ffd"
     },
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] FOTO/ Maia Sandu, după prima participare la reuniunea Coaliției de Voință: „Pacea în Ucraina înseamnă pacea și siguranța noastră”",
-      "url": "https://www.zdg.md/stiri/politic/foto-maia-sandu-dupa-prima-participare-la-reuniunea-coalitiei-de-vointa-pacea-in-ucraina-inseamna-pacea-si-siguranta-noastra/",
-      "date": "Tue, 14 Jul 2026 05:30:02 +0000",
-      "summary": "Președinta R. Moldova, Maia Sandu, a declarat că participarea țării la Coaliția de Voință este „un pas firesc”, reiterând că pacea în Ucraina „înseamnă pacea și siguranța” Republicii Moldova. Mesajul a fost transmis după prima participare a șefei statului la reuniunea formatului internațional, desfă",
+      "title": "[Ziarul de Garda] DOC/ Stoianoglo rămâne achitat în dosarul pentru depășirea atribuțiilor de serviciu. Curtea de Apel: procurorii nu au demonstrat că a fost comisă o infracțiune",
+      "url": "https://www.zdg.md/stiri/stiri-justitie/doc-stoianoglo-ramane-achitat-in-dosarul-pentru-depasirea-atributiilor-de-serviciu-curtea-de-apel-procurorii-nu-au-demonstrat-ca-a-fost-comisa-o-infractiune/",
+      "date": "Wed, 15 Jul 2026 08:11:35 +0000",
+      "summary": "Fostul procuror general al R. Moldova, Alexandr Stoianoglo, actual deputat în Parlamentul R. Moldova, rămâne achitat în dosarul în care era acuzat de depășirea atribuțiilor de serviciu. Curtea de Apel Centru a menținut hotărârea magistraților Judecătoriei Buiucani din februarie 2024 printr-o decizie",
+      "entities": [
+        "Alexandr Stoianoglo"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "52b7683503103a7a"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Președinta Maia Sandu se află într-o vizită la Kiev. Va participa la evenimentele dedicate Zilei Statalității Ucrainei și la Summitul Ucraina – Europa de Sud-Est",
+      "url": "https://www.zdg.md/stiri/politic/presedinta-maia-sandu-se-afla-intr-o-vizita-la-kiev-va-participa-la-evenimentele-dedicate-zilei-statalitatii-ucrainei-si-la-summitul-ucraina-europa-de-sud-est/",
+      "date": "Wed, 15 Jul 2026 05:45:56 +0000",
+      "summary": "Președinta Maia Sandu se află miercuri, 15 iulie, într-o vizită la Kiev, la invitația președintelui Ucrainei, Volodimir Zelenski. Șefa statului va participa la evenimentele dedicate Zilei Statalității Ucrainei și la Summitul Ucraina – Europa de Sud-Est, conform unui comunicat de presă emis de Președ",
       "entities": [
         "Maia Sandu"
       ],
@@ -63,14 +48,14 @@
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "e7395aeecf78cb9b"
+      "uid": "92bc0322865d09d2"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду на встрече «Коалиции желающих» в Париже призвала усилить поддержку Украины и давление на Россию: Это приблизит мир",
-      "url": "https://newsmaker.md/ru/sandu-na-vstreche-koaliczii-jelayushih-v-parije-prizvala-usilit-podderjku-ukrainy-i-davlenie-na-rossiyu-eto-priblizit-mir",
-      "date": "Tue, 14 Jul 2026 06:30:23 +0000",
-      "summary": "Президент Майя Санду 13 июля приняла участие во встрече «коалиции желающих» в Париже по приглашению президента Франции Эммануэля Макрона. На заседании коалиции Санду призвала усилить поддержку Украины и давление на Россию, подчеркнув, что это необходимо для завершения войны. На&#160;встрече Санду по",
+      "title": "[NewsMaker] Санду отправилась в Киев на саммит «Украина — Юго-Восточная Европа». С кем она встретится?",
+      "url": "https://newsmaker.md/ru/sandu-pribyla-v-kiev-dlya-uchastiya-v-sammite-ukraina-yugo-vostochnaya-evropa-i-meropriyatiyah-ko-dnyu-ukrainskoi-gosudarstvennosti",
+      "date": "Wed, 15 Jul 2026 05:44:01 +0000",
+      "summary": "Президент Молдовы Майя Санду 15 июля отправилась с официальным визитом в Киев по приглашению президента Украины Владимира Зеленского. Глава государства примет участие в мероприятиях, посвященных Дню украинской государственности, а также в саммите «Украина&#160;— Юго-Восточная Европа». Как сообщили в",
       "entities": [
         "Maia Sandu"
       ],
@@ -79,17 +64,33 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "ff1af998b4e7e63e"
+      "uid": "4f5c97d4f7568960"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] NM Espresso: к чему Санду призвала «Коалицию желающих», что будет с молдавскими селами, и почему беженец из Украины живет в палатке в «Долине роз»",
+      "url": "https://newsmaker.md/ru/nm-espresso-k-chemu-sandu-prizvala-koaliciyu-zhelayushchih-chto-budet-s-moldavskimi-selami-i-pochemu-bezhenec-iz-ukrainy-zhivet-v-palatke-v-doline-roz",
+      "date": "Wed, 15 Jul 2026 05:08:00 +0000",
+      "summary": "Молдова и ЕС Евросоюз открыл шестой кластер переговоров о вступлении Молдовы и Украины в ЕС. Еврокомиссар Марта Кос назвала этот день «отличным днем для расширения» и подчеркнула, что продвижение зависит от выполнения реформ. Санду и «Коалиция желающих» Президент Майя Санду тем временем, выступая на",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "1ead08468d5f7f28"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      38
+      36
     ],
     [
       "Vladimir Plahotniuc",
-      4
+      5
     ]
   ],
   "errors": []
