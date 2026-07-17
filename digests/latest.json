@@ -1,30 +1,31 @@
 {
-  "generated": "2026-07-16T08:40:33.212911+00:00",
-  "count": 8,
+  "generated": "2026-07-17T08:33:42.925306+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Когда будет правительство Тофана?/ Кто из министров останется?/ Кто мешает России вывести войска?",
-      "url": "https://newsmaker.md/ru/video-kogda-budet-pravitelstvo-tofana-kto-iz-ministrov-ostanetsya-kto-meshaet-rossii-vyvesti-voiska",
-      "date": "Wed, 15 Jul 2026 17:07:08 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска: — «Реформы дают результаты»: ЕС открыл кластер 6 переговоров о вступлении Молдовы— Майю Санду встретили в Киеве букетом в цветах флага Молдовы— Плахотнюк ответил PAS: «Я тоже посмеялся»— Озеров: Россия официально не предлагала от",
+      "title": "[NewsMaker] (ВИДЕО) Додон предостерег Тофана/ Приднестровье считает убытки/ Веришоара Санду вернула зарплату",
+      "url": "https://newsmaker.md/ru/video-dodon-predostereg-tofana-pridnestrove-schitaet-ubytki-verishoara-sandu-vernula-zarplatu",
+      "date": "Thu, 16 Jul 2026 17:06:12 +0000",
+      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска: — В Молдове может подорожать газ. Energocom предлагает новый тариф— Экс-госсекретарь заявила о политическом увольнении. Минэнерго и PAS это отрицают— Игорь Гросу похвалил троих действующих министров. Останутся ли они в правительс",
       "entities": [
-        "Vladimir Plahotniuc",
-        "Maia Sandu"
+        "Igor Dodon",
+        "Maia Sandu",
+        "Energie / Gazprom / Moldovagaz"
       ],
       "tags": [],
-      "score": 11.9,
+      "score": 12.7,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "9a2abe08a036edc1"
+      "uid": "f45498dafafede63"
     },
     {
       "source": "OpenSanctions",
       "title": "Maksim Evgenevich VORONIN [Person]",
-      "url": "https://www.opensanctions.org/entities/mc-freezes-ef3230873e18397ac8b870cf3f5e7136ebec024f/",
-      "date": "2026-07-16T02:02:01",
-      "summary": "Datasets: Monaco National Fund Freezing List",
+      "url": "https://www.opensanctions.org/entities/NK-MENMbrrmU4NaLjx8SBKowe/",
+      "date": "2026-07-17T02:02:01",
+      "summary": "Datasets: French National Asset Freezing System;Monaco National Fund Freezing List",
       "entities": [
         "Vladimir Voronin"
       ],
@@ -34,130 +35,49 @@
       "score": 11.4,
       "meta": {
         "datasets": [
+          "French National Asset Freezing System",
           "Monaco National Fund Freezing List"
         ],
         "query": [
           "Vladimir Voronin"
         ]
       },
-      "uid": "2b12745e0be6e538"
+      "uid": "0f5c21caa8932e8b"
     },
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] ANP, despre hotărârea Curții de Apel în cazul Șepeli: „Casarea încheierilor primei instanțe nu înlătură executarea restului de pedeapsă”",
-      "url": "https://www.zdg.md/stiri/stiri-justitie/anp-despre-hotararea-curtii-de-apel-in-cazul-sepeli-casarea-incheierilor-primei-instante-nu-inlatura-executarea-restului-de-pedeapsa/",
-      "date": "Thu, 16 Jul 2026 08:12:00 +0000",
-      "summary": "UPDATE 11:12 Administrația Națioanlă a Penitenciarelor (ANP) a venit cu explicații referitor la decizia Curții de Apel (CA) Centru în privința lui Nicolae Șepeli, tânărul învinuit de organizarea unor asasinate la comandă în Ucraina, a cărui grațiere a fost revocată de către președinta Maia Sandu. „C",
+      "title": "[NewsMaker] «Милсами» вылетел из еврокубков, «Шериф» вышел во второй раунд квалификации Лиги Европы",
+      "url": "https://newsmaker.md/ru/milsami-vyletel-iz-evrokubkov-sherif-vyshel-vo-vtoroi-raund-kvalifikaczii-ligi-evropy",
+      "date": "Thu, 16 Jul 2026 19:58:34 +0000",
+      "summary": "«Милсами» и «Шериф» 16 июля сыграли ответные матчи первого квалификационного раунда еврокубков. По итогам двухматчевых противостояний «Милсами» завершил выступление в Лиге конференций, а «Шериф» вышел во второй квалификационный раунд Лиги Европы. В&#160;ответном матче в&#160;Оргееве «Милсами» уступи",
       "entities": [
-        "Maia Sandu"
+        "Sheriff (Tiraspol)"
       ],
       "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "fe83953071b65e36"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Anastasia Taburceanu a restituit toți banii încasați de la Moldatsa, anunță Igor Grosu",
-      "url": "https://www.zdg.md/stiri/politic/anastasia-taburceanu-a-restituit-toti-banii-incasati-de-la-moldatsa-anunta-igor-grosu/",
-      "date": "Thu, 16 Jul 2026 07:59:37 +0000",
-      "summary": "Anastasia Taburceanu, verișoara președintei Maia Sandu și fostă angajată a Î.S. Moldatsa, a restituit integral toate sumele încasate de la întreprindere, inclusiv salariul, sporurile și indemnizațiile primite pe durata angajării. Anunțul a fost făcut de președintele Parlamentului, Igor Grosu, în cad",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "c07259daddc163da"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] «Ухожу в знак несогласия». Слусарь объявил об уходе из админсовета Energocom",
-      "url": "https://newsmaker.md/ru/uhoju-v-znak-nesoglasiya-slusar-obyavil-ob-uhode-iz-adminsoveta-energocom",
-      "date": "Thu, 16 Jul 2026 06:23:57 +0000",
-      "summary": "Александр Слусарь, который входит в административный совет Energocom как представитель гражданского общества, сообщил, что подаст заявление об отставке. По его словам, он принял такое решение в знак несогласия с обращением компании в Национальное агентство регулированию в энергетике (НАРЭ) с просьбо",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
+      "score": 8.7,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "1407bf04a7733e28"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Газ в Молдове может подорожать. Какой тариф предлагает Energocom?",
-      "url": "https://newsmaker.md/ru/gaz-v-moldove-mojet-podorojat-kakoi-tarif-predlagaet-energocom",
-      "date": "Thu, 16 Jul 2026 05:53:31 +0000",
-      "summary": "Компания Energocom обратилась в Национальное агентство регулирования в энергетике (НАРЭ) с просьбой повысить тариф на природный газ для конечных потребителей. Компания предлагает увеличить стоимость более чем на 6,5 лея за кубометр. Заявку в НАРЭ Energocom подала 15 июля. Компания предлагает повысит",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "572197ed8960921b"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Госсекретарь министерства энергетики заявила, что пожертвовала деньги семье с восемью детьми, которые получила в Moldovagaz",
-      "url": "https://newsmaker.md/ru/gossekretar-ministerstva-energetiki-zayavila-chto-pojertvovala-dengi-seme-s-vosemyu-detmi-kotorye-poluchila-v-moldovagaz",
-      "date": "Thu, 16 Jul 2026 05:19:15 +0000",
-      "summary": "Государственный секретарь министерства энергетики Каролина Новак сообщила, что пожертвовала свое последнее вознаграждение, которые она получила как член Наблюдательного совета Moldovagaz, где заработала более 2,25 млн леев. Новак пояснила, что перевела деньги неправительственной организации, чтобы п",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "1dc1e684cef691a8"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Vasile Tofan, de la investitor la premier",
-      "url": "https://www.rise.md/articol/vasile-tofan-de-la-investitor-la-premier/",
-      "date": "Thu, 16 Jul 2026 07:07:41 +0000",
-      "summary": "Cu o zi înainte de a împlini vârsta de 44 de ani, Vasile Tofan a fost desemnat de [&#8230;]\nThe post Vasile Tofan, de la investitor la premier appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
-      ],
-      "score": 6.0,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "00d460d92c94f122"
+      "uid": "52d48e8eae411ff7"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      38
+      35
+    ],
+    [
+      "Energie / Gazprom / Moldovagaz",
+      6
     ],
     [
       "Vladimir Plahotniuc",
       6
     ],
     [
-      "Energie / Gazprom / Moldovagaz",
-      5
-    ],
-    [
       "Vladimir Voronin",
-      3
+      4
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
