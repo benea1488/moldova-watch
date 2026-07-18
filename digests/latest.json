@@ -1,83 +1,43 @@
 {
-  "generated": "2026-07-17T08:33:42.925306+00:00",
-  "count": 3,
+  "generated": "2026-07-18T08:16:54.286479+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Додон предостерег Тофана/ Приднестровье считает убытки/ Веришоара Санду вернула зарплату",
-      "url": "https://newsmaker.md/ru/video-dodon-predostereg-tofana-pridnestrove-schitaet-ubytki-verishoara-sandu-vernula-zarplatu",
-      "date": "Thu, 16 Jul 2026 17:06:12 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска: — В Молдове может подорожать газ. Energocom предлагает новый тариф— Экс-госсекретарь заявила о политическом увольнении. Минэнерго и PAS это отрицают— Игорь Гросу похвалил троих действующих министров. Останутся ли они в правительс",
+      "title": "[NewsMaker] (ВИДЕО) «Dream Team» Тофана, травля посла Германии, Плахотнюк «кукловодит» PAS / «Разборка»",
+      "url": "https://newsmaker.md/ru/video-dream-team-tofana-travlya-posla-germanii-plahotnyuk-kuklovodit-pas-razborka",
+      "date": "Sat, 18 Jul 2026 07:07:49 +0000",
+      "summary": "Новое правительство оказалось не таким уж и новым, и теперь все гадают, насколько вообще развязаны руки у Василия Тофана. PAS продолжает переживать серию скандалов, а Плахотнюк смеется над обвинениями партии власти из тюрьмы №13. Заявление посла Германии снова вскрыло старые пороки молдавского общес",
       "entities": [
-        "Igor Dodon",
-        "Maia Sandu",
-        "Energie / Gazprom / Moldovagaz"
+        "Vladimir Plahotniuc"
       ],
       "tags": [],
-      "score": 12.7,
+      "score": 9.5,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "f45498dafafede63"
-    },
-    {
-      "source": "OpenSanctions",
-      "title": "Maksim Evgenevich VORONIN [Person]",
-      "url": "https://www.opensanctions.org/entities/NK-MENMbrrmU4NaLjx8SBKowe/",
-      "date": "2026-07-17T02:02:01",
-      "summary": "Datasets: French National Asset Freezing System;Monaco National Fund Freezing List",
-      "entities": [
-        "Vladimir Voronin"
-      ],
-      "tags": [
-        "sanction"
-      ],
-      "score": 11.4,
-      "meta": {
-        "datasets": [
-          "French National Asset Freezing System",
-          "Monaco National Fund Freezing List"
-        ],
-        "query": [
-          "Vladimir Voronin"
-        ]
-      },
-      "uid": "0f5c21caa8932e8b"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] «Милсами» вылетел из еврокубков, «Шериф» вышел во второй раунд квалификации Лиги Европы",
-      "url": "https://newsmaker.md/ru/milsami-vyletel-iz-evrokubkov-sherif-vyshel-vo-vtoroi-raund-kvalifikaczii-ligi-evropy",
-      "date": "Thu, 16 Jul 2026 19:58:34 +0000",
-      "summary": "«Милсами» и «Шериф» 16 июля сыграли ответные матчи первого квалификационного раунда еврокубков. По итогам двухматчевых противостояний «Милсами» завершил выступление в Лиге конференций, а «Шериф» вышел во второй квалификационный раунд Лиги Европы. В&#160;ответном матче в&#160;Оргееве «Милсами» уступи",
-      "entities": [
-        "Sheriff (Tiraspol)"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "52d48e8eae411ff7"
+      "uid": "aa4a35d328bc953c"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      35
-    ],
-    [
-      "Energie / Gazprom / Moldovagaz",
-      6
+      33
     ],
     [
       "Vladimir Plahotniuc",
-      6
+      7
+    ],
+    [
+      "Energie / Gazprom / Moldovagaz",
+      5
     ],
     [
       "Vladimir Voronin",
       4
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
