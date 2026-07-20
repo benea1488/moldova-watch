@@ -1,28 +1,60 @@
 {
-  "generated": "2026-07-19T08:42:26.534975+00:00",
-  "count": 1,
+  "generated": "2026-07-20T09:42:28.268108+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Partidul „Mișcarea Respect Moldova” și-a ales conducerea. Noua funcție a lui Eugeniu Nichiforciuc și mesajul lui Sorin Grindeanu",
-      "url": "https://www.zdg.md/stiri/politic/partidul-miscarea-respect-moldova-si-a-ales-conducerea-noua-functie-a-lui-eugeniu-nichiforciuc-si-mesajul-lui-sorin-grindeanu/",
-      "date": "Sun, 19 Jul 2026 07:30:59 +0000",
-      "summary": "Partidul „Mișcarea Respect Moldova” și-a ales o nouă conducere. Veaceslav Burlac, fost membru al Partidului Democrat condus de oligarhul condamnat Vladimir Plahotniuc și, până acum, președinte interimar al formațiunii, a preluat oficial funcția de președinte. Fondatorul partidului, ex-deputatul Euge",
+      "title": "[Ziarul de Garda] „Moldova poate deveni o poartă de intrare în UE pentru companiile indiene”. Principalele declarații ale șefelor de stat Maia Sandu și Droupadi Murmu",
+      "url": "https://www.zdg.md/stiri/politic/moldova-poate-deveni-o-poarta-de-intrare-in-ue-pentru-companiile-indiene-principalele-declaratii-ale-sefelor-de-stat-maia-sandu-si-droupadi-murmu/",
+      "date": "Mon, 20 Jul 2026 08:59:15 +0000",
+      "summary": "Republica Moldova și India își propun să extindă cooperarea economică și educațională, iar Chișinăul mizează pe atragerea investițiilor indiene și creșterea exporturilor pe această piață. Declarațiile au fost făcute de președinta Maia Sandu și președinta Indiei, Droupadi Murmu, în cadrul unei confer",
       "entities": [
-        "Vladimir Plahotniuc"
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 9.5,
+      "score": 7.9,
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "7a1310f66c1c3862"
+      "uid": "b5d83c2765687b3e"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Premieră diplomatică: Președinta Indiei efectuează prima vizită oficială în R. Moldova. Popșoi: „Țara noastră este pregătită să valorifice oportunitățile de colaborare”",
+      "url": "https://www.zdg.md/stiri/politic/premiera-diplomatica-presedinta-indiei-efectueaza-prima-vizita-oficiala-in-r-moldova-popsoi-tara-noastra-este-pregatita-sa-valorifice-oportunitatile-de-colaborare/",
+      "date": "Mon, 20 Jul 2026 07:24:03 +0000",
+      "summary": "Viceprim-ministrul, ministrul afacerilor externe, Mihai Popșoi, a avut o întrevedere cu președinta Republicii India, Droupadi Murmu, aflată în prima vizită oficială în R. Moldova, la invitația președintei Maia Sandu. Este prima vizită a unui președinte al Republicii India în țara noastră de la stabi",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "97e22d7688aff866"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Paradisul fiscal: cum numerarul din Transnistria ocolea bugetul Moldovei",
+      "url": "https://www.rise.md/paradisul-fiscal-cum-numerarul-din-transnistria-ocolea-bugetul-moldovei/",
+      "date": "Mon, 20 Jul 2026 07:01:24 +0000",
+      "summary": "Republica Moldova își propune ca, de la 1 august, să înceapă integrarea graduală a companiilor din regiunea transnistreană [&#8230;]\nThe post Paradisul fiscal: cum numerarul din Transnistria ocolea bugetul Moldovei appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "5a4980b5aabf7ebf"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      31
+      30
     ],
     [
       "Vladimir Plahotniuc",
@@ -37,7 +69,5 @@
       4
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
