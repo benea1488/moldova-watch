@@ -1,13 +1,13 @@
 {
-  "generated": "2026-07-20T09:42:28.268108+00:00",
-  "count": 3,
+  "generated": "2026-07-21T09:09:38.487107+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] „Moldova poate deveni o poartă de intrare în UE pentru companiile indiene”. Principalele declarații ale șefelor de stat Maia Sandu și Droupadi Murmu",
-      "url": "https://www.zdg.md/stiri/politic/moldova-poate-deveni-o-poarta-de-intrare-in-ue-pentru-companiile-indiene-principalele-declaratii-ale-sefelor-de-stat-maia-sandu-si-droupadi-murmu/",
-      "date": "Mon, 20 Jul 2026 08:59:15 +0000",
-      "summary": "Republica Moldova și India își propun să extindă cooperarea economică și educațională, iar Chișinăul mizează pe atragerea investițiilor indiene și creșterea exporturilor pe această piață. Declarațiile au fost făcute de președinta Maia Sandu și președinta Indiei, Droupadi Murmu, în cadrul unei confer",
+      "title": "[Ziarul de Garda] LIVE/ Ședința Parlamentului. Premierul desemnat de Maia Sandu urmează să ceara votul de încredere de la deputați",
+      "url": "https://www.zdg.md/stiri/live-sedinta-parlamentului-premierul-desemnat-de-maia-sandu-urmeaza-sa-ceara-votul-de-incredere-de-la-deputati/",
+      "date": "Tue, 21 Jul 2026 08:09:36 +0000",
+      "summary": "Legislativul se reunește marți, 21 iulie, în ședință. Candidatul desemnat de președinta Maia Sandu pentru funcția de prim-ministru, Vasile Tofan, își va prezenta echipa și programul de guvernare, solicitând votul de încredere al Parlamentului. „Economie europeană, stat eficient” este denumirea Progr",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,45 +16,29 @@
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "b5d83c2765687b3e"
+      "uid": "c4da78daad95ae79"
     },
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Premieră diplomatică: Președinta Indiei efectuează prima vizită oficială în R. Moldova. Popșoi: „Țara noastră este pregătită să valorifice oportunitățile de colaborare”",
-      "url": "https://www.zdg.md/stiri/politic/premiera-diplomatica-presedinta-indiei-efectueaza-prima-vizita-oficiala-in-r-moldova-popsoi-tara-noastra-este-pregatita-sa-valorifice-oportunitatile-de-colaborare/",
-      "date": "Mon, 20 Jul 2026 07:24:03 +0000",
-      "summary": "Viceprim-ministrul, ministrul afacerilor externe, Mihai Popșoi, a avut o întrevedere cu președinta Republicii India, Droupadi Murmu, aflată în prima vizită oficială în R. Moldova, la invitația președintei Maia Sandu. Este prima vizită a unui președinte al Republicii India în țara noastră de la stabi",
+      "title": "[NewsMaker] Санду поздравила нового премьера Великобритании: «С нетерпением жду нашего сотрудничества и вашего визита в Кишинев»",
+      "url": "https://newsmaker.md/ru/sandu-pozdravila-novogo-premera-velikobritanii-s-neterpeniem-jdu-nashego-sotrudnichestva-i-vashego-vizita-v-kishinev",
+      "date": "Tue, 21 Jul 2026 08:56:15 +0000",
+      "summary": "Президент Молдовы Майя Санду поздравила Энди Бернема с вступлением в должность премьер-министра Великобритании. Глава государства подчеркнула, что рассчитывает на сотрудничество с новым британским премьером и надеется принять его с визитом в Кишиневе. В публикации в социальных сетях Майя Санду поздр",
       "entities": [
         "Maia Sandu"
       ],
       "tags": [],
       "score": 7.9,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "NewsMaker"
       },
-      "uid": "97e22d7688aff866"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Paradisul fiscal: cum numerarul din Transnistria ocolea bugetul Moldovei",
-      "url": "https://www.rise.md/paradisul-fiscal-cum-numerarul-din-transnistria-ocolea-bugetul-moldovei/",
-      "date": "Mon, 20 Jul 2026 07:01:24 +0000",
-      "summary": "Republica Moldova își propune ca, de la 1 august, să înceapă integrarea graduală a companiilor din regiunea transnistreană [&#8230;]\nThe post Paradisul fiscal: cum numerarul din Transnistria ocolea bugetul Moldovei appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
-      ],
-      "score": 6.0,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "5a4980b5aabf7ebf"
+      "uid": "061f3e9cc05d41ae"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      30
+      29
     ],
     [
       "Vladimir Plahotniuc",
