@@ -1,29 +1,29 @@
 {
-  "generated": "2026-07-22T09:07:32.897826+00:00",
-  "count": 5,
+  "generated": "2026-07-23T09:07:20.820904+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Новый министр сельского хозяйства отверг обвинения в связях с Демпартией: «Фейки и абсурд»",
-      "url": "https://newsmaker.md/ru/video-novyi-ministr-selskogo-hozyaistva-otverg-obvineniya-v-svyazyah-s-dempartiei-feiki-i-absurd",
-      "date": "Wed, 22 Jul 2026 07:28:56 +0000",
-      "summary": "Новый министр сельского хозяйства Раду Мустяцэ отверг обвинения в том, что он связан Демократической партией, которую возглавлял осужденный олигарх Владимир Плахотнюк. В комментарии NewsMaker Мустяцэ назвал появившуюся в сети информацию «фейками и абсурдом» и добавил, что стоит оценивать его по рабо",
+      "title": "[Ziarul de Garda] Cum comentează Radu Musteața fotografia sa cu Nae Simion Pleșca, care ar fi fost făcută la o ședință a PDM-ului din perioada Plahotniuc?",
+      "url": "https://www.zdg.md/stiri/cum-comenteaza-radu-musteata-fotografia-sa-cu-nae-simion-plesca-care-ar-fi-fost-facuta-la-o-sedinta-a-partidului-pdm/",
+      "date": "Thu, 23 Jul 2026 06:18:39 +0000",
+      "summary": "Radu Musteața, noul ministru al Agriculturii și Industriei Alimentare, ar fi făcut parte din Partidul Democrat din Moldova (PDM). O fotografie care ar sugera acest lucru a fost făcută publică la emisiunea Secretele Puterii de la Jurnal TV din 22 iulie. Joi, 23 iulie, Musteața a venit cu precizări cu",
       "entities": [
         "Vladimir Plahotniuc"
       ],
       "tags": [],
       "score": 9.5,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "366b33161519bf32"
+      "uid": "7d9673f9d959b1a8"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду на церемонии принесения присяги нового правительства: «В парламенте мы услышали большие обещания. Просим вас сдержать слово»",
-      "url": "https://newsmaker.md/ru/sandu-na-czeremonii-vstupleniya-v-doljnost-pravitelstva-tofana-v-parlamente-my-uslyshali-bolshie-obeshaniya-prosim-vas-sderjat-slovo",
-      "date": "Wed, 22 Jul 2026 08:39:36 +0000",
-      "summary": "Приоритетом нового правительства во главе с Василе Тофаном должны стать евроинтеграция и выполнение обязательств, взятых перед парламентом. Об этом 22 июля сообщила президент Майя Санду на церемонии принесения присяги новым кабинетом министров. Василе Тофан и члены его правительства принесли присягу",
+      "title": "[NewsMaker] NM Espresso: Тофан дал «семь рекомендаций» министрам, Комрат пригласил нового премьера в Гагаузию, Чебан попросил Зеленского о помощи",
+      "url": "https://newsmaker.md/ru/nm-espresso-tofan-prines-prisyagu-neopravdanno-vysokie-zarplaty-ogranichat-i-kogda-povysyat-pensionnyi-vozrast",
+      "date": "Thu, 23 Jul 2026 05:08:00 +0000",
+      "summary": "Правительство Тофана: присяга, поздравления Члены нового кабинета министров Молдовы во главе с Василе Тофаном принесли присягу при вступлении в должность. Президент Майя Санду, подписала указ о назначении нового правительства и призвала его сдержать свои обещания и «уделить первоочередное внимание» ",
       "entities": [
         "Maia Sandu"
       ],
@@ -32,74 +32,28 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "8e91e792bb6daf6d"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] В Молдове официально назначили новое правительство. Санду подписала указ",
-      "url": "https://newsmaker.md/ru/v-moldove-oficzialno-naznachili-novoe-pravitelstvo-sandu-podpisala-ukaz",
-      "date": "Wed, 22 Jul 2026 08:02:20 +0000",
-      "summary": "В Молдове официально приступило к работе новое правительство. Президент Майя Санду 22 июля подписала указ о назначении кабинета министров во главе с Василе Тофаном. 692-n by EcaterinaNaconecinîi *** Президент Майя Санду 11 июля выдвинула предпринимателя Василе Тофана на должность премьер-министра. Э",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "1fed485fc91e151d"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Тофан рассказал, когда получил предложение возглавить правительство и ставил ли PAS какие-либо условия",
-      "url": "https://newsmaker.md/ru/vasile-tofan-rasskazal-kogda-poluchil-predlojenie-vozglavit-pravitelstvo-i-stavil-li-pas-kakie-libo-usloviya",
-      "date": "Wed, 22 Jul 2026 05:47:06 +0000",
-      "summary": "Премьер-министр Василе Тофан вечером 21 июля в эфире ProTV сообщил, что предложение возглавить правительство он получил от президента Майи Санду через несколько дней после отставки бывшего премьера Александру Мунтяну. Отвечая на вопрос, выдвигал ли он какие-либо условия партии «Действие и солидарнос",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "2de94b4715b37cbb"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (LIVE) Правительство Василе Тофана приносит присягу",
-      "url": "https://newsmaker.md/ru/live-pravitelstvo-vasile-tofana-prinosit-prisyagu",
-      "date": "Wed, 22 Jul 2026 05:12:14 +0000",
-      "summary": "Премьер-министр Василе Тофан и члены его кабинета министров приносят присягу при вступлении в должность. Церемония проходит в здании администрации президента в присутствии президента Майи Санду и председателя парламента Игоря Гросу. Напомним, что парламент Молдовы 21 июля выразил вотум доверия и утв",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "593f8481a9947a3d"
+      "uid": "7c89005559ac147c"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      32
+      31
     ],
     [
       "Vladimir Plahotniuc",
-      9
-    ],
-    [
-      "Energie / Gazprom / Moldovagaz",
-      5
+      8
     ],
     [
       "Vladimir Voronin",
       4
+    ],
+    [
+      "Energie / Gazprom / Moldovagaz",
+      4
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
