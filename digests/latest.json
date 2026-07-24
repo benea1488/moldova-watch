@@ -1,59 +1,160 @@
 {
-  "generated": "2026-07-23T09:07:20.820904+00:00",
-  "count": 2,
+  "generated": "2026-07-24T09:04:05.136549+00:00",
+  "count": 8,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Cum comentează Radu Musteața fotografia sa cu Nae Simion Pleșca, care ar fi fost făcută la o ședință a PDM-ului din perioada Plahotniuc?",
-      "url": "https://www.zdg.md/stiri/cum-comenteaza-radu-musteata-fotografia-sa-cu-nae-simion-plesca-care-ar-fi-fost-facuta-la-o-sedinta-a-partidului-pdm/",
-      "date": "Thu, 23 Jul 2026 06:18:39 +0000",
-      "summary": "Radu Musteața, noul ministru al Agriculturii și Industriei Alimentare, ar fi făcut parte din Partidul Democrat din Moldova (PDM). O fotografie care ar sugera acest lucru a fost făcută publică la emisiunea Secretele Puterii de la Jurnal TV din 22 iulie. Joi, 23 iulie, Musteața a venit cu precizări cu",
+      "title": "[NewsMaker] NM Espresso: тариф на газ будут пересматривать регулярно, в MoldATSA прошли новые обыски, вокруг главы минсельхоза разгорелся скандал",
+      "url": "https://newsmaker.md/ru/nm-espresso-tarif-na-gaz-mogut-peresmatrivat-kajdye-tri-mesyacza-vokrug-novogo-ministra-razgorelsya-skandal-v-moldatsa-proshli-novye-obyski",
+      "date": "Fri, 24 Jul 2026 05:08:00 +0000",
+      "summary": "Газ: тариф, Тофан, Додон Министр энергетики Дорин Жунгиету предложил пересматривать тариф на газ раз в три месяца, чтобы потребители быстрее ощущали не только повышение, но и «снижение цен». В Moldovagaz тем временем поддержали предложение Жунгиету объединить газораспределительные предприятия в одну",
       "entities": [
-        "Vladimir Plahotniuc"
+        "Igor Dodon",
+        "Energie / Gazprom / Moldovagaz"
       ],
       "tags": [],
-      "score": 9.5,
+      "score": 10.3,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "NewsMaker"
       },
-      "uid": "7d9673f9d959b1a8"
+      "uid": "e0be30546e13893d"
+    },
+    {
+      "source": "OpenSanctions",
+      "title": "Bettina Tauber [Person]",
+      "url": "https://www.opensanctions.org/entities/Q97495445/",
+      "date": "2026-07-24T00:13:26",
+      "summary": "Datasets: Wikidata Persons in Relevant Categories;Wikidata Politically Exposed Persons",
+      "entities": [
+        "Marina Tauber"
+      ],
+      "tags": [],
+      "score": 10.2,
+      "meta": {
+        "datasets": [
+          "Wikidata Persons in Relevant Categories",
+          "Wikidata Politically Exposed Persons"
+        ],
+        "query": [
+          "Marina Tauber"
+        ]
+      },
+      "uid": "fcfdbed834a082b4"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: Тофан дал «семь рекомендаций» министрам, Комрат пригласил нового премьера в Гагаузию, Чебан попросил Зеленского о помощи",
-      "url": "https://newsmaker.md/ru/nm-espresso-tofan-prines-prisyagu-neopravdanno-vysokie-zarplaty-ogranichat-i-kogda-povysyat-pensionnyi-vozrast",
-      "date": "Thu, 23 Jul 2026 05:08:00 +0000",
-      "summary": "Правительство Тофана: присяга, поздравления Члены нового кабинета министров Молдовы во главе с Василе Тофаном принесли присягу при вступлении в должность. Президент Майя Санду, подписала указ о назначении нового правительства и призвала его сдержать свои обещания и «уделить первоочередное внимание» ",
+      "title": "[NewsMaker] «Шериф» и «Петрокуб» проиграли, «Зимбру» упустил победу в конце матча. Как сыграли молдавские клубы в еврокубках",
+      "url": "https://newsmaker.md/ru/sherif-i-petrokub-proigrali-zimbru-upustil-pobedu-kak-sygrali-moldavskie-kluby-v-evrokubkah",
+      "date": "Thu, 23 Jul 2026 20:31:06 +0000",
+      "summary": "Три молдавских клуба 23 июля провели первые матчи второго квалификационного раунда еврокубков. «Шериф» потерпел разгромное поражение, «Петрокуб» уступил на выезде, а «Зимбру» пропустил решающий гол в конце встречи и упустил победу. «Шериф» на&#160;своем поле крупно проиграл «Маккаби» (Тель-Авив) со&",
+      "entities": [
+        "Sheriff (Tiraspol)"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "75155601c41f1fbb"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] (ВИДЕО) Новый министр готов к отставке/ Венгрия блокирует Молдову в ЕС?/ Гросу не знал о зарплатах?",
+      "url": "https://newsmaker.md/ru/vid",
+      "date": "Thu, 23 Jul 2026 17:35:26 +0000",
+      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Rolls-Royce, биткоин и внушительная зарплата. Состояние бывшего главы Moldatsa— Первое заседание, первые оценки работы премьера Тофана— На сколько и почему дорожает газ в Молдове: НАРЭ представило новые расчеты— Красносельский в",
+      "entities": [
+        "Vadim Krasnoselsky"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "f08870334b491b81"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Alexandru Gasnaș, eliberat din funcția de consilier al președintei în domeniul sănătății",
+      "url": "https://www.zdg.md/stiri/alexandru-gasnas-eliberat-din-functia-de-consilier-al-presedintei-in-domeniul-sanatatii/",
+      "date": "Fri, 24 Jul 2026 07:39:37 +0000",
+      "summary": "Proaspăt numit în funcția de ministru al Sănătății în Guvernul Tofan, Alexandru Gasnaș a fost eliberat din funcția de consilier al președintei Maia Sandu în domeniul sănătății, printr-un decret semnat la 23 iulie 2026, la două zile de la învestirea noului Executiv. Potrivit decretului, eliberarea di",
       "entities": [
         "Maia Sandu"
       ],
       "tags": [],
       "score": 7.9,
       "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "0d2dc70b182c6746"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Глава Energocom о высоких зарплатах в госсекторе: «Людей всегда интересует, сколько зарабатывает тот или иной человек»",
+      "url": "https://newsmaker.md/ru/glava-energocom-o-vysokih-zarplatah-lyudei-vsegda-interesuet-skolko-zarabatyvaet-tot-ili-inoi-chelovek-chto-zadeklariroval-buzatu",
+      "date": "Fri, 24 Jul 2026 08:29:41 +0000",
+      "summary": "Глава Energocom Евгений Бузату, который в прошлом году получал в среднем около 100 тыс. леев в месяц с учетом зарплаты, надбавок и премий, прокомментировал дискуссии о высоких доходах в госсекторе. В эфире программы «Есть вопросы» на NewsMaker он подчеркнул, что «не надо смотреть на чужие расходы, н",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "7c89005559ac147c"
+      "uid": "d3ea5d689f6640c5"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] «Все знали, что цена рано или поздно вырастет». Глава Energocom о резком повышении тарифа на газ, прогнозах, конфликте со Слусарем и зарплатах",
+      "url": "https://newsmaker.md/ru/vse-znali-chto-czena-rano-ili-pozdno-vyrastet-glava-energocom-o-rezkom-povyshenii-tarifa-na-gaz-prognozah-konflikte-so-slusarem-i-zarplatah",
+      "date": "Fri, 24 Jul 2026 06:30:00 +0000",
+      "summary": "Почему тариф на газ в Молдове хотят повысить сразу на 40%? Как вообще Energocom рассчитывает тариф и прогнозирует закупочные цены на полгода вперед? Какие на предприятии зарплаты? И почему Energocom стал закупать газ на зиму только сейчас, когда цены на рынке выросли? Об этом и не только NM поговори",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "262bee7e58d4871c"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Afacerea din Moldova a unui oligarh rus, ajunsă în insolvență",
+      "url": "https://www.rise.md/afacerea-din-moldova-a-unui-oligarh-rus-ajunsa-in-insolventa/",
+      "date": "Fri, 24 Jul 2026 07:48:34 +0000",
+      "summary": "Compania din Republica Moldova a lui Andrey Melnichenko, un oligarh rus aflat sub sancțiuni, a intrat oficial în [&#8230;]\nThe post Afacerea din Moldova a unui oligarh rus, ajunsă în insolvență appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "f7974973040bf6e5"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      31
+      29
     ],
     [
       "Vladimir Plahotniuc",
       8
     ],
     [
-      "Vladimir Voronin",
-      4
+      "Energie / Gazprom / Moldovagaz",
+      7
     ],
     [
-      "Energie / Gazprom / Moldovagaz",
+      "Vladimir Voronin",
       4
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
