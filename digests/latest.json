@@ -1,28 +1,28 @@
 {
-  "generated": "2026-07-25T08:30:12.022691+00:00",
+  "generated": "2026-07-26T08:45:02.613132+00:00",
   "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Кто виноват в росте тарифа на газ? Как поспорили власти, Moldovagaz и НАРЭ",
-      "url": "https://newsmaker.md/ru/kto-vinovat-v-roste-tarifa-na-gaz-kak-posporili-vlasti-moldovagaz-i-nare",
-      "date": "Sat, 25 Jul 2026 06:00:00 +0000",
-      "summary": "Возможное повышение тарифа на газ для бытовых потребителей более чем на 40% — с 14,42 до 20,30 лея за кубометр — вызвало спор не только о цене самого газа. В центре дискуссии оказался вопрос о том, почему растет конечный тариф и можно ли сделать его ниже за счет внутренних расходов. Власти считают, ",
+      "title": "[Ziarul de Garda] Fratele lui Igor Dodon rămâne inclus în lista SIS, drept asociat al lui Igor Chaika",
+      "url": "https://www.zdg.md/stiri/fratele-lui-igor-dodon-ramane-inclus-in-lista-sis-drept-asociat-al-lui-igor-chaika/",
+      "date": "Sat, 25 Jul 2026 10:23:02 +0000",
+      "summary": "Alexandru Dodon, frate al lui Igor Dodon, rămâne inclus în lista întocmită de Serviciul de Informații și Securitate (SIS), drept asociat al omului de afaceri rus Igor Chaika, inclus în inclus, din octombrie 2022,&#160;în lista cu sancțiuni aplicate de Statele Unite ale Americii. Decizia a fost pronu",
       "entities": [
-        "Energie / Gazprom / Moldovagaz"
+        "Igor Dodon"
       ],
       "tags": [],
-      "score": 6.1,
+      "score": 8.7,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "63d76ef21df7d5f6"
+      "uid": "5a52173972001fde"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      25
+      21
     ],
     [
       "Energie / Gazprom / Moldovagaz",
@@ -35,9 +35,11 @@
     [
       "Vladimir Voronin",
       4
+    ],
+    [
+      "Igor Dodon",
+      3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
