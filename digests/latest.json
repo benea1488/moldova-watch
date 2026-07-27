@@ -1,28 +1,11 @@
 {
-  "generated": "2026-07-26T08:45:02.613132+00:00",
-  "count": 1,
-  "items": [
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Fratele lui Igor Dodon rămâne inclus în lista SIS, drept asociat al lui Igor Chaika",
-      "url": "https://www.zdg.md/stiri/fratele-lui-igor-dodon-ramane-inclus-in-lista-sis-drept-asociat-al-lui-igor-chaika/",
-      "date": "Sat, 25 Jul 2026 10:23:02 +0000",
-      "summary": "Alexandru Dodon, frate al lui Igor Dodon, rămâne inclus în lista întocmită de Serviciul de Informații și Securitate (SIS), drept asociat al omului de afaceri rus Igor Chaika, inclus în inclus, din octombrie 2022,&#160;în lista cu sancțiuni aplicate de Statele Unite ale Americii. Decizia a fost pronu",
-      "entities": [
-        "Igor Dodon"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "5a52173972001fde"
-    }
-  ],
+  "generated": "2026-07-27T10:15:41.419965+00:00",
+  "count": 0,
+  "items": [],
   "momentum": [
     [
       "Maia Sandu",
-      21
+      19
     ],
     [
       "Energie / Gazprom / Moldovagaz",
@@ -30,7 +13,7 @@
     ],
     [
       "Vladimir Plahotniuc",
-      7
+      6
     ],
     [
       "Vladimir Voronin",
