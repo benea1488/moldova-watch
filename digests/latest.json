@@ -1,28 +1,82 @@
 {
-  "generated": "2026-07-27T10:15:41.419965+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-07-28T09:15:24.900639+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "OpenSanctions",
+      "title": "Unibank International, Inc. [Company]",
+      "url": "https://www.opensanctions.org/entities/us-fincen-8010cae42567cd1f28c3f1751c8f57278905dd24/",
+      "date": "2026-07-27T19:05:05",
+      "summary": "Datasets: US FinCEN 311 and 9714 Special Measures",
+      "entities": [
+        "Unibank"
+      ],
+      "tags": [
+        "sanction"
+      ],
+      "score": 11.4,
+      "meta": {
+        "datasets": [
+          "US FinCEN 311 and 9714 Special Measures"
+        ],
+        "query": [
+          "Unibank"
+        ]
+      },
+      "uid": "7322c7c6567abfd2"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Doi candidați au fost admiși în etapa următoare a concursului pentru funcția de director general al S.A. „Energocom”",
+      "url": "https://www.zdg.md/stiri/doi-candidati-au-fost-admisi-in-etapa-urmatoare-a-concursului-pentru-functia-de-director-general-al-s-a-energocom/",
+      "date": "Tue, 28 Jul 2026 05:58:56 +0000",
+      "summary": "Consiliul S.A. „Energocom” a selectat doi candidați pentru etapa următoare a concursului pentru funcția de director general al companiei, a anunțat Agenția Proprietății Publice (APP). Astfel, actualul director interimar al companiei, Eugeniu Buzatu și omul de afaceri Sergiu Ceban sunt cei doi candid",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "c3e3572c10dba233"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Dr. Serebrova: datorii de milioane la stat, iar ancheta morții – suspendată",
+      "url": "https://www.rise.md/dr-serebrova-datorii-de-milioane-la-stat-iar-ancheta-mortii-suspendata/",
+      "date": "Tue, 28 Jul 2026 06:22:14 +0000",
+      "summary": "Compania Irynei Borodkyna, cunoscută drept Dr. Serebrova, în salonul căreia anul trecut a murit o femeie, a fost [&#8230;]\nThe post Dr. Serebrova: datorii de milioane la stat, iar ancheta morții – suspendată appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "4c1169a695d631e3"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
-      19
+      17
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      8
+      9
     ],
     [
       "Vladimir Plahotniuc",
       6
     ],
     [
-      "Vladimir Voronin",
-      4
-    ],
-    [
       "Igor Dodon",
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
