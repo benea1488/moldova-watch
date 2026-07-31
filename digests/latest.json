@@ -1,92 +1,58 @@
 {
-  "generated": "2026-07-30T09:12:48.372307+00:00",
-  "count": 4,
+  "generated": "2026-07-31T09:24:20.849088+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Если не Гуцул, то кто? Что будет с Гагаузией и выборами? Интервью NM с главой НСГ Валентином Гайдаржи",
-      "url": "https://newsmaker.md/ru/video-kishinev-slomal-gagauziyu-chto-budet-s-avtonomiei-i-vyborami-intervyu-nm-s-glavoi-nsg-valentinom-gaidarji",
-      "date": "Wed, 29 Jul 2026 15:34:40 +0000",
-      "summary": "Что происходит в Гагаузии? Удалось ли Комрату и Кишиневу найти компромисс по изменениям в Избирательный кодекс? Какую роль в разрешении электорального кризиса в автономии играет президент Майя Санду? Когда пройдут выборы в Народное собрание Гагаузии и по каким правилам? Что с выборами башкана? Остае",
+      "title": "[NewsMaker] В еврокубках остался только «Шериф». Как молдавские клубы сыграли в ответных матчах",
+      "url": "https://newsmaker.md/ru/v-evrokubkah-ostalsya-tolko-sherif-kak-moldavskie-kluby-sygrali-v-otvetnyh-matchah",
+      "date": "Thu, 30 Jul 2026 19:08:36 +0000",
+      "summary": "Три молдавских клуба 30 июля провели ответные матчи второго квалификационного раунда еврокубков. «Шериф» снова уступил «Маккаби» и перешел в Лигу конференций, а «Зимбру» и «Петрокуб» завершили выступление в турнире. «Шериф» в&#160;Батуми уступил тель-авивскому «Маккаби»&#160;— 1:0. Израильский клуб ",
       "entities": [
-        "Maia Sandu",
-        "Evghenia Gutul"
+        "Sheriff (Tiraspol)"
       ],
       "tags": [],
-      "score": 11.1,
+      "score": 8.7,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "af25fb281e6eed98"
+      "uid": "eca72dcaeee6f69e"
     },
     {
-      "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: бизнесмены жалуются Тофану, Санду хотят отстранить от должности, правительство сэкономит на концерте",
-      "url": "https://newsmaker.md/ru/nm-espresso-biznesmeny-jaluyutsya-tofanu-sandu-hotyat-otstranit-ot-doljnosti-v-bolnicze-shtefan-vode-zavelis-lyagushki",
-      "date": "Thu, 30 Jul 2026 05:08:00 +0000",
-      "summary": "Санду: День Конституции, Кику Президент Майя Санду поздравила граждан с 3очередной годовщиной принятия Конституции — «договором между поколениями», закрепляющим европейский курс Молдовы. Тем временем лидер Партии развития и объединения, депутат Ион Кику сообщил, что готовит вместе с другими оппозици",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "e0c129f6e4b5715b"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Бывшего руководителя Banca de Economii задержали по делу об отмывании денег",
-      "url": "https://newsmaker.md/ru/byvshego-rukovoditelya-banca-de-economii-zaderjali-po-delu-ob-otmyvanii-deneg",
-      "date": "Wed, 29 Jul 2026 16:45:09 +0000",
-      "summary": "Сотрудники Национального центра борьбы с коррупцией (НЦБК) задержали на 72 часа бывшего руководителя Banca de Economii по делу об отмывании денег. Эту информацию подтвердила NM пресс-секретарь НЦБК Ина Волощук. По&#160;данным TVR Moldova, речь идет о&#160;Григории Гачкевиче, которого обвиняют в&#160",
-      "entities": [
-        "Banca de Economii"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "01e974751715aa8c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Russia Today din Moldova continuă să primească milioane din Rusia",
-      "url": "https://www.rise.md/russia-today-din-moldova-continua-sa-primeasca-milioane-din-rusia/",
-      "date": "Thu, 30 Jul 2026 05:52:50 +0000",
-      "summary": "Filiala din Republica Moldova a holdingului media Rossiya Segodnya (Russia Today), canalul principal de propagandă și dezinformare al [&#8230;]\nThe post Russia Today din Moldova continuă să primească milioane din Rusia appeared first on Rise Moldova.",
+      "source": "OpenSanctions",
+      "title": "Andrij Plachotnjuk [Person]",
+      "url": "https://www.opensanctions.org/entities/Q105738627/",
+      "date": "2026-07-30T14:06:35",
+      "summary": "Datasets: Foreign Representatives in Canada: Heads of Missions;PEP position annotations by OpenSanctions;Wikidata",
       "entities": [],
-      "tags": [
-        "leak"
-      ],
+      "tags": [],
       "score": 6.0,
       "meta": {
-        "outlet": "RISE Moldova"
+        "datasets": [
+          "Foreign Representatives in Canada: Heads of Missions",
+          "PEP position annotations by OpenSanctions",
+          "Wikidata"
+        ],
+        "query": [
+          "Vladimir Plahotniuc"
+        ]
       },
-      "uid": "431e975c02fafe92"
+      "uid": "6e02f9c591659e8f"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      14
+      13
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      6
+      5
     ],
     [
       "Vladimir Plahotniuc",
       4
-    ],
-    [
-      "Igor Dodon",
-      3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
