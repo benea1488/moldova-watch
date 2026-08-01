@@ -1,49 +1,82 @@
 {
-  "generated": "2026-07-31T09:24:20.849088+00:00",
-  "count": 2,
+  "generated": "2026-08-01T08:39:46.805722+00:00",
+  "count": 4,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] В еврокубках остался только «Шериф». Как молдавские клубы сыграли в ответных матчах",
-      "url": "https://newsmaker.md/ru/v-evrokubkah-ostalsya-tolko-sherif-kak-moldavskie-kluby-sygrali-v-otvetnyh-matchah",
-      "date": "Thu, 30 Jul 2026 19:08:36 +0000",
-      "summary": "Три молдавских клуба 30 июля провели ответные матчи второго квалификационного раунда еврокубков. «Шериф» снова уступил «Маккаби» и перешел в Лигу конференций, а «Зимбру» и «Петрокуб» завершили выступление в турнире. «Шериф» в&#160;Батуми уступил тель-авивскому «Маккаби»&#160;— 1:0. Израильский клуб ",
+      "title": "[NewsMaker] NM Espresso: вода в Днестре критически падает, фермеры требуют поддержки, Гуцул остается башканом?",
+      "url": "https://newsmaker.md/ru/nm-espresso-v-moldove-proveryat-100-vysokih-zarplat-obedinenie-merii-prodlili-uroven-vody-na-dnestre-padaet",
+      "date": "Sat, 01 Aug 2026 05:08:00 +0000",
+      "summary": "Проверка высоких зарплат Правительство проверит 100 самых больших выплат в госсекторе, а сотрудникам с доходом выше 52,2 тыс. леев временно заморозит премии и надбавки, сообщил премьер Василе Тофан. При этом он отметил, что высокая зарплата сама по себе не является злоупотреблением, и в некоторых сф",
       "entities": [
-        "Sheriff (Tiraspol)"
+        "Evghenia Gutul"
       ],
       "tags": [],
       "score": 8.7,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "eca72dcaeee6f69e"
+      "uid": "a61d686e68cd3b6a"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Народное собрание Гагаузии не смогло объявить должность башкана вакантной из-за отсутствия кворума",
+      "url": "https://newsmaker.md/ru/narodnoe-sobranie-gagauzii-ne-smoglo-obyavit-doljnost-bashkana-vakantnoi-iz-za-otsutstviya-kvoruma",
+      "date": "Fri, 31 Jul 2026 15:06:33 +0000",
+      "summary": "Народное собрание Гагаузии (НСГ) 31 июля должно было рассмотреть вопрос о признании должности башкана вакантной после вступления в силу приговора Евгении Гуцул. Однако заседание не состоялось из-за отсутствия кворума. Следующее заседание назначили на 3 августа. «Кворума не&#160;будет. Видим, что у&#",
+      "entities": [
+        "Evghenia Gutul"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "abbf1a108a222f99"
     },
     {
       "source": "OpenSanctions",
-      "title": "Andrij Plachotnjuk [Person]",
-      "url": "https://www.opensanctions.org/entities/Q105738627/",
-      "date": "2026-07-30T14:06:35",
-      "summary": "Datasets: Foreign Representatives in Canada: Heads of Missions;PEP position annotations by OpenSanctions;Wikidata",
+      "title": "LLC Regional Commercial Siberian Social Bank [Organization]",
+      "url": "https://www.opensanctions.org/entities/NK-REENzyZKsiBEmZ2zeHBH3m/",
+      "date": "2026-07-31T16:57:01",
+      "summary": "Datasets: EU Financial Sanctions Files (FSF);Ukraine War and Sanctions",
       "entities": [],
-      "tags": [],
-      "score": 6.0,
+      "tags": [
+        "sanction"
+      ],
+      "score": 8.0,
       "meta": {
         "datasets": [
-          "Foreign Representatives in Canada: Heads of Missions",
-          "PEP position annotations by OpenSanctions",
-          "Wikidata"
+          "EU Financial Sanctions Files (FSF)",
+          "Ukraine War and Sanctions"
         ],
         "query": [
-          "Vladimir Plahotniuc"
+          "Banca Sociala"
         ]
       },
-      "uid": "6e02f9c591659e8f"
+      "uid": "a23b9472581ea354"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] (ВИДЕО) Гросу – не читатель, Санду под угрозой и 3-минутный душ от Тофана / «Разборка» с Екатериной Дубасовой",
+      "url": "https://newsmaker.md/ru/video-grosu-ne-chitatel-sandu-pod-ugrozoi-i-3-minutnyi-dush-ot-tofana-razborka-s-ekaterinoi-dubasovoi",
+      "date": "Sat, 01 Aug 2026 07:02:34 +0000",
+      "summary": "В Молдове вводят режим повышенной готовности, протестуют против роста тарифов и учатся принимать трехминутный душ по совету нового премьера. Гросу признается, что не читает все законопроекты, Гагаузии меняют правила выборов, Приднестровью дают отсрочку, а Майе Санду и Иону Чебану обещают политически",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "08d19d6854b1176d"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      13
+      14
     ],
     [
       "Energie / Gazprom / Moldovagaz",
@@ -51,7 +84,11 @@
     ],
     [
       "Vladimir Plahotniuc",
-      4
+      3
+    ],
+    [
+      "Evghenia Gutul",
+      3
     ]
   ],
   "errors": []
