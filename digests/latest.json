@@ -1,65 +1,28 @@
 {
-  "generated": "2026-08-02T08:44:17.366504+00:00",
-  "count": 3,
+  "generated": "2026-08-03T10:13:39.955670+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "OpenSanctions",
-      "title": "LLC Regional Commercial Siberian Social Bank [Organization]",
-      "url": "https://www.opensanctions.org/entities/be-fod-c25373e0693a65f8c5d5a84ce09275e815a8fc27/",
-      "date": "2026-08-01T09:17:01",
-      "summary": "Datasets: Belgian Financial Sanctions",
-      "entities": [],
-      "tags": [
-        "sanction"
-      ],
-      "score": 8.0,
-      "meta": {
-        "datasets": [
-          "Belgian Financial Sanctions"
-        ],
-        "query": [
-          "Banca Sociala"
-        ]
-      },
-      "uid": "a4ef915f18d435ce"
-    },
-    {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Ministerul Energiei îndeamnă cetățenii R. Moldova să utilizeze responsabil energia electrică, în contextul stării de alertă declarate în România",
-      "url": "https://www.zdg.md/stiri/ministerul-energiei-indeamna-cetatenii-r-moldova-sa-utilizeze-responsabil-energia-electrica-in-contextul-starii-de-alerta-declarate-in-romania/",
-      "date": "Sat, 01 Aug 2026 15:00:32 +0000",
-      "summary": "În contextul stării de alertă declarate în România pentru o perioadă de 30 de zile, pe fondul scăderii producției de energie electrică, legate de debitul redus al Dunării, piețele regionale se confruntă cu o presiune suplimentară, informează Ministerul Energiei. Deși „Energocom” acoperă necesarul de",
+      "title": "[NewsMaker] Золотое колье, свеча, полотенце. Какие подарки Санду получила от глав государств",
+      "url": "https://newsmaker.md/ru/zolotoe-kole-vostochnyi-kover-polotencze-kakie-podarki-sandu-poluchila-ot-glav-i-predstavitelei-raznyh-gosudarstv",
+      "date": "Mon, 03 Aug 2026 09:39:53 +0000",
+      "summary": "В апреле, мае и июне этого года президент Майя Санду получила 23 подарка. Среди них подарки от президента Украины, министра энергетики Украины, президента Казахстана, премьер-министра Армении, а также государственного секретаря Северной Каролины. Самым дорогим подарком стоимостью 20 500 леев было зо",
       "entities": [
-        "Energie / Gazprom / Moldovagaz"
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "c375075114e20ba2"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Кризис в Румынии может повлиять на цену закупки электричества Молдовой. Energocom призвал к экономии",
-      "url": "https://newsmaker.md/ru/kak-na-moldovu-mojet-povliyat-krizis-proizvodstva-elektrichestva-v-rumynii-energocom-prizval-k-ekonomii",
-      "date": "Sun, 02 Aug 2026 08:18:37 +0000",
-      "summary": "Учитывая объявленный в Румынии режим повышенной готовности на фоне снижения производства электроэнергии, связанного с уменьшением стока Дуная, в часы пик, когда потребление увеличивается, Молдове, возможно, придется дополнительно закупать электроэнергию на региональных рынках, где энергия обычно дор",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
+      "score": 7.9,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "458a735e8f9bbef9"
+      "uid": "3cccb0606284dbc6"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      14
+      13
     ],
     [
       "Energie / Gazprom / Moldovagaz",
@@ -70,7 +33,5 @@
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
