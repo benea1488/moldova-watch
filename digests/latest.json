@@ -1,13 +1,29 @@
 {
-  "generated": "2026-08-03T10:13:39.955670+00:00",
-  "count": 1,
+  "generated": "2026-08-04T09:20:22.374642+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Золотое колье, свеча, полотенце. Какие подарки Санду получила от глав государств",
-      "url": "https://newsmaker.md/ru/zolotoe-kole-vostochnyi-kover-polotencze-kakie-podarki-sandu-poluchila-ot-glav-i-predstavitelei-raznyh-gosudarstv",
-      "date": "Mon, 03 Aug 2026 09:39:53 +0000",
-      "summary": "В апреле, мае и июне этого года президент Майя Санду получила 23 подарка. Среди них подарки от президента Украины, министра энергетики Украины, президента Казахстана, премьер-министра Армении, а также государственного секретаря Северной Каролины. Самым дорогим подарком стоимостью 20 500 леев было зо",
+      "title": "[Ziarul de Garda] Maia Sandu i-a conferit „Ordinul Onoarei” ambasadorului Regatului Țărilor de Jos, Fred Duijn, la încheierea mandatului",
+      "url": "https://www.zdg.md/stiri/maia-sandu-i-a-conferit-ordinul-onoarei-ambasadorului-regatului-tarilor-de-jos-fred-duijn-la-incheierea-mandatului/",
+      "date": "Tue, 04 Aug 2026 06:18:38 +0000",
+      "summary": "Președinta Maia Sandu i-a conferit luni, 3 august, „Ordinul Onoarei” lui Fred Duijn, ambasadorul Regatului Țărilor de Jos în R. Moldova, în cadrul unei întrevederi de rămas bun, la încheierea mandatului acestuia, a anunțat Președinția. „Distincția a fost acordată în semn de înaltă apreciere pentru c",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "b5431f3398116ec9"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду о мэриях, которые отказались объединяться добровольно: Их объединят по закону, без финансовых стимулов",
+      "url": "https://newsmaker.md/ru/sandu-o-meriyah-kotorye-otkazalis-obedinyatsya-dobrovolno-ih-obedinyat-po-zakonu-bez-finansovyh-stimulov",
+      "date": "Mon, 03 Aug 2026 17:55:40 +0000",
+      "summary": "Президент Майя Санду 3 августа поблагодарила мэрии, которые начали процесс добровольного объединения. По данным главы государства, более 400 мэрий уже приняли такие решения и смогут воспользоваться финансовой поддержкой со стороны государства. Санду поблагодарила местных избранников за то, что они «",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,7 +32,7 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "3cccb0606284dbc6"
+      "uid": "b9cba5bca1201367"
     }
   ],
   "momentum": [
