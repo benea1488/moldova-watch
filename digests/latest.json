@@ -1,13 +1,29 @@
 {
-  "generated": "2026-08-05T09:17:26.399080+00:00",
-  "count": 2,
+  "generated": "2026-08-06T09:20:26.448738+00:00",
+  "count": 6,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Информация NM подтвердилась. Лилиана Вицу возглавила Stratcom: «Мой приоритет — создать учреждение, которое внушает доверие»",
-      "url": "https://newsmaker.md/ru/informacziya-nm-podtverdilas-liliana-viczu-vozglavila-stratcom-moi-prioritet-sozdat-uchrejdenie-kotoroe-vnushaet-doverie",
-      "date": "Wed, 05 Aug 2026 06:57:53 +0000",
-      "summary": "Экс-председатель Совета телевидения и радио (СТР) Лилиана Вицу возглавила Центр стратегических коммуникаций и борьбы с дезинформацией (Stratcom). Накануне NM сообщил об этом со ссылкой на источники, а утром 5 августа президент Майя Санду подписала соответствующий указ. Вицу подтвердила назначение в ",
+      "title": "[Ziarul de Garda] Judecătoarea Natalia Mămăligă a fost numită, prin decretul Maiei Sandu, la Curtea de Apel Centru",
+      "url": "https://www.zdg.md/stiri/judecatoarea-natalia-mamaliga-a-fost-numita-prin-decretul-maiei-sandu-la-curtea-de-apel-centru/",
+      "date": "Thu, 06 Aug 2026 07:22:01 +0000",
+      "summary": "Natalia Mămăligă a fost numită în funcția de judecătoare la Curtea de Apel Centru, anunță joi, 6 august, Judecătoria Chișinău. Decretul a fost semnat de președinta Maia Sandu pe 3 august. „Cu acest prilej, colectivul Judecătoriei Chișinău adresează doamnei judecător sincere felicitări pentru această",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "1a78c0f13d7ef921"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] (DOC) Санду подписала указ о проведении военного парада 27 августа. «Поскольку мы инвестировали в оборону Молдовы»",
+      "url": "https://newsmaker.md/ru/doc-27-avgusta-v-kishineve-proidet-voennyi-parad-sandu-poskolku-my-investirovali-v-oboronu-moldovy",
+      "date": "Thu, 06 Aug 2026 07:28:46 +0000",
+      "summary": "В День независимости Молдовы 27 августа в Кишиневе на центральной площади пройдет венный парад. Такой указ 5 августа подписала президент Майя Санду. Согласно указу, участие в&#160;параде примут подразделения Национальной армии, министерства внутренних дел, министерства юстиции, Службы информации и&#",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,29 +32,90 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "b6a931a6152a89a8"
+      "uid": "4c7d39a1f9e2c4d5"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Adjunctul de la Arhitectură, cu duplex pe datorie, a încălcat regimul declarării averii",
-      "url": "https://www.rise.md/adjunctul-de-la-arhitectura-cu-duplex-pe-datorie-a-incalcat-regimul-declararii-averii/",
-      "date": "Tue, 04 Aug 2026 12:05:35 +0000",
-      "summary": "Șeful adjunct al Direcției generale arhitectură, urbanism și relații funciare din Chișinău, care s-a ales cu un duplex [&#8230;]\nThe post Adjunctul de la Arhitectură, cu duplex pe datorie, a încălcat regimul declarării averii appeared first on Rise Moldova.",
+      "title": "[NewsMaker] Санду: «Выборы в Гагаузии могут пройти до конца года»",
+      "url": "https://newsmaker.md/ru/sandu-vybory-v-gagauzii-mogut-proiti-do-koncza-goda",
+      "date": "Wed, 05 Aug 2026 17:13:33 +0000",
+      "summary": "Выборы в Народное собрание Гагаузии (НСГ) могут состояться до конца этого года, если парламент во втором чтении примет поправки к Кодексу о выборах, устанавливающие новые правила организации выборов в автономии. Об этом 5 августа заявила президент Майя Санду, отвергнув обвинения в том, что законодат",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "d9a0fae5e01117ac"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду о фейках в свой адрес: «Иногда спрашиваешь себя — сколько еще слушать такие глупости?»",
+      "url": "https://newsmaker.md/ru/sandu-o-feikah-v-svoi-adres-inogda-sprashivaesh-sebya-skolko-eshe-slushat-takie-gluposti",
+      "date": "Wed, 05 Aug 2026 16:18:56 +0000",
+      "summary": "Президент Молдовы Майя Санду признала, что ей непросто игнорировать фейки и обвинения в свой адрес. Однако она «старается сосредоточиться на работе и на порядочных людях этой страны», ради которых занимает эту должность. Об этом Санду заявила 5 августа в подкасте Jurnal Politic. На вопрос о том, нас",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "d6557534a07d6b14"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду призвала жестче наказывать политиков за разжигание ненависти: «Так начинался и фашистский режим»",
+      "url": "https://newsmaker.md/ru/sandu-prizvala-jestche-nakazyvat-politikov-za-razjiganie-nenavisti-tak-nachinalsya-i-fashistskii-rejim",
+      "date": "Wed, 05 Aug 2026 15:42:28 +0000",
+      "summary": "Язык ненависти со стороны политиков и депутатов «необходимо жестко пресекать», заявила президент Молдовы Майя Санду. По ее мнению, «если не остановить агрессивную риторику в интернете, со временем она может выйти за пределы социальных сетей и привести к реальному насилию». Об этом Санду рассказала 5",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "208be78f77a6e6a3"
+    },
+    {
+      "source": "OpenSanctions",
+      "title": "LLC Sibsotsbank [Company]",
+      "url": "https://www.opensanctions.org/entities/NK-Ua3fY6gKVYwy5QszQXQAUe/",
+      "date": "2026-08-01T09:17:01",
+      "summary": "Datasets: Belgian Financial Sanctions;Business Identifier Code (BIC) Reference Data;EU Council Official Journal Sanctioned Entities;EU Financial Sanctions Files (FSF);French National Asset Freezing System;Monaco National Fund Freezing List;Russia Banking Registry;Russian Unified State Register of Legal Entities;Ukraine War and Sanctions",
       "entities": [],
       "tags": [
-        "leak"
+        "sanction"
       ],
-      "score": 6.0,
+      "score": 7.29,
       "meta": {
-        "outlet": "RISE Moldova"
+        "datasets": [
+          "Belgian Financial Sanctions",
+          "Business Identifier Code (BIC) Reference Data",
+          "EU Council Official Journal Sanctioned Entities",
+          "EU Financial Sanctions Files (FSF)",
+          "French National Asset Freezing System",
+          "Monaco National Fund Freezing List",
+          "Russia Banking Registry",
+          "Russian Unified State Register of Legal Entities",
+          "Ukraine War and Sanctions"
+        ],
+        "query": [
+          "Banca Sociala"
+        ]
       },
-      "uid": "aadc11dec43143c1"
+      "uid": "90854312f588fbeb"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      10
+      14
     ],
     [
       "Energie / Gazprom / Moldovagaz",
