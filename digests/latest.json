@@ -1,125 +1,87 @@
 {
-  "generated": "2026-08-06T09:20:26.448738+00:00",
-  "count": 6,
+  "generated": "2026-08-07T07:51:57.661651+00:00",
+  "count": 4,
   "items": [
     {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Judecătoarea Natalia Mămăligă a fost numită, prin decretul Maiei Sandu, la Curtea de Apel Centru",
-      "url": "https://www.zdg.md/stiri/judecatoarea-natalia-mamaliga-a-fost-numita-prin-decretul-maiei-sandu-la-curtea-de-apel-centru/",
-      "date": "Thu, 06 Aug 2026 07:22:01 +0000",
-      "summary": "Natalia Mămăligă a fost numită în funcția de judecătoare la Curtea de Apel Centru, anunță joi, 6 august, Judecătoria Chișinău. Decretul a fost semnat de președinta Maia Sandu pe 3 august. „Cu acest prilej, colectivul Judecătoriei Chișinău adresează doamnei judecător sincere felicitări pentru această",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "1a78c0f13d7ef921"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (DOC) Санду подписала указ о проведении военного парада 27 августа. «Поскольку мы инвестировали в оборону Молдовы»",
-      "url": "https://newsmaker.md/ru/doc-27-avgusta-v-kishineve-proidet-voennyi-parad-sandu-poskolku-my-investirovali-v-oboronu-moldovy",
-      "date": "Thu, 06 Aug 2026 07:28:46 +0000",
-      "summary": "В День независимости Молдовы 27 августа в Кишиневе на центральной площади пройдет венный парад. Такой указ 5 августа подписала президент Майя Санду. Согласно указу, участие в&#160;параде примут подразделения Национальной армии, министерства внутренних дел, министерства юстиции, Службы информации и&#",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "4c7d39a1f9e2c4d5"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду: «Выборы в Гагаузии могут пройти до конца года»",
-      "url": "https://newsmaker.md/ru/sandu-vybory-v-gagauzii-mogut-proiti-do-koncza-goda",
-      "date": "Wed, 05 Aug 2026 17:13:33 +0000",
-      "summary": "Выборы в Народное собрание Гагаузии (НСГ) могут состояться до конца этого года, если парламент во втором чтении примет поправки к Кодексу о выборах, устанавливающие новые правила организации выборов в автономии. Об этом 5 августа заявила президент Майя Санду, отвергнув обвинения в том, что законодат",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "d9a0fae5e01117ac"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду о фейках в свой адрес: «Иногда спрашиваешь себя — сколько еще слушать такие глупости?»",
-      "url": "https://newsmaker.md/ru/sandu-o-feikah-v-svoi-adres-inogda-sprashivaesh-sebya-skolko-eshe-slushat-takie-gluposti",
-      "date": "Wed, 05 Aug 2026 16:18:56 +0000",
-      "summary": "Президент Молдовы Майя Санду признала, что ей непросто игнорировать фейки и обвинения в свой адрес. Однако она «старается сосредоточиться на работе и на порядочных людях этой страны», ради которых занимает эту должность. Об этом Санду заявила 5 августа в подкасте Jurnal Politic. На вопрос о том, нас",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "d6557534a07d6b14"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду призвала жестче наказывать политиков за разжигание ненависти: «Так начинался и фашистский режим»",
-      "url": "https://newsmaker.md/ru/sandu-prizvala-jestche-nakazyvat-politikov-za-razjiganie-nenavisti-tak-nachinalsya-i-fashistskii-rejim",
-      "date": "Wed, 05 Aug 2026 15:42:28 +0000",
-      "summary": "Язык ненависти со стороны политиков и депутатов «необходимо жестко пресекать», заявила президент Молдовы Майя Санду. По ее мнению, «если не остановить агрессивную риторику в интернете, со временем она может выйти за пределы социальных сетей и привести к реальному насилию». Об этом Санду рассказала 5",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "208be78f77a6e6a3"
-    },
-    {
       "source": "OpenSanctions",
-      "title": "LLC Sibsotsbank [Company]",
-      "url": "https://www.opensanctions.org/entities/NK-Ua3fY6gKVYwy5QszQXQAUe/",
-      "date": "2026-08-01T09:17:01",
-      "summary": "Datasets: Belgian Financial Sanctions;Business Identifier Code (BIC) Reference Data;EU Council Official Journal Sanctioned Entities;EU Financial Sanctions Files (FSF);French National Asset Freezing System;Monaco National Fund Freezing List;Russia Banking Registry;Russian Unified State Register of Legal Entities;Ukraine War and Sanctions",
-      "entities": [],
+      "title": "Sandu Fumea [Person]",
+      "url": "https://www.opensanctions.org/entities/us-fed-excl-sandu-fumea-92101-san-diego/",
+      "date": "2026-08-06T07:55:02",
+      "summary": "Datasets: US SAM Procurement Exclusions",
+      "entities": [
+        "Maia Sandu"
+      ],
       "tags": [
         "sanction"
       ],
-      "score": 7.29,
+      "score": 11.4,
       "meta": {
         "datasets": [
-          "Belgian Financial Sanctions",
-          "Business Identifier Code (BIC) Reference Data",
-          "EU Council Official Journal Sanctioned Entities",
-          "EU Financial Sanctions Files (FSF)",
-          "French National Asset Freezing System",
-          "Monaco National Fund Freezing List",
-          "Russia Banking Registry",
-          "Russian Unified State Register of Legal Entities",
-          "Ukraine War and Sanctions"
+          "US SAM Procurement Exclusions"
         ],
         "query": [
-          "Banca Sociala"
+          "Maia Sandu"
         ]
       },
-      "uid": "90854312f588fbeb"
+      "uid": "3b3e972e9f02beed"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду о скандальном визите делегации талибов: Стыдно, что высокопоставленные чиновники не знакомы с политикой страны",
+      "url": "https://newsmaker.md/ru/sandu-o-skandalnom-vizite-delegaczii-talibov-stydno-chto-vysokopostavlennye-chinovniki-ne-znakomy-s-politikoi-strany",
+      "date": "Fri, 07 Aug 2026 06:43:30 +0000",
+      "summary": "Президент Майя Санду прокомментировала скандальный визит в Кишинев делегации минсельхоза Афганистана, возложив ответственность за случившееся на чиновников миинстерства сельского хозяйства и министерств иностранных дел. «Стыдно, когда люди, занимающие довольно высокие государственные должности, не з",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "41a2bf4d67e4d79c"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду о проекте налоговой реформы правительства Тофана: Цели остались прежними, но механизмы менее радикальные",
+      "url": "https://newsmaker.md/ru/sandu-o-novom-proekte-nalogovoi-reformy-pravitelstva-tofana-czeli-ostalis-prejnimi-no-mehanizmy-menee-radikalnye",
+      "date": "Fri, 07 Aug 2026 05:39:14 +0000",
+      "summary": "Президент Майя Санду считает новый проект бюджетно-налоговой реформы, предложенный правительством Василе Тофана, более сбалансированным, чем первый вариант прежнего кабмина. В эфире программы Cabinetul din umbră на телеканале JurnalTV глава государства заявила, что представленная Тофаном концепция о",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "ee5f06dad54c50d7"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] NM Espresso: Кишинев сравнили с Лас-Вегасом, для Приднестровья готовят план, вредные привычки «задавят» налогами",
+      "url": "https://newsmaker.md/ru/nm-espresso-energokrizis-usilivaetsya-tofan-predstavil-nalogovuyu-reformu-v-moldove-podorojali-kredity",
+      "date": "Fri, 07 Aug 2026 05:08:00 +0000",
+      "summary": "Энергокризис Молдова может остаться без аварийных поставок электроэнергии из Украины, из-за чего власти не исключают плановые отключения 6 августа , сообщил Тофан. Кроме того, премьер раскритиковал яркое освещение в столице: «Кишинев светится, как Лас-Вегас». Позднее в Energocom сообщили, что 6 авгу",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "d9658c0cdce9be58"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      14
+      16
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      7
+      5
     ],
     [
       "Evghenia Gutul",
