@@ -1,68 +1,13 @@
 {
-  "generated": "2026-08-07T07:51:57.661651+00:00",
-  "count": 4,
+  "generated": "2026-08-08T07:28:40.151149+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "OpenSanctions",
-      "title": "Sandu Fumea [Person]",
-      "url": "https://www.opensanctions.org/entities/us-fed-excl-sandu-fumea-92101-san-diego/",
-      "date": "2026-08-06T07:55:02",
-      "summary": "Datasets: US SAM Procurement Exclusions",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [
-        "sanction"
-      ],
-      "score": 11.4,
-      "meta": {
-        "datasets": [
-          "US SAM Procurement Exclusions"
-        ],
-        "query": [
-          "Maia Sandu"
-        ]
-      },
-      "uid": "3b3e972e9f02beed"
-    },
-    {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду о скандальном визите делегации талибов: Стыдно, что высокопоставленные чиновники не знакомы с политикой страны",
-      "url": "https://newsmaker.md/ru/sandu-o-skandalnom-vizite-delegaczii-talibov-stydno-chto-vysokopostavlennye-chinovniki-ne-znakomy-s-politikoi-strany",
-      "date": "Fri, 07 Aug 2026 06:43:30 +0000",
-      "summary": "Президент Майя Санду прокомментировала скандальный визит в Кишинев делегации минсельхоза Афганистана, возложив ответственность за случившееся на чиновников миинстерства сельского хозяйства и министерств иностранных дел. «Стыдно, когда люди, занимающие довольно высокие государственные должности, не з",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "41a2bf4d67e4d79c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду о проекте налоговой реформы правительства Тофана: Цели остались прежними, но механизмы менее радикальные",
-      "url": "https://newsmaker.md/ru/sandu-o-novom-proekte-nalogovoi-reformy-pravitelstva-tofana-czeli-ostalis-prejnimi-no-mehanizmy-menee-radikalnye",
-      "date": "Fri, 07 Aug 2026 05:39:14 +0000",
-      "summary": "Президент Майя Санду считает новый проект бюджетно-налоговой реформы, предложенный правительством Василе Тофана, более сбалансированным, чем первый вариант прежнего кабмина. В эфире программы Cabinetul din umbră на телеканале JurnalTV глава государства заявила, что представленная Тофаном концепция о",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "ee5f06dad54c50d7"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: Кишинев сравнили с Лас-Вегасом, для Приднестровья готовят план, вредные привычки «задавят» налогами",
-      "url": "https://newsmaker.md/ru/nm-espresso-energokrizis-usilivaetsya-tofan-predstavil-nalogovuyu-reformu-v-moldove-podorojali-kredity",
-      "date": "Fri, 07 Aug 2026 05:08:00 +0000",
-      "summary": "Энергокризис Молдова может остаться без аварийных поставок электроэнергии из Украины, из-за чего власти не исключают плановые отключения 6 августа , сообщил Тофан. Кроме того, премьер раскритиковал яркое освещение в столице: «Кишинев светится, как Лас-Вегас». Позднее в Energocom сообщили, что 6 авгу",
+      "title": "[NewsMaker] NM Espresso: о подорожании электроэнергии,    лестнице с подогревом в парламенте и о «черве» вместо креста на гербе Молдовы",
+      "url": "https://newsmaker.md/ru/nm-espresso-tarif-na-elektroenergiyu-mojet-vyrasti-na-lestniczu-v-parlamente-potratyat-million",
+      "date": "Sat, 08 Aug 2026 05:08:00 +0000",
+      "summary": "Энергокризис В Молдове удалось полностью покрыть потребление электроэнергии 7 августа, однако закупка обошлась дороже из-за «ограниченной доступности» ресурсов на внешних рынках, сообщили в госкомпании Energocom. И предупредили, что «повышенные закупочные расходы» могут привести к росту тарифов. Что",
       "entities": [
         "Energie / Gazprom / Moldovagaz"
       ],
@@ -71,7 +16,7 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "d9658c0cdce9be58"
+      "uid": "e54ed075f7f5afce"
     }
   ],
   "momentum": [
