@@ -1,13 +1,29 @@
 {
-  "generated": "2026-08-08T07:28:40.151149+00:00",
-  "count": 1,
+  "generated": "2026-08-09T07:30:52.966308+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: о подорожании электроэнергии,    лестнице с подогревом в парламенте и о «черве» вместо креста на гербе Молдовы",
-      "url": "https://newsmaker.md/ru/nm-espresso-tarif-na-elektroenergiyu-mojet-vyrasti-na-lestniczu-v-parlamente-potratyat-million",
-      "date": "Sat, 08 Aug 2026 05:08:00 +0000",
-      "summary": "Энергокризис В Молдове удалось полностью покрыть потребление электроэнергии 7 августа, однако закупка обошлась дороже из-за «ограниченной доступности» ресурсов на внешних рынках, сообщили в госкомпании Energocom. И предупредили, что «повышенные закупочные расходы» могут привести к росту тарифов. Что",
+      "title": "[Ziarul de Garda] Necesarul de energie electrică pentru ziua de sâmbătă este acoperit, însă situația regională rămâne volatilă, anunță compania Energocom",
+      "url": "https://www.zdg.md/stiri/necesarul-de-energie-electrica-pentru-ziua-de-sambata-este-acoperit-insa-situatia-regionala-ramane-volatila-anunta-compania-energocom/",
+      "date": "Sat, 08 Aug 2026 12:57:17 +0000",
+      "summary": "Pentru sâmbătă, 8 august, compania de stat Energocom anunță că a reușit să rezerve volumele necesare pentru acoperirea consumului de energie electrică din R. Moldova. În total, pentru astăzi compania anunță că a achiziționat 10 989 MWh de energie electrică. Din acest volum, 24,56% provin din surse r",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "78aa48f8ba954d1e"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Energocom зарезервировал необходимое количество электроэнергии на 8 августа. Но призыв экономить остается в силе",
+      "url": "https://newsmaker.md/ru/energocom-zarezerviroval-neobhodimoe-kolichestvo-elektroenergii-na-8-avgusta-no-prizyv-ekonomit-ostaetsya-v-sile",
+      "date": "Sat, 08 Aug 2026 14:40:13 +0000",
+      "summary": "Государственная компания Energocom сообщила 8 августа, что зарезервировала необходимые объемы электроэнергии и сегодня Молдова не останется без света. В компании уточнили, что дефицита удалось избежать благодаря закупке почти 11 тыс. МВт·ч электроэнергии. «Сегодняшние потребности покрыты, но&#160;ре",
       "entities": [
         "Energie / Gazprom / Moldovagaz"
       ],
@@ -16,7 +32,7 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "e54ed075f7f5afce"
+      "uid": "8cf97ba380f4eb99"
     }
   ],
   "momentum": [
@@ -26,7 +42,7 @@
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      5
+      7
     ],
     [
       "Evghenia Gutul",
