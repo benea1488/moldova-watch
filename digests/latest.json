@@ -1,29 +1,66 @@
 {
-  "generated": "2026-08-09T07:30:52.966308+00:00",
-  "count": 2,
+  "generated": "2026-08-10T08:13:17.750041+00:00",
+  "count": 4,
   "items": [
     {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Necesarul de energie electrică pentru ziua de sâmbătă este acoperit, însă situația regională rămâne volatilă, anunță compania Energocom",
-      "url": "https://www.zdg.md/stiri/necesarul-de-energie-electrica-pentru-ziua-de-sambata-este-acoperit-insa-situatia-regionala-ramane-volatila-anunta-compania-energocom/",
-      "date": "Sat, 08 Aug 2026 12:57:17 +0000",
-      "summary": "Pentru sâmbătă, 8 august, compania de stat Energocom anunță că a reușit să rezerve volumele necesare pentru acoperirea consumului de energie electrică din R. Moldova. În total, pentru astăzi compania anunță că a achiziționat 10 989 MWh de energie electrică. Din acest volum, 24,56% provin din surse r",
+      "source": "OpenSanctions",
+      "title": "Ерол Шериф [Person]",
+      "url": "https://www.opensanctions.org/entities/mk-officials-7afd5a39b896ef97531916a7468ea8924b40e068/",
+      "date": "2026-08-09T10:10:01",
+      "summary": "Datasets: North Macedonia Elected and Appointed Officials",
       "entities": [
-        "Energie / Gazprom / Moldovagaz"
+        "Sheriff (Tiraspol)"
       ],
       "tags": [],
-      "score": 6.1,
+      "score": 10.2,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "datasets": [
+          "North Macedonia Elected and Appointed Officials"
+        ],
+        "query": [
+          "Sheriff (Tiraspol)"
+        ]
       },
-      "uid": "78aa48f8ba954d1e"
+      "uid": "21b47b4ad491bb82"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Energocom зарезервировал необходимое количество электроэнергии на 8 августа. Но призыв экономить остается в силе",
-      "url": "https://newsmaker.md/ru/energocom-zarezerviroval-neobhodimoe-kolichestvo-elektroenergii-na-8-avgusta-no-prizyv-ekonomit-ostaetsya-v-sile",
-      "date": "Sat, 08 Aug 2026 14:40:13 +0000",
-      "summary": "Государственная компания Energocom сообщила 8 августа, что зарезервировала необходимые объемы электроэнергии и сегодня Молдова не останется без света. В компании уточнили, что дефицита удалось избежать благодаря закупке почти 11 тыс. МВт·ч электроэнергии. «Сегодняшние потребности покрыты, но&#160;ре",
+      "title": "[Ziarul de Garda] Maia Sandu, după incidentul de la Crocmaz: „Siguranța oamenilor este prima datorie a statului”",
+      "url": "https://www.zdg.md/stiri/stiri-diverse/maia-sandu-dupa-incidentul-de-la-crocmaz-siguranta-oamenilor-este-prima-datorie-a-statului/",
+      "date": "Mon, 10 Aug 2026 08:11:17 +0000",
+      "summary": "„Rusia este cea care poartă acest război de agresiune și poartă întreaga vină pentru pericolul adus la casele oamenilor noștri”, a declarat Maia Sandu, referindu-se la incidentul de la Crocmaz, unde un aparat de zbor de tip dronă-rachetă a căzut și a explodat. Șefa statului a subliniat, totodată, im",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "4ce8cd880b0bf6dd"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду и Тофан о взрыве дрона в Крокмазе: То, что мы находимся вне зоны войны, нас не защищает",
+      "url": "https://newsmaker.md/ru/sandu-i-tofan-o-vzryve-drona-v-krokmaze-to-chto-my-nahodimsya-vne-zony-voiny-nas-ne-zashishaet",
+      "date": "Mon, 10 Aug 2026 06:34:41 +0000",
+      "summary": "Премьер-министр Василе Тофан и&#160;президент Майя Санду прокомметировали взрыв дрона возле населенного пункта Крокмаз Штефан-Водского района. Глава государства осудила нарушение воздушного пространства Молдовы, а&#160;глава кабмина добавил, что нахождение Молдовы вне зоны войны, не&#160;защищает ее",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "481d6a153f806ebf"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] На сегодня Молдова закупила электричество. Energocom: «Но энергия дорогая»",
+      "url": "https://newsmaker.md/ru/na-segodnya-moldova-zakupila-elektrichestvo-energocom-no-energiya-dorogaya",
+      "date": "Sun, 09 Aug 2026 12:45:08 +0000",
+      "summary": "Государственная компания Energocom сообщила 9 августа, что зарезервировала объемы, необходимые для покрытия сегодня потребления, благодаря коммерческим закупкам. Компания уточнила, что за воскресенье, 9 августа, закупила 9 209 МВт·ч электроэнергии. Электроэнергия местного производства покрыла 30,81%",
       "entities": [
         "Energie / Gazprom / Moldovagaz"
       ],
@@ -32,22 +69,24 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "8cf97ba380f4eb99"
+      "uid": "34dc7a0b914b00b8"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      16
+      18
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      7
+      8
     ],
     [
       "Evghenia Gutul",
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
