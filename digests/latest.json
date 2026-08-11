@@ -1,75 +1,22 @@
 {
-  "generated": "2026-08-10T08:13:17.750041+00:00",
-  "count": 4,
+  "generated": "2026-08-11T07:46:34.242301+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "OpenSanctions",
-      "title": "Ерол Шериф [Person]",
-      "url": "https://www.opensanctions.org/entities/mk-officials-7afd5a39b896ef97531916a7468ea8924b40e068/",
-      "date": "2026-08-09T10:10:01",
-      "summary": "Datasets: North Macedonia Elected and Appointed Officials",
-      "entities": [
-        "Sheriff (Tiraspol)"
-      ],
-      "tags": [],
-      "score": 10.2,
-      "meta": {
-        "datasets": [
-          "North Macedonia Elected and Appointed Officials"
-        ],
-        "query": [
-          "Sheriff (Tiraspol)"
-        ]
-      },
-      "uid": "21b47b4ad491bb82"
-    },
-    {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Maia Sandu, după incidentul de la Crocmaz: „Siguranța oamenilor este prima datorie a statului”",
-      "url": "https://www.zdg.md/stiri/stiri-diverse/maia-sandu-dupa-incidentul-de-la-crocmaz-siguranta-oamenilor-este-prima-datorie-a-statului/",
-      "date": "Mon, 10 Aug 2026 08:11:17 +0000",
-      "summary": "„Rusia este cea care poartă acest război de agresiune și poartă întreaga vină pentru pericolul adus la casele oamenilor noștri”, a declarat Maia Sandu, referindu-se la incidentul de la Crocmaz, unde un aparat de zbor de tip dronă-rachetă a căzut și a explodat. Șefa statului a subliniat, totodată, im",
+      "title": "[Ziarul de Garda] Pedepse de la 13 la 5 ani de detenție într-un dosar cu prejudiciul de trei miliarde de lei. Motivarea sentinței în dosarul Gacikevici, pe 1725 de pagini",
+      "url": "https://www.zdg.md/stiri/pedepse-de-la-13-la-5-ani-de-detentie-intr-un-dosar-cu-prejudiciul-de-trei-miliarde-de-lei-motivarea-sentintei-in-dosarul-gacikevici-pe-1725-de-pagini/",
+      "date": "Tue, 11 Aug 2026 06:10:00 +0000",
+      "summary": "Au oferit credite cu multe zerouri, neglijând principiile de prudență bancară, și au prejudiciat astfel Banca de Economii a Moldovei (BEM) cu circa trei miliarde de lei. Așa au ajuns cinci foști decidenți ai BEM (din perioada 2004–2012), printre care și Grigore Gacikevici, ex-șef al instituției banc",
       "entities": [
-        "Maia Sandu"
+        "Banca de Economii"
       ],
       "tags": [],
       "score": 7.9,
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "4ce8cd880b0bf6dd"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду и Тофан о взрыве дрона в Крокмазе: То, что мы находимся вне зоны войны, нас не защищает",
-      "url": "https://newsmaker.md/ru/sandu-i-tofan-o-vzryve-drona-v-krokmaze-to-chto-my-nahodimsya-vne-zony-voiny-nas-ne-zashishaet",
-      "date": "Mon, 10 Aug 2026 06:34:41 +0000",
-      "summary": "Премьер-министр Василе Тофан и&#160;президент Майя Санду прокомметировали взрыв дрона возле населенного пункта Крокмаз Штефан-Водского района. Глава государства осудила нарушение воздушного пространства Молдовы, а&#160;глава кабмина добавил, что нахождение Молдовы вне зоны войны, не&#160;защищает ее",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "481d6a153f806ebf"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] На сегодня Молдова закупила электричество. Energocom: «Но энергия дорогая»",
-      "url": "https://newsmaker.md/ru/na-segodnya-moldova-zakupila-elektrichestvo-energocom-no-energiya-dorogaya",
-      "date": "Sun, 09 Aug 2026 12:45:08 +0000",
-      "summary": "Государственная компания Energocom сообщила 9 августа, что зарезервировала объемы, необходимые для покрытия сегодня потребления, благодаря коммерческим закупкам. Компания уточнила, что за воскресенье, 9 августа, закупила 9 209 МВт·ч электроэнергии. Электроэнергия местного производства покрыла 30,81%",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "34dc7a0b914b00b8"
+      "uid": "de53e5af041e2cfc"
     }
   ],
   "momentum": [
@@ -79,7 +26,7 @@
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      8
+      7
     ],
     [
       "Evghenia Gutul",
