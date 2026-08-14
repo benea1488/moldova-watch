@@ -1,22 +1,38 @@
 {
-  "generated": "2026-08-13T08:01:50.466573+00:00",
-  "count": 1,
+  "generated": "2026-08-14T07:58:44.618794+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] VIDEO/ Deputat în Parlament, inculpat în instanță, învinuit la Procuratură. „ORA DOSARELOR” lui Alexandr Stoianoglo",
-      "url": "https://www.zdg.md/investigatii/ancheta/video-deputat-in-parlament-inculpat-in-instanta-invinuit-la-procuratura-ora-dosarelor-lui-alexandr-stoianoglo/",
-      "date": "Thu, 13 Aug 2026 05:56:00 +0000",
-      "summary": "Alexandr Stoianoglo este primul și singurul procuror general din istoria R. Moldova care a fost reținut și arestat în timpul mandatului, fiind acuzat de corupere pasivă, abuz de putere sau fals în declarații. Deși în ultimii ani a scăpat de câteva acuzații, fiind scos de sub urmărire penală sau achi",
+      "title": "[NewsMaker] NM Espresso: цены в Молдове будут расти быстрее, фермеров «проигнорировали», Гагаузию не пустили на Moldova 1?",
+      "url": "https://newsmaker.md/ru/nmespressoenergocom-zakupil-gaz-na-zimu-ozero-vosmerka-peresyhaet-gagauzii-ne-dali-slovo-na-moldova-1",
+      "date": "Fri, 14 Aug 2026 05:08:00 +0000",
+      "summary": "Газ на зиму Госкомпания Energocom сообщила, что полностью закупила газ на предстоящий отопительный сезон. При этом Energocom больше не хранит газ в хранилищах (только обязательный резерв), а покупает авансом для поставки в определенной время. А цену определяют не при подписании контракта, а позже. Ц",
       "entities": [
-        "Alexandr Stoianoglo"
+        "Energie / Gazprom / Moldovagaz"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 6.1,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "NewsMaker"
       },
-      "uid": "4cfc79ad91cf3cbc"
+      "uid": "1b4872ba7ced9724"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Efectul Meșteșug: Copiii vor fi protejați de contactul cu persoanele care au comis infracțiuni împotriva lor",
+      "url": "https://www.rise.md/efectul-mestesug-copiii-vor-fi-protejati-de-contactul-cu-persoanele-care-au-comis-infractiuni-impotriva-lor/",
+      "date": "Fri, 14 Aug 2026 07:32:54 +0000",
+      "summary": "Persoanele cercetate penal și cele condamnate definitiv pentru infracțiuni intenționate împotriva copiilor nu vor mai putea lucra cu [&#8230;]\nThe post Efectul Meșteșug: Copiii vor fi protejați de contactul cu persoanele care au comis infracțiuni împotriva lor appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "93f1644bf1ac85da"
     }
   ],
   "momentum": [
@@ -26,8 +42,10 @@
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      7
+      8
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
