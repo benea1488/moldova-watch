@@ -1,39 +1,22 @@
 {
-  "generated": "2026-08-15T07:06:37.197310+00:00",
-  "count": 2,
+  "generated": "2026-08-16T07:09:05.643969+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: об «уроке стойкости» от Санду, отключении газа тысячам кишиневцев и о Гагаузии «без воды»",
-      "url": "https://newsmaker.md/ru/nmespresso-kogda-izmenyat-tarif-na-gaz-kak-kishinevczy-ekonomyat-vodu-i-chto-tofan-obsudil-s-agrariyami",
-      "date": "Sat, 15 Aug 2026 05:08:00 +0000",
-      "summary": "Газ: тариф, отключение Нацагентство регулирования в энергетике (НАРЭ) на следующей неделе, судя по всему, утвердит новый тариф на газ, который вырастет сразу на 40%: с 14,42 лея до 20,30 лея за кубометр. С запросом о повышении тарифа госкомпания Energocom обратилась в НАРЭ еще месяц назад, и тогда ж",
+      "title": "[Ziarul de Garda] Necesarul de energie al Moldovei pentru 15 august este acoperit integral. Energocom: Prețurile pe piețele externe rămân ridicate",
+      "url": "https://www.zdg.md/stiri/necesarul-de-energie-al-moldovei-pentru-15-august-este-acoperit-integral-energocom-preturile-pe-pietele-externe-raman-ridicate/",
+      "date": "Sat, 15 Aug 2026 09:26:46 +0000",
+      "summary": "Necesarul de energie electrică al Republicii Moldova pentru sâmbătă, 15 august, este acoperit integral prin achiziții comerciale, anunță Energocom. Pentru consumul din această zi au fost procurate 9392 MWh de energie electrică. Cea mai mare parte a energiei, 68,08%, provine din contracte bilaterale ",
       "entities": [
-        "Maia Sandu",
         "Energie / Gazprom / Moldovagaz"
       ],
       "tags": [],
-      "score": 9.5,
+      "score": 6.1,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "c32ae50b69f26844"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Национальная администрация тюрем прокомментировала жалобы адвоката Гуцул на «грязную» воду в тюрьме в Руске",
-      "url": "https://newsmaker.md/ru/naczionalnaya-administracziya-tyurem-prokommentirovala-jaloby-advokata-guczul-na-gryaznuyu-vodu-v-tyurme-v-ruske",
-      "date": "Fri, 14 Aug 2026 16:41:27 +0000",
-      "summary": "Национальная администрация тюрем прокомментировала заявления адвоката Евгении Гуцул о качестве воды и условиях содержания в тюрьме №7 в селе Руска, куда недавно перевели бывшего башкана Гагаузии. В ведомстве утверждают, что вода соответствует допустимым нормам, а Гуцул имеет доступ к питьевой воде и",
-      "entities": [
-        "Evghenia Gutul"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "d94b459b36d9d46d"
+      "uid": "22c2e96765d6e7b7"
     }
   ],
   "momentum": [
@@ -43,7 +26,7 @@
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      9
+      8
     ]
   ],
   "errors": []

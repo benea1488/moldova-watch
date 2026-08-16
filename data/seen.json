@@ -330,29 +330,10 @@
 "93f1644bf1ac85da": "2026-08-14",
 "1b4872ba7ced9724": "2026-08-14",
 "c32ae50b69f26844": "2026-08-15",
-"d94b459b36d9d46d": "2026-08-15"
+"d94b459b36d9d46d": "2026-08-15",
+"22c2e96765d6e7b7": "2026-08-16"
 },
 "entity_log": [
-[
-"2026-07-17",
-"Vladimir Voronin"
-],
-[
-"2026-07-17",
-"Sheriff (Tiraspol)"
-],
-[
-"2026-07-17",
-"Igor Dodon"
-],
-[
-"2026-07-17",
-"Maia Sandu"
-],
-[
-"2026-07-17",
-"Energie / Gazprom / Moldovagaz"
-],
 [
 "2026-07-18",
 "Vladimir Plahotniuc"
@@ -600,6 +581,10 @@
 [
 "2026-08-15",
 "Evghenia Gutul"
+],
+[
+"2026-08-16",
+"Energie / Gazprom / Moldovagaz"
 ]
 ]
 }
