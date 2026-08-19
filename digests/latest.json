@@ -1,29 +1,75 @@
 {
-  "generated": "2026-08-18T07:13:50.251287+00:00",
-  "count": 3,
+  "generated": "2026-08-19T07:14:57.930313+00:00",
+  "count": 4,
   "items": [
     {
-      "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: фермеры дали Тофану пять дней, Гуцул больше не башкан, в Молдову прилетела ракета?",
-      "url": "https://newsmaker.md/ru/nm-espresso-fermery-dali-tofanu-pyat-dnei-guczul-bolshe-ne-bashkan",
-      "date": "Tue, 18 Aug 2026 05:08:00 +0000",
-      "summary": "Крылатая ракета в Молдове? Вечером 17 августа возле села Талмаза Штефан-Водского района взорвался дрон, который, по данным украинских Telegram-каналов, мог быть российской крылатой ракетой «Бандероль». Полиция оцепила место взрыва примерно в 3 км от села, никто не пострадал, но после взрыва на месте",
+      "source": "OpenSanctions",
+      "title": "BEM DE CASA ENXOVAIS LTDA [Company]",
+      "url": "https://www.opensanctions.org/entities/br-ceis-3586e02671a36af9780a6c513619639132f47ae1/",
+      "date": "2026-08-18T23:47:02",
+      "summary": "Datasets: Brazil National Register of Disreputable and Suspended Companies",
       "entities": [
-        "Evghenia Gutul"
+        "Banca de Economii"
+      ],
+      "tags": [
+        "sanction"
+      ],
+      "score": 11.4,
+      "meta": {
+        "datasets": [
+          "Brazil National Register of Disreputable and Suspended Companies"
+        ],
+        "query": [
+          "Banca de Economii"
+        ]
+      },
+      "uid": "f02b5cf7bcdfcb7a"
+    },
+    {
+      "source": "OpenSanctions",
+      "title": "SIGA BEM TRANSPORTES E TURISMO LTDA [Company]",
+      "url": "https://www.opensanctions.org/entities/br-ceis-9c76838e79c29c3bf19908460aeff84765d72609/",
+      "date": "2026-08-18T23:47:02",
+      "summary": "Datasets: Brazil National Register of Disreputable and Suspended Companies",
+      "entities": [
+        "Banca de Economii"
+      ],
+      "tags": [
+        "sanction"
+      ],
+      "score": 11.4,
+      "meta": {
+        "datasets": [
+          "Brazil National Register of Disreputable and Suspended Companies"
+        ],
+        "query": [
+          "Banca de Economii"
+        ]
+      },
+      "uid": "78392cd720075827"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Додон просит Конституционный суд проверить, могут ли бывших президентов судить в первой инстанции Высшей судебной палаты",
+      "url": "https://newsmaker.md/ru/dodon-prosit-konstituczionnyi-sud-proverit-mogut-li-byvshih-prezidentov-sudit-v-pervoi-instanczii-vysshei-sudebnoi-palaty",
+      "date": "Tue, 18 Aug 2026 16:45:58 +0000",
+      "summary": "Лидер Партии социалистов (ПСРМ) Игорь Додон оспаривает в Конституционном суде норму, согласно которой Высшая судебная палата (ВСП) рассматривает в первой инстанции уголовные дела бывших глав государства. Экс-президент, чье дело о «кульке» сейчас рассматривает ВСП, считает, что после окончания мандат",
+      "entities": [
+        "Igor Dodon"
       ],
       "tags": [],
       "score": 8.7,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "a8680d46adb1ffda"
+      "uid": "b1bdbaeead0f92fb"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду о транзите украинских грузов через Молдову: Другие государства помогают Украине гораздо больше",
-      "url": "https://newsmaker.md/ru/sandu-o-tranzite-ukrainskih-gruzov-cherez-moldovu-drugie-gosudarstva-pomogayut-ukraine-gorazdo-bolshe",
-      "date": "Tue, 18 Aug 2026 06:24:01 +0000",
-      "summary": "Президент Майя Санду высказалась по поводу 50% скидки на железнодорожный транзит украинских грузов через Молдову, заявив, что наша страна не может «отвернуться» от соседей. По мнению главы государства, если Украина не сможет продавать свою продукцию и лишится средств на оборону, то у Молдовы возникн",
+      "title": "[NewsMaker] NM Espresso: учителя выходят на протесты, PAS обвиняют в «фаворитизме», Санду не «отвернется» от Украины",
+      "url": "https://newsmaker.md/ru/nm-espresso-uchitelya-vyidut-na-protesty",
+      "date": "Wed, 19 Aug 2026 05:08:00 +0000",
+      "summary": "Протесты учителей Учителя со всей Молдовы выйдут сегодня на протест в центре Кишинева с требованием повысить зарплаты с 1 сентября. К акции присоединятся работники культуры, а также гражданское движение Construim Încredere Олеcи Стамате. В правительстве, комментируя ситуацию, заявили, что вопрос зар",
       "entities": [
         "Maia Sandu"
       ],
@@ -32,23 +78,7 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "f51344163d8867e2"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Гагаузия без чрезвычайного съезда?/Протесты из-за зерна из Украины?/Налоговая взялась за уклонистов",
-      "url": "https://newsmaker.md/ru/video-gagauziya-bez-chrezvychainogo-sezdaprotesty-iz-za-zerna-iz-ukrainynalogovaya-vzyalas-za-uklonistov",
-      "date": "Mon, 17 Aug 2026 17:21:42 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Взрыв после падения летательного аппарата вблизи села Талмаз— Майя Санду об украинском зерне: мы не можем отвернуться— НСГ не станет организатором консультаций о статусе Гагаузии и выборах— ДТП в Унгенском районе: 15 человек, в ",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "bb320424355f802a"
+      "uid": "292695b220835411"
     }
   ],
   "momentum": [
@@ -59,6 +89,10 @@
     [
       "Energie / Gazprom / Moldovagaz",
       9
+    ],
+    [
+      "Banca de Economii",
+      3
     ]
   ],
   "errors": []
