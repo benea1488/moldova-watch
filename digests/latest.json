@@ -1,39 +1,32 @@
 {
-  "generated": "2026-08-20T07:15:34.180042+00:00",
+  "generated": "2026-08-21T07:17:32.652835+00:00",
   "count": 1,
   "items": [
     {
-      "source": "OpenSanctions",
-      "title": "BEM LIGADOS LTDA [Company]",
-      "url": "https://www.opensanctions.org/entities/br-ceis-3537b979670684b808509676bdb4cc1bb9d934de/",
-      "date": "2026-08-19T23:47:02",
-      "summary": "Datasets: Brazil National Register of Disreputable and Suspended Companies",
+      "source": "MD Press",
+      "title": "[NewsMaker] NM Espresso: дрон взорвался на молдавском КПП, гражданство России «подешевело» для Приднестровья, Санду призвала «давить» на Путина",
+      "url": "https://newsmaker.md/ru/nm-espresso-dron-vzorvalsya-na-moldavskom-kpp-grajdanstvo-rossii-podeshevelo-dlya-pridnestrovya",
+      "date": "Fri, 21 Aug 2026 05:08:00 +0000",
+      "summary": "Война в Украине и Молдова В&#160;ночь на&#160;20&#160;августа Россия нанесла ракетно-дроновый удар по&#160;Киевской области. В&#160;Киеве погибли 12&#160;человек, 34&#160;человека получили ранения.&#160;МИД Молдовы осудил удар и отметил, что той же ночью один из атакующих дронов пересек воздушное пр",
       "entities": [
-        "Banca de Economii"
+        "Maia Sandu"
       ],
-      "tags": [
-        "sanction"
-      ],
-      "score": 11.4,
+      "tags": [],
+      "score": 7.9,
       "meta": {
-        "datasets": [
-          "Brazil National Register of Disreputable and Suspended Companies"
-        ],
-        "query": [
-          "Banca de Economii"
-        ]
+        "outlet": "NewsMaker"
       },
-      "uid": "2c340c26d35011a7"
+      "uid": "be1f0d644ac16469"
     }
   ],
   "momentum": [
     [
-      "Maia Sandu",
-      9
+      "Energie / Gazprom / Moldovagaz",
+      8
     ],
     [
-      "Energie / Gazprom / Moldovagaz",
-      9
+      "Maia Sandu",
+      7
     ],
     [
       "Banca de Economii",
