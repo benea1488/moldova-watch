@@ -1,80 +1,32 @@
 {
-  "generated": "2026-08-22T07:09:21.154627+00:00",
-  "count": 4,
+  "generated": "2026-08-23T07:10:52.286317+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: газ подорожал на 41%, Тофан показал доходы и имущество, Гуцул отказалась работать в тюрьме, Колбасна — не Хиросима",
-      "url": "https://newsmaker.md/ru/nm-espresso-2",
-      "date": "Sat, 22 Aug 2026 05:08:00 +0000",
-      "summary": "Тариф на газ Тариф на газ для бытовых потребителей в Молдове вырос на 5,88 лея — до 20,30 лея за кубометр с учетом НДС. Новые тарифы 21 августа утвердило Национальное агентство регулирования в энергетике. При этом у здания регулятора проходил протест оппозиции против подорожания энергоресурсов. О то",
+      "title": "[NewsMaker] Санду осудила атаку России на торговый центр в Кривом Роге. Погибли не менее 16 человек, более 130 ранены",
+      "url": "https://newsmaker.md/ru/sandu-osudila-ataku-rossii-na-torgovyi-czentr-v-krivom-roge-pogibli-ne-menee-16-chelovek-bolee-130-raneny",
+      "date": "Sat, 22 Aug 2026 09:20:57 +0000",
+      "summary": "Президент Молдовы Майя Санду осудила российскую атаку на украинский город Кривой Рог. В результате этого удара погибли не менее 16 человек, более 130 получили ранения, а также поврежден крупнейший торговый центр в городе. Президент назвала эту «варварской» и выразила солидарность с семьями погибших.",
       "entities": [
-        "Evghenia Gutul"
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 7.9,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "24266425c402cfa5"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Сколько зарабатывал Тофан?/ Гуцул не хочет работать в тюрьме/ Турция обучит гагаузов румынскому",
-      "url": "https://newsmaker.md/ru/video-skolko-zarabatyval-tofan-guczul-ne-hochet-rabotat-v-tyurme-turcziya-obuchit-gagauzov-rumynskomu",
-      "date": "Fri, 21 Aug 2026 16:48:08 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Гайдаржи просит парламент не рассматривать поправки в Избирательный кодекс— Гуцул не просила предоставить ей работу и была переведена в Руску— Ввод в эксплуатацию ЛЭП Вулканешты–Кишинев снова отложили— Новые выборы в Кирсово: мэ",
-      "entities": [
-        "Evghenia Gutul"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "1fecb75a46ab5d76"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Гуцул отказалась работать в тюрьме №13? В Национальной администрации тюрем объяснили, почему ее перевели в Руску",
-      "url": "https://newsmaker.md/ru/guczul-otkazalas-rabotat-v-tyurme-%e2%84%9613-v-naczionalnoi-administraczii-tyurem-obyasnili-pochemu-ee-pereveli-v-rusku",
-      "date": "Fri, 21 Aug 2026 15:07:48 +0000",
-      "summary": "Национальная администрация тюрем подтвердила, что адвокаты Евгении Гуцул просили оставить ее в тюрьме №13 в Кишиневе, однако это требование отклонили. В ответе NewsMaker ведомство пояснило, что экс-башкана перевели в тюрьму №7 в селе Руска для отбывания окончательного наказания в виде семи лет лишен",
-      "entities": [
-        "Evghenia Gutul"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "fada89e66e0e3b66"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Executorii, condamnaţi în dosarul interceptărilor ilegale",
-      "url": "https://www.rise.md/executorii-condamnati-in-dosarul-interceptarilor-ilegale/",
-      "date": "Fri, 21 Aug 2026 11:42:27 +0000",
-      "summary": "La şapte ani de la dezvăluirile RISE Moldova privind amploarea interceptărilor ilegale a politicienilor de opoziție, activiștilor civici [&#8230;]\nThe post Executorii, condamnaţi în dosarul interceptărilor ilegale appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
-      ],
-      "score": 6.0,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "3b95608fc44e4e63"
+      "uid": "a27b5295c52c8943"
     }
   ],
   "momentum": [
     [
-      "Energie / Gazprom / Moldovagaz",
-      7
+      "Maia Sandu",
+      8
     ],
     [
-      "Maia Sandu",
-      7
+      "Energie / Gazprom / Moldovagaz",
+      5
     ],
     [
       "Evghenia Gutul",
