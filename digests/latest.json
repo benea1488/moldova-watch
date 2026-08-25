@@ -1,29 +1,29 @@
 {
-  "generated": "2026-08-24T07:35:30.222509+00:00",
-  "count": 3,
+  "generated": "2026-08-25T07:17:54.923760+00:00",
+  "count": 5,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Alerte cu bombă la Curtea de Apel Centru în ziua în care a fost stabilită prima ședință din dosarul lui Plahotniuc",
-      "url": "https://www.zdg.md/stiri/alerte-cu-bomba-la-curtea-de-apel-centru-in-ziua-in-care-a-fost-stabilita-prima-sedinta-din-dosarul-lui-plahotniuc/",
-      "date": "Mon, 24 Aug 2026 07:10:18 +0000",
-      "summary": "Două alerte cu bombă au fost semnalate în dimineața zilei de luni, 24 august 2026, când a fost stabilită prima ședință din dosarul lui Vladimir Plahotniuc, condamnat de prima instanță la 19 ani de detenție Știrea se actualizează… Prima alertă cu bombă a fost semnalată la ora 07:01, iar cea de-a două",
+      "title": "[NewsMaker] Гречаный дала показания по делу «Кулек». Что она рассказала о Додоне и Плахотнюке?",
+      "url": "https://newsmaker.md/ru/grechanyi-dala-pokazaniya-po-delu-kulek-chto-ona-rasskazala-o-dodone-i-plahotnyuke",
+      "date": "Mon, 24 Aug 2026 17:30:55 +0000",
+      "summary": "24 августа на заседании суда по делу «Кулек», в котором главный обвиняемый бывший президент Игорь Додон, заслушали депутата-социалиста Зинаиду Гречаный. Адвокаты бывшего президента Игоря Додона потребовали заслушать 108 свидетелей, но судьи, разрешили допрос лишь пяти из них. Гречаный рассказала о&#",
       "entities": [
-        "Vladimir Plahotniuc"
+        "Igor Dodon"
       ],
       "tags": [],
-      "score": 9.5,
+      "score": 8.7,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "NewsMaker"
       },
-      "uid": "71b5a5d7a77ee077"
+      "uid": "5571c3a2ec57c894"
     },
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Maia Sandu îi va conferi lui Zelenski Ordinul Republicii",
-      "url": "https://www.zdg.md/stiri/maia-sandu-ii-va-conferi-lui-zelenski-ordinul-republicii/",
-      "date": "Mon, 24 Aug 2026 06:08:07 +0000",
-      "summary": "Pe 25 august, Ucraina împlinește 35 de ani de independență. În acest context, președinta R. Moldova, Maia Sandu, a anunțat că i-a conferit Ordinul Republicii președintelui ucrainean Volodimir Zelenski „pentru contribuția excepțională la apărarea păcii și a libertății pe continentul european”. „Sunt ",
+      "title": "[Ziarul de Garda] Președinții României și Ucrainei, invitați în R. Moldova pentru marcarea a 35 de ani de independență",
+      "url": "https://www.zdg.md/stiri/politic/presedintii-romaniei-si-ucrainei-invitati-in-r-moldova-pentru-marcarea-a-35-de-ani-de-independenta/",
+      "date": "Tue, 25 Aug 2026 06:40:18 +0000",
+      "summary": "Președinția a confirmat marți, 25 august, că președinta Maia Sandu i-a invitat pe președintele României, Nicușor Dan, și pe președintele Ucrainei, Volodimir Zelenski, la manifestările dedicate împlinirii a 35 de ani de independență a R. Moldova, care vor avea loc la Chișinău pe 27 august. Instituția",
       "entities": [
         "Maia Sandu"
       ],
@@ -32,14 +32,14 @@
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "29601deb6d433719"
+      "uid": "7d643bafd4734173"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду приехала в Киев на День независимости Украины. Она вручит Зеленскому «Орден Республики»",
-      "url": "https://newsmaker.md/ru/sandu-priehala-v-kiev-na-den-nezavisimosti-ukrainy-ona-vruchit-zelenskomu-orden-respubliki",
-      "date": "Mon, 24 Aug 2026 06:33:04 +0000",
-      "summary": "Президент Молдовы Майя Санду находится в Киеве. Об этом глава государства сообщила утром 24 августа. Санду сказала, что вручит президенту Украины Владимиру Зеленскому высшую государственную награду Молдовы — «Орден Республики». «Сегодня Украина отмечает 35-летие независимости. Через три дня Молдова ",
+      "title": "[NewsMaker] (ВИДЕО) Первая леди Румынии обговорила с Санду свой визит в Кишинев. Она хочет встретиться с депутатом от PAS",
+      "url": "https://newsmaker.md/ru/video-pervaya-ledi-rumynii-obgovorila-s-sandu-svoi-vizit-v-kishinev-ona-hochet-vstretitsya-s-deputatom-ot-pas",
+      "date": "Tue, 25 Aug 2026 06:52:03 +0000",
+      "summary": "Гражданская жена президента Румынии Мирабела Грэдинару во время визита в Киев 24 августа по случаю Дня независимости Украины обговорила с президентом Молдовы Майей Санду свой визит в Кишинев 1 сентября. Грэдинару сказала, что хотела бы встретиться с депутатом от PAS Людмилой Адамчук, деятельность ко",
       "entities": [
         "Maia Sandu"
       ],
@@ -48,25 +48,57 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "5fd45f96c5c1d29c"
+      "uid": "0ec29c214c41795d"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду подтвердила: В Кишинев 27 августа пригласили Владимира Зеленского и Никушора Дана",
+      "url": "https://newsmaker.md/ru/sandu-podtverdila-v-kishinev-27-avgusta-pribudut-vladimir-zelenskii-i-nikushor-dan",
+      "date": "Tue, 25 Aug 2026 05:50:55 +0000",
+      "summary": "Президент Майя Санду подтвердила, что пригласила президента Румынии Никушора Дана и президента Украины Владимира Зеленского в Кишинев 27 августа на празднование Дня независимости Молдовы. Ранее эту информацию сообщили NM два источника, знакомых с ситуацией. Аппарат президента Майя Санду подтвердил, ",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "257392a68c49e234"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] NM Espresso: Санду и Зеленский «обменялись» орденами, оппозиция провела «марш мира», Плахотнюку подложили «бомбу?»",
+      "url": "https://newsmaker.md/ru/nm-espresso-3",
+      "date": "Tue, 25 Aug 2026 05:08:00 +0000",
+      "summary": "Молдова и Украина: независимость Накануне Украина отмечала День независимости. К этой дате здание парламента Молдовы подсветили в цвета украинского флага, а в парламенте открыли выставку, посвященную церквям и другим объектам, разрушенным или поврежденным в результате военной агрессии России.  Прези",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "95d8aabcce126164"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      8
+      12
     ],
     [
       "Evghenia Gutul",
       5
     ],
     [
-      "Banca de Economii",
+      "Energie / Gazprom / Moldovagaz",
       4
     ],
     [
-      "Energie / Gazprom / Moldovagaz",
-      4
+      "Banca de Economii",
+      3
     ]
   ],
   "errors": []
