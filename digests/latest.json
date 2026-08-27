@@ -1,29 +1,94 @@
 {
-  "generated": "2026-08-26T07:17:58.624170+00:00",
-  "count": 4,
+  "generated": "2026-08-27T17:45:06.182026+00:00",
+  "count": 11,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Усатый хочет новый гимн/ Додон назвал имя будущего башкана?/ В Молдове пройдут ливни",
-      "url": "https://newsmaker.md/ru/video-usatyi-hochet-novyi-gimn-dodon-nazval-imya-budushego-bashkana-v-moldove-proidut-livni",
-      "date": "Tue, 25 Aug 2026 17:00:40 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Григорий Узун — кандидат ПСРМ на должность башкана Гагаузии— Усатый хочет другой гимн: «С нашим только на поминки»— Желтый код из-за сильных дождей: грозы и прохлада вместо жары— НСГ определит дату выборов башкана— Учителя о еди",
+      "title": "[Ziarul de Garda] Ce este „drujba”? Răspunsuri de la Victor Bostan, Vlad Druc, Maia Sandu, Valeriu Bulat, Ludmila Tihonov, Alexandru Postică și Vladimir Ternavschi",
+      "url": "https://www.zdg.md/stiri/politic/ce-este-drujba-raspunsuri-de-la-victor-bostan-vlad-druc-maia-sandu-valeriu-bulat-ludmila-tihonov-alexandru-postica-si-vladimir-ternavschi/",
+      "date": "Thu, 27 Aug 2026 14:30:00 +0000",
+      "summary": "În anul 2001, Vladimir Voronin și Vladimir Putin au semnat Tratatul de pace și prietenie între Federația Rusă și Republica Moldova (Договор о мире и дружбе между Россией и Молдовой). Acest tratat conține peste 30 de articole cu prevederi de respect reciproc, dezvoltare a culturii și bunelor relații.",
       "entities": [
-        "Igor Dodon"
+        "Vladimir Voronin",
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 10.3,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "a86f9a9b2f05ad2f"
+      "uid": "5eb336b7c8c4b1e8"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: молдавским министром станет румынский депутат, Усатый предлагает сменить гимн, в Молдове пройдут  ливни",
-      "url": "https://newsmaker.md/ru/nm-espresso-minekonomiki-vozglavit-deputat-iz-rumynii-rumynskogo-yazyka-na-tv-stanet-bolshe-na-moldovu-idut-dojdi",
-      "date": "Wed, 26 Aug 2026 05:08:00 +0000",
-      "summary": "Перестановки в правительстве Министром экономики Молдовы станет депутат парламента Румынии Клаудиу Нэсуй, которому 25 августа президент Майя Санду предоставила гражданство Молдовы. А нынешнего главу минэкономики Евгения Осмокеску, проработавшего на этом посту два месяца, «перебросят» на министерство",
+      "title": "[Ziarul de Garda] LIVE/ Conferință susținută de Maia Sandu, Nicușor Dan și Volodimir Zelenski: „Eram trei țări sărace, la marginea Europei, cu economii ruinate și cu viitorul incert, iar astăzi trei state europene stăm la aceeași masă, respectate în Europa și în lume”",
+      "url": "https://www.zdg.md/stiri/live-conferinta-sustinuta-de-maia-sandu-nicusor-dan-si-volodimir-zelenski-eram-trei-tari-sarace-la-marginea-europei-cu-economii-ruinate-si-cu-viitorul-incert-iar-astazi-trei-state-europene-stam-la-ace/",
+      "date": "Thu, 27 Aug 2026 17:03:28 +0000",
+      "summary": "Președinta R. Moldova, Maia Sandu, și omologii săi din România și Ucraina, Nicușor Dan și Volodimir Zelenski, susțin o conferință de presă comună după reuniune trilaterală a delegațiilor R. Moldova, României și Ucrainei. „Faptul că astăzi, de Ziua Independenții, sunteți amândoi aici, la Chișinău, ar",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "514366d5087bfcba"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] VIDEO/ Președintele Ucrainei, Volodimir Zelenski, întâmpinat de către președinta Maia Sandu",
+      "url": "https://www.zdg.md/stiri/politic/video-presedintele-ucrainei-volodimir-zelenski-intampinat-de-catre-presedinta-maia-sandu/",
+      "date": "Thu, 27 Aug 2026 15:06:55 +0000",
+      "summary": "Președintele Ucrainei, Volodimir Zelenski, a fost întâmpinat la Chișinău de către șefa statului, Maia Sandu, în contextul celei de-a 35-a aniversări a independenței R. Moldova. La Președinție va avea loc o reuniune trilaterală a delegațiilor Republicii Moldova, României și Ucrainei. Liderul de la Ki",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "1672485af653fe11"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] VIDEO/ Parada militară dedicată celor 35 de ani de Independență: peste două mii de militari și veterani defilează în centrul capitalei",
+      "url": "https://www.zdg.md/stiri/stiri-sociale/video-parada-militara-dedicata-celor-35-de-ani-de-independenta-peste-doua-mii-de-militari-si-veterani-defileaza-in-centrul-capitalei/",
+      "date": "Thu, 27 Aug 2026 13:50:28 +0000",
+      "summary": "În Piața Marii Adunări Naționale a avut loc parada militară consacrată aniversării a 35 de ani de la proclamarea Independenței Republicii Moldova. La eveniment a participat și președintele României, Nicușor Dan, alături de președinta Maia Sandu. Potrivit comandantului paradei militare, general de br",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "fe3f9e8d722b7731"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] VIDEO/ Președintele României, întâmpinat la Chișinău de șefa statului",
+      "url": "https://www.zdg.md/stiri/politic/video-presedintele-romaniei-intampinat-la-chisinau-de-sefa-statului/",
+      "date": "Thu, 27 Aug 2026 13:32:03 +0000",
+      "summary": "Președinta Maia Sandu l-a întâmpinat pe președintele României, Nicușor Dan, la Chișinău. Cei doi urmează să participe împreună, începând cu ora 16:45, în Piața Marii Adunări Naționale, la parada militară dedicată celei de-a 35-a aniversări a independenței R. Moldova. La ora 18:00, președinta Maia Sa",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "dd4d5abeaa218d96"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Зеленский в Кишиневе в День независимости: «Друзья должны стоять плечом к плечу»",
+      "url": "https://newsmaker.md/ru/zelenskii-v-kishineve-v-den-nezavisimosti-druzya-doljny-stoyat-plechom-k-plechu",
+      "date": "Thu, 27 Aug 2026 17:15:19 +0000",
+      "summary": "Президент Украины Владимир Зеленский 27 августа прибыл в Кишинев ко Дню независимости Молдовы. После встречи с президентом Майей Санду украинский лидер подчеркнул, что две страны работают над укреплением сотрудничества в сферах безопасности, энергетики и инфраструктуры. «Мы работаем над тем, чтобы у",
       "entities": [
         "Maia Sandu"
       ],
@@ -32,45 +97,93 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "3ce3c42654f55a75"
+      "uid": "9369a25591c847fd"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Deputatul, firma și „Haiducii” care lipsesc din declarația de avere",
-      "url": "https://www.rise.md/deputatul-firma-si-haiducii-care-lipsesc-din-declaratia-de-avere/",
-      "date": "Wed, 26 Aug 2026 06:50:47 +0000",
-      "summary": "Deputatul comunist Adrian Domentiuc deține o companie și continuă să figureze în registre administrator al unei organizații obștești. [&#8230;]\nThe post Deputatul, firma și „Haiducii” care lipsesc din declarația de avere appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
+      "title": "[NewsMaker] (LIVE) Майя Санду, Никушор Дан и Владимир Зеленский проводят совместную пресс-конференцию",
+      "url": "https://newsmaker.md/ru/live-maiya-sandu-nikushor-dan-i-vladimir-zelenskii-provodyat-sovmestnuyu-press-konferencziyu",
+      "date": "Thu, 27 Aug 2026 17:03:22 +0000",
+      "summary": "Президент Молдовы Майя Санду, президент Румынии Никушор Дан и президент Украины Владимир Зеленский проводят совместную пресс-конференцию в здании администрации президента в Кишиневе. NewsMaker ведет прямую трансляцию заявлений трех лидеров. Вечером Майя Санду, Владимир Зеленский и Никушор Дан отправ",
+      "entities": [
+        "Maia Sandu"
       ],
-      "score": 6.0,
+      "tags": [],
+      "score": 7.9,
       "meta": {
-        "outlet": "RISE Moldova"
+        "outlet": "NewsMaker"
       },
-      "uid": "aa217a7dbb264ab7"
+      "uid": "f33e066823978ed2"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Portofoliul de 10 milioane de dolari al noului premier",
-      "url": "https://www.rise.md/portofoliul-de-10-milioane-de-dolari-al-noului-premier/",
-      "date": "Tue, 25 Aug 2026 07:18:25 +0000",
-      "summary": "Premierul Vasile Tofan deţine active de circa 10 milioane de dolari şi a obţinut anul trecut venituri de [&#8230;]\nThe post Portofoliul de 10 milioane de dolari al noului premier appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
+      "title": "[NewsMaker] Санду после военного парада в День независимости: Молдова отошла от «старых советских стандартов»",
+      "url": "https://newsmaker.md/ru/sandu-posle-voennogo-parada-v-den-nezavisimosti-moldova-otoshla-ot-staryh-sovetskih-standartov",
+      "date": "Thu, 27 Aug 2026 16:56:45 +0000",
+      "summary": "Учреждения, отвечающие за безопасность Молдовы, за последние годы модернизировались и отошли от «старых советских стандартов», сказала президент Майя Санду. Об этом президент сообщила 27 августа после военного парада в центре Кишинева к 35-летию независимости Молдовы. Глава государства присутствовал",
+      "entities": [
+        "Maia Sandu"
       ],
-      "score": 6.0,
+      "tags": [],
+      "score": 7.9,
       "meta": {
-        "outlet": "RISE Moldova"
+        "outlet": "NewsMaker"
       },
-      "uid": "be44fa6c0116df2d"
+      "uid": "c87989a891455f37"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Зеленский прибыл в Кишинев. Впереди трехсторонняя встреча с Санду и Никушором Даном",
+      "url": "https://newsmaker.md/ru/zelenskii-pribyl-v-kishinev-vperedi-trehstoronnyaya-vstrecha-s-sandu-i-nikushorom-danom",
+      "date": "Thu, 27 Aug 2026 15:35:23 +0000",
+      "summary": "Президент Украины Владимир Зеленский 27 августа прибыл в Кишинев, где примет участие в мероприятиях, посвященных Дню независимости Молдовы. Украинского лидера встретила глава государства Майя Санду в администрации президента. Далее запланирована трехсторонняя встреча делегаций Молдовы, Румынии и Укр",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "8b22d9f7c517eaf3"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Никушор Дан встретился с Санду. Какие вопросы они обсудили?",
+      "url": "https://newsmaker.md/ru/nikushor-dan-vstretilsya-s-sandu-kakie-voprosy-oni-obsudili",
+      "date": "Thu, 27 Aug 2026 15:00:13 +0000",
+      "summary": "Президент Румынии Никушор Дан, который прибыл с визитом в Кишинев, сообщил, что обсудил с президентом Молдовы Майей Санду энергетическую безопасность, проекты для объединения инфраструктуры, борьбу с дезинформацией, а также необходимость противодействия давлению со стороны России. По его словам, нар",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "5cb11d236d1ccf04"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Новые министры экономики и сельского хозяйства принесут присягу 28 августа",
+      "url": "https://newsmaker.md/ru/novye-ministry-ekonomiki-i-selskogo-hozyaistva-prinesut-prisyagu-28-avgusta",
+      "date": "Thu, 27 Aug 2026 14:11:45 +0000",
+      "summary": "Новый министр экономического развития и цифровизации Клаудиу Нэсуй и новый министр сельского хозяйства Еуджен Осмокеску 28 августа принесут присягу при вступлении в должности. Церемония пройдет в администрации президента в присутствии Майи Санду и премьер-министра Василе Тофана. Как сообщили в админ",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "3346bd9b5662e2a4"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      13
+      24
     ],
     [
       "Evghenia Gutul",
