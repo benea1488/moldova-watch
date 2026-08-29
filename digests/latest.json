@@ -1,61 +1,13 @@
 {
-  "generated": "2026-08-28T18:54:19.738891+00:00",
-  "count": 5,
+  "generated": "2026-08-29T12:48:45.293018+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Миллионы на партию «Шор», зарплаты и протесты. Дело двух фигурантов передали в суд",
-      "url": "https://newsmaker.md/ru/milliony-na-partiyu-shor-zarplaty-i-protesty-delo-dvuh-figurantov-peredali-v-sud",
-      "date": "Fri, 28 Aug 2026 14:39:28 +0000",
-      "summary": "Антикоррупционная прокуратура завершила расследование и передала в суд дело против вице-председателя бывшей партии «Шор» и неофициального члена формирования. Их обвиняют в незаконном финансировании партии на десятки миллионов леев. Оба вину не признают. По&#160;версии следствия, вице-председатель па",
-      "entities": [
-        "Ilan Shor"
-      ],
-      "tags": [],
-      "score": 9.5,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "f12083241251a1c2"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Красносельский: В Приднестровье на выборах в Госдуму РФ откроют 17 участков. Реакция Кишинева",
-      "url": "https://newsmaker.md/ru/krasnoselskii-v-pridnestrove-na-vyborah-v-gosdumu-rf-otkroyut-17-uchastkov-reakcziya-kishineva",
-      "date": "Fri, 28 Aug 2026 16:44:56 +0000",
-      "summary": "Приднестровский лидер Вадим Красносельский сообщил, что в сентябре на выборах в российскую Госдуму Россия откроет в Приднестровье 17 избирательных участков. В Бюро реинтеграции, комментируя эту информацию, заявили, что без согласия конституционных властей Молдовы открытие подобных избирательных учас",
-      "entities": [
-        "Vadim Krasnoselsky"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "9ec41b16feffb858"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Политик из Нидерландов сфотографировался в Приднестровье с автоматом. Что сказали власти Молдовы",
-      "url": "https://newsmaker.md/ru/politik-iz-niderlandov-sfotografirovalsya-v-pridnestrove-s-avtomatom-chto-skazali-vlasti-moldovy",
-      "date": "Fri, 28 Aug 2026 14:31:23 +0000",
-      "summary": "Политик из Нидерландов Том де Нойер, муниципальный советник голландского города Олдебрук, сфотографировался в Приднестровье с автоматом Калашникова в руках и в футболке футбольного клуба «Шериф». На заднем плане виден «флаг» непризнанной ПМР и московского футбольного клуба «Динамо». Эти снимки вызва",
-      "entities": [
-        "Sheriff (Tiraspol)"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "79f526921215e8ac"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Ion Iovcev: „Au luptat pentru limba română, pentru istoria românilor și pentru demnitatea noastră”. Instituțiile cu predare în limba română din stânga Nistrului, distinse cu „Ordinul Onoarei”",
-      "url": "https://www.zdg.md/stiri/ion-iovcev-au-luptat-pentru-limba-romana-pentru-istoria-romanilor-si-pentru-demnitatea-noastra-institutiile-cu-predare-in-limba-romana-din-stanga-nistrului-distinse-cu-o/",
-      "date": "Fri, 28 Aug 2026 15:27:17 +0000",
-      "summary": "„Astăzi m-am bucurat mult când am văzut decretul președintei Maia Sandu”, a afirmat Ion Iovcev, primul director al Liceului Teoretic „Lucian Blaga” din Tiraspol și unul dintre protagoniștii documentarului ZdG „În „drujba” Moscovei. 35 de ani de influență rusă în R. Moldova”. „Recunoaștere meritată p",
+      "title": "[Ziarul de Garda] Cine sunt cei decorați cu „Ordinul Onoarei”. De la un supraviețuitor al foametei sovietice la profesori și apărători ai drepturilor omului",
+      "url": "https://www.zdg.md/stiri/stiri-sociale/cine-sunt-cei-decorati-cu-ordinul-onoarei-de-la-un-supravietuitor-al-foametei-sovietice-la-profesori-si-aparatori-ai-drepturilor-omului/",
+      "date": "Sat, 29 Aug 2026 07:24:52 +0000",
+      "summary": "Iacob Lupanciuc, Arcadie Barbăroșie, Marcel Teleucă, Ion Manole și Angelica Caraman sunt persoanele distinse cu „Ordinul Onoarei” de președinta R. Moldova, Maia Sandu, la 28 august, cu prilejul Zilei Independenței. Cei cinci provin din domenii diferite &#8211; de la educație și cercetare până la apă",
       "entities": [
         "Maia Sandu"
       ],
@@ -64,37 +16,53 @@
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "0fddb6234488626f"
+      "uid": "cc59c5a2f049f634"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Потребители звонят в Energocom из-за полученных счетов за газ за июль. Уточнение компании",
-      "url": "https://newsmaker.md/ru/potrebiteli-zvonyat-v-energocom-iz-za-poluchennyh-schetov-za-iyul-utochnenie-kompanii",
-      "date": "Fri, 28 Aug 2026 18:14:35 +0000",
-      "summary": "В Молдове счета за потребление газа в июле, выставленные сегодня, 28 августа, а также счета за потребление за август, которые придут потребителям в сентябре, рассчитаны по действующим тарифам. Об этом сообщил Energocom, сообщив, что сегодня в колл-центр компании поступило около 4 тыс. звонков, из ко",
+      "title": "[Ziarul de Garda] Au sfidat regimul sovietic când aveau 16 și 19 ani și au pus KGB-ul în alertă. Lilia Pîrgari și Asea Scorpan, decorate cu „Ordinul Republicii”",
+      "url": "https://www.zdg.md/stiri/stiri-sociale/au-sfidat-regimul-sovietic-cand-aveau-16-si-19-ani-si-au-pus-kgb-ul-in-alerta-lilia-pirgari-si-asea-scorpan-decorate-cu-ordinul-republicii/",
+      "date": "Sat, 29 Aug 2026 06:55:00 +0000",
+      "summary": "Lilia Pîrgari (Neagu) și Asea Scorpan, cunoscute pentru acțiunea antisovietică pe care au organizat-o la Chișinău în urmă cu aproape 56 de ani, au fost distinse cu „Ordinul Republicii”. Distincțiile le-au fost acordate de președinta Maia Sandu printr-un decret emis la 28 august. În prezent, Lilia Pî",
       "entities": [
-        "Energie / Gazprom / Moldovagaz"
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 6.1,
+      "score": 7.9,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "18b02a6ebead9ef5"
+      "uid": "9713a4e36237ea0c"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Cum statul (nu) a strâns cureaua de Ziua Independenței",
+      "url": "https://www.rise.md/cum-statul-nu-a-strans-cureaua-de-ziua-independentei/",
+      "date": "Sat, 29 Aug 2026 10:05:18 +0000",
+      "summary": "„I-am solicitat domnului ministru (n.r. &#8211; al Culturii) să reducem cheltuielile pentru sărbătorirea acestor două zile (n.r. &#8211; [&#8230;]\nThe post Cum statul (nu) a strâns cureaua de Ziua Independenței appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "5e4a0636fb75aa35"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      25
+      26
     ],
     [
       "Evghenia Gutul",
-      5
+      4
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      4
+      3
     ],
     [
       "Banca de Economii",
