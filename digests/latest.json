@@ -1,11 +1,76 @@
 {
-  "generated": "2026-08-30T12:07:21.375000+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-08-31T14:14:14.611833+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] „Să le transmitem copiilor noștri dragostea pentru limba română”: mesajele președintei, premierului și președintelui Parlamentului de Ziua Limbii Române",
+      "url": "https://www.zdg.md/stiri/sa-le-transmitem-copiilor-nostri-dragostea-pentru-limba-romana-mesajele-presedintei-premierului-si-presedintelui-parlamentului-de-ziua-limbii-romane/",
+      "date": "Mon, 31 Aug 2026 09:11:48 +0000",
+      "summary": "Cu prilejul Zilei Limbii Române, marcate anual pe 31 august, șefa statului Maia Sandu și președintele Parlamentului Igor Grosu au venit cu mesaje pe rețelele de socializare, iar premierul Vasile Tofan a ținut un discurs Piața Marii Adunări Naționale (PMAN), unde a avut loc Marea Dictare Națională. P",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "758de55cdb6c68ca"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду поздравила с Днем румынского языка: «Сегодня мы можем говорить на нем свободно, не боясь»",
+      "url": "https://newsmaker.md/ru/sandu-pozdravila-s-dnem-rumynskogo-yazyka-segodnya-my-mojem-govorit-na-nem-svobodno-ne-boyas",
+      "date": "Mon, 31 Aug 2026 07:49:30 +0000",
+      "summary": "Президент Молдовы Майя Санду поздравила жителей страны с Днем румынского языка, который отмечают 31 августа. Она подчеркнула важность сохранения языка и передачи его следующим поколениям. «Румынский язык — часть нашей сущности. Наши родители и бабушки с дедушками продолжали говорить на нем даже в са",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "1a7d017275e7bf5c"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Cazul Berari: judecat pentru a patra oară în zece ani",
+      "url": "https://www.rise.md/articol/cazul-berari-judecat-pentru-a-patra-oara-in-zece-ani/",
+      "date": "Mon, 31 Aug 2026 13:11:40 +0000",
+      "summary": "La zece ani de când dosarul a ajuns în instanță, cazul medicului acuzat de neglijență la nașterea Deliei [&#8230;]\nThe post Cazul Berari: judecat pentru a patra oară în zece ani appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "b012b980b50ef4c8"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Guvernul explică cum „a strâns cureaua” de Ziua Independenței: „Am redus costurile cu peste 21%”",
+      "url": "https://www.rise.md/guvernul-explica-cum-a-strans-cureaua-de-ziua-independentei-am-redus-costurile-cu-peste-21/",
+      "date": "Sun, 30 Aug 2026 17:27:07 +0000",
+      "summary": "Guvernul susține că a redus cu 2,7 milioane de lei costurile concertului organizat pe 27 august 2026, după [&#8230;]\nThe post Guvernul explică cum „a strâns cureaua” de Ziua Independenței: „Am redus costurile cu peste 21%” appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "f1500ffbd5a44705"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
-      26
+      28
     ],
     [
       "Evghenia Gutul",
@@ -20,7 +85,5 @@
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7f24ac1e0650>, 'Connection to api.gdeltproject.org timed out. (connect timeout=25)'))"
-  ]
+  "errors": []
 }
