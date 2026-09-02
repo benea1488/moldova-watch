@@ -1,22 +1,22 @@
 {
-  "generated": "2026-09-01T11:53:55.840784+00:00",
+  "generated": "2026-09-02T11:33:47.479991+00:00",
   "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Cazul Berari: judecat pentru a treia oară în zece ani",
-      "url": "https://www.rise.md/articol/cazul-berari-judecat-pentru-a-treia-oara-in-zece-ani/",
-      "date": "Mon, 31 Aug 2026 13:11:40 +0000",
-      "summary": "La zece ani de când dosarul a ajuns în instanță, cazul medicului acuzat de neglijență la nașterea Deliei [&#8230;]\nThe post Cazul Berari: judecat pentru a treia oară în zece ani appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
+      "title": "[NewsMaker] «Россия действует по одной и той же схеме»: Санду выразила солидарность с Германией после неудавшейся атаки дрона в аэропорту Лейпцига",
+      "url": "https://newsmaker.md/ru/rossiya-deistvuet-po-odnoi-i-toi-je-sheme-sandu-vyrazila-solidarnost-s-germaniei-posle-neudavsheisya-ataki-drona-v-aeroportu-leipcziga",
+      "date": "Wed, 02 Sep 2026 09:06:47 +0000",
+      "summary": "Президент Молдовы Майя Санду выразила солидарность с Германией после того, как власти в Берлине напрямую обвинили Москву в причастности к инциденту с беспилотником в аэропорту Лейпцига в начале августа. По мнению Санду, подобные действия направлены на то, чтобы проверить пределы возможностей Европы ",
+      "entities": [
+        "Maia Sandu"
       ],
-      "score": 6.0,
+      "tags": [],
+      "score": 7.9,
       "meta": {
-        "outlet": "RISE Moldova"
+        "outlet": "NewsMaker"
       },
-      "uid": "6d0ee8347f8e452a"
+      "uid": "445928cc47e2a2e3"
     }
   ],
   "momentum": [
@@ -25,19 +25,9 @@
       26
     ],
     [
-      "Banca de Economii",
-      3
-    ],
-    [
-      "Igor Dodon",
-      3
-    ],
-    [
       "Evghenia Gutul",
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ConnectTimeoutError(<HTTPSConnection(host='api.gdeltproject.org', port=443) at 0x7fb1258fcf90>, 'Connection to api.gdeltproject.org timed out. (connect timeout=25)'))"
-  ]
+  "errors": []
 }
