@@ -1,13 +1,29 @@
 {
-  "generated": "2026-09-02T11:33:47.479991+00:00",
-  "count": 1,
+  "generated": "2026-09-03T11:30:02.062043+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] «Россия действует по одной и той же схеме»: Санду выразила солидарность с Германией после неудавшейся атаки дрона в аэропорту Лейпцига",
-      "url": "https://newsmaker.md/ru/rossiya-deistvuet-po-odnoi-i-toi-je-sheme-sandu-vyrazila-solidarnost-s-germaniei-posle-neudavsheisya-ataki-drona-v-aeroportu-leipcziga",
-      "date": "Wed, 02 Sep 2026 09:06:47 +0000",
-      "summary": "Президент Молдовы Майя Санду выразила солидарность с Германией после того, как власти в Берлине напрямую обвинили Москву в причастности к инциденту с беспилотником в аэропорту Лейпцига в начале августа. По мнению Санду, подобные действия направлены на то, чтобы проверить пределы возможностей Европы ",
+      "title": "[Ziarul de Garda] De Ziua Armatei Naționale, Maia Sandu a înmânat distincții de stat și diplome de onoare. „O Moldovă pașnică are nevoie de o Moldovă capabilă să-și apere pacea”",
+      "url": "https://www.zdg.md/stiri/de-ziua-armatei-nationale-maia-sandu-a-inmanat-distinctii-de-stat-si-diplome-de-onoare-o-moldova-pasnica-are-nevoie-de-o-moldova-capabila-sa-si-apere-pacea/",
+      "date": "Thu, 03 Sep 2026 09:39:16 +0000",
+      "summary": "Președinta R. Moldova, Maia Sandu, a participat joi, 3 septembrie, la ceremonia dedicată aniversării a 35 de ani de la crearea Armatei Naționale. Cu ocazia ceremoniei, șefa statului a înmânat distincții de stat și diplome de onoare, potrivit unui comunicat al Președinției. Șefa statului le-a mulțumi",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "a4d1f27de9a8f6a9"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду поздравила Национальную армию с 35-летием: «Мирной Молдове нужна Молдова, способная защищать свой мир»",
+      "url": "https://newsmaker.md/ru/sandu-pozdravila-naczionalnuyu-armiyu-s-35-letiem",
+      "date": "Thu, 03 Sep 2026 10:41:04 +0000",
+      "summary": "Президент Молдовы Майя Санду 3 сентября приняла участие в церемонии по случаю 35-летия создания Национальной армии. Она поблагодарила военнослужащих за профессионализм, дисциплину и ответственность и отметила прогресс в укреплении армии. Санду подчеркнула, что Молдова «непосредственно ощущает послед",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,13 +32,13 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "445928cc47e2a2e3"
+      "uid": "89377a8a16fa61ee"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      26
+      28
     ],
     [
       "Evghenia Gutul",
