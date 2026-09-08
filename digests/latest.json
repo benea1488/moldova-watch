@@ -1,30 +1,13 @@
 {
-  "generated": "2026-09-07T12:51:13.943227+00:00",
-  "count": 4,
+  "generated": "2026-09-08T11:34:08.453690+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Стояногло вместо Гуцул?/ Доноры запрещают снижать зарплату чиновников?/ Мариан оскорбил фермеров?",
-      "url": "https://newsmaker.md/ru/video-stoyanoglo-vmesto-guczul-donory-zapreshayut-snijat-zarplatu-chinovnikov-marian-oskorbil-fermerov",
-      "date": "Mon, 07 Sep 2026 12:32:24 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Стояногло намерен баллотироваться в башканы Гагаузии— «Сила фермеров» ждет публичных извинений от Раду Мариана. Реакция депутата— Перчун о высоких зарплатах: проблема связана с международными партнерами— В Кишиневе впервые старт",
-      "entities": [
-        "Alexandr Stoianoglo",
-        "Evghenia Gutul"
-      ],
-      "tags": [],
-      "score": 11.1,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "e1c92d64b404f430"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Стояногло намерен баллотироваться в башканы Гагаузии",
-      "url": "https://newsmaker.md/ru/stoyanoglo-nameren-ballotirovatsya-v-bashkany-gagauzii",
-      "date": "Mon, 07 Sep 2026 07:17:24 +0000",
-      "summary": "Депутат от блока «Альтернатива» Александр Стояногло намерен баллотироваться на пост башкана Гагаузии. Об этом Стояногло заявил 7 сентября на пресс-конференции. Стояногло будет баллотироваться как независимый кандидат. «Я буду участвовать в выборах башкана Гагаузии как независимый кандидат. В первую ",
+      "title": "[NewsMaker] NM Espresso: Стояногло идет в башканы,  ЖДМ разделят надвое, Перчун показал свои дипломы",
+      "url": "https://newsmaker.md/ru/nm-espresso-stoyanoglo-hochet-stat-bashkanom-gagauzii-jdm-razdelyat-nadvoe",
+      "date": "Tue, 08 Sep 2026 05:08:00 +0000",
+      "summary": "Выборы в Гагаузии Депутат от блока «Альтернатива», экс-генпрокурор Александр Стояногло сообщил, что будет баллотироваться на пост башкана Гагаузии как независимый кандидат. И объяснил, почему принял такое решение: «Далеко не каждую проблему Гагаузии можно решить из парламента». Стояногло также пообе",
       "entities": [
         "Alexandr Stoianoglo"
       ],
@@ -33,50 +16,24 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "6cdb51865e4d8b74"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] În mai multe localități din țară vor avea loc sistări ale livrării gazelor naturale în această săptămână. Lista adreselor afectate",
-      "url": "https://www.zdg.md/stiri/in-mai-multe-localitati-din-tara-vor-avea-loc-sistari-ale-livrarii-gazelor-naturale-in-aceasta-saptamana-lista-adreselor-afectate/",
-      "date": "Mon, 07 Sep 2026 11:21:08 +0000",
-      "summary": "Începând de luni, 7 septembrie și până sâmbătă, 12 septembrie, vor avea loc sistări temporare ale livrării gazelor naturale în mai multe localități din țară, în legătură cu executarea unor lucrări planificate la rețelele de distribuție, informează S.A. „Energocom”. „Lucrările sunt executate de opera",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "3fec45effd12101c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Peste 78% din energia electrică achiziționată de Energocom în luna august a provenit din importuri",
-      "url": "https://www.zdg.md/stiri/peste-78-din-energia-electrica-achizitionata-de-energocom-in-luna-august-a-provenit-din-importuri/",
-      "date": "Mon, 07 Sep 2026 10:23:25 +0000",
-      "summary": "În luna august 2026, S.A. „Energocom” a achiziționat un volum total de 297 420 MWh de energie electrică, provenită atât din surse interne, cât și din import. Prețul mediu ponderat al energiei procurate a fost de 156,80 EUR/MWh, informează compania. Cea mai mare parte din totalul de energie achizițio",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "7c12837840633720"
+      "uid": "f8999f5a774b275e"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      24
+      20
     ],
     [
       "Energie / Gazprom / Moldovagaz",
       3
+    ],
+    [
+      "Alexandr Stoianoglo",
+      3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }

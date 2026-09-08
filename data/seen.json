@@ -391,17 +391,10 @@
 "3fec45effd12101c": "2026-09-07",
 "7c12837840633720": "2026-09-07",
 "e1c92d64b404f430": "2026-09-07",
-"6cdb51865e4d8b74": "2026-09-07"
+"6cdb51865e4d8b74": "2026-09-07",
+"f8999f5a774b275e": "2026-09-08"
 },
 "entity_log": [
-[
-"2026-08-09",
-"Energie / Gazprom / Moldovagaz"
-],
-[
-"2026-08-09",
-"Energie / Gazprom / Moldovagaz"
-],
 [
 "2026-08-10",
 "Sheriff (Tiraspol)"
@@ -660,6 +653,10 @@
 ],
 [
 "2026-09-07",
+"Alexandr Stoianoglo"
+],
+[
+"2026-09-08",
 "Alexandr Stoianoglo"
 ]
 ]
