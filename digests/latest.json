@@ -1,28 +1,76 @@
 {
-  "generated": "2026-09-08T11:34:08.453690+00:00",
-  "count": 1,
+  "generated": "2026-09-09T11:38:50.101547+00:00",
+  "count": 4,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: Стояногло идет в башканы,  ЖДМ разделят надвое, Перчун показал свои дипломы",
-      "url": "https://newsmaker.md/ru/nm-espresso-stoyanoglo-hochet-stat-bashkanom-gagauzii-jdm-razdelyat-nadvoe",
-      "date": "Tue, 08 Sep 2026 05:08:00 +0000",
-      "summary": "Выборы в Гагаузии Депутат от блока «Альтернатива», экс-генпрокурор Александр Стояногло сообщил, что будет баллотироваться на пост башкана Гагаузии как независимый кандидат. И объяснил, почему принял такое решение: «Далеко не каждую проблему Гагаузии можно решить из парламента». Стояногло также пообе",
+      "title": "[NewsMaker] Гагауз, Узун или… Додон поторопился объявить кандидата ПСРМ в башканы Гагаузии?",
+      "url": "https://newsmaker.md/ru/gagauz-ili-uzun-kto-stanet-kandidatom-psrm-na-post-bashkana",
+      "date": "Wed, 09 Sep 2026 08:17:53 +0000",
+      "summary": "Бывший депутат парламента Молдовы от Партии социалистов Федор Гагауз не исключил, что именно он может стать кандидатом ПСРМ на пост башкана Гагаузии вместо Григория Узуна. По его словам, в партии пока не приняли окончательного решения. Пресс-секретарь ПСРМ Кармена Стерпу подтвердила NewsMaker, что о",
       "entities": [
-        "Alexandr Stoianoglo"
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "6f5e1d49e6868927"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Conducerea statului condamnă atacurile cu drone din apropierea frontierei R. Moldova: „Numele acestui agresor este clar: este Rusia, o țară care a ajuns să cheltuie 25 de milioane de dolari pe oră pentru acest război”",
+      "url": "https://www.zdg.md/stiri/conducerea-statului-condamna-atacurile-cu-drone-din-apropierea-frontierei-r-moldova-numele-acestui-agresor-este-clar-este-rusia-o-tara-care-a-ajuns-sa-cheltuie-25-de-milioane-de-dolari-pe/",
+      "date": "Wed, 09 Sep 2026 09:33:21 +0000",
+      "summary": "Președinta Maia Sandu, președintele Parlamentului, Igor Grosu, și premierul Vasile Tofan au condamnat atacul cu drone produs în noaptea de 8 spre 9 septembrie la punctul de trecere a frontierei Starokazacie, Ucraina, situat la aproximativ un kilometru de R. Moldova. Cei trei oficiali au atras atenți",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "b378b3b0664bcd35"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду отправилась в Осло на государственные похороны короля Норвегии Харальда V",
+      "url": "https://newsmaker.md/ru/sandu-otpravilas-v-oslo-na-gosudarstvennye-pohorony-korolya-norvegii-haralda-v",
+      "date": "Wed, 09 Sep 2026 11:27:16 +0000",
+      "summary": "Президент Молдовы Майя Санду 9 сентября принимает участие в государственных похоронах короля Норвегии Харальда V. Церемония проходит в кафедральном соборе Осло в присутствии глав государств и правительств. Как сообщили в администрации президента Молдовы, Санду выразит королевской семье и народу Норв",
+      "entities": [
+        "Maia Sandu"
       ],
       "tags": [],
       "score": 7.9,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "f8999f5a774b275e"
+      "uid": "db77862b587f3342"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду об атаке российских дронов: «Война в Украине уже создает риски для Молдовы»",
+      "url": "https://newsmaker.md/ru/sandu-ob-atake-rossiiskih-dronov-voina-v-ukraine-uje-sozdaet-riski-dlya-moldovy",
+      "date": "Wed, 09 Sep 2026 10:10:43 +0000",
+      "summary": "Война России против Украины «уже создает риски для безопасности Молдовы», заявила президент Майя Санду. Так она прокомментировала атаку российских дронов у молдавской границы и нарушение одним из беспилотников воздушного пространства страны. Санду призвала укреплять способность Молдовы защищать свое",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "d38431056ed59ec4"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      20
+      22
     ],
     [
       "Energie / Gazprom / Moldovagaz",
