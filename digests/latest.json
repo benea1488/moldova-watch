@@ -1,13 +1,30 @@
 {
-  "generated": "2026-09-09T11:38:50.101547+00:00",
+  "generated": "2026-09-10T11:35:55.867206+00:00",
   "count": 4,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Гагауз, Узун или… Додон поторопился объявить кандидата ПСРМ в башканы Гагаузии?",
-      "url": "https://newsmaker.md/ru/gagauz-ili-uzun-kto-stanet-kandidatom-psrm-na-post-bashkana",
-      "date": "Wed, 09 Sep 2026 08:17:53 +0000",
-      "summary": "Бывший депутат парламента Молдовы от Партии социалистов Федор Гагауз не исключил, что именно он может стать кандидатом ПСРМ на пост башкана Гагаузии вместо Григория Узуна. По его словам, в партии пока не приняли окончательного решения. Пресс-секретарь ПСРМ Кармена Стерпу подтвердила NewsMaker, что о",
+      "title": "[NewsMaker] Додон: «Стояногло хотел бы стать кандидатом от ПСРМ на пост башкана Гагаузии, но я поддерживаю Узуна»",
+      "url": "https://newsmaker.md/ru/dodon-stoyanoglo-hotel-by-stat-kandidatom-otpsrm-na-post-bashkana-gagauzii-no-ya-podderjivayu-uzuna",
+      "date": "Thu, 10 Sep 2026 09:13:32 +0000",
+      "summary": "Лидер ПСРМ Игорь Додон заявил, что несколько потенциальных кандидатов на пост башкана Гагаузии хотели бы получить поддержку социалистов. Среди них он назвал депутата от ПСРМ Григория Узуна, бывшего депутата-социалиста Иванну Коксал и бывшего генерального прокурора Александра Стояногло, который сейча",
+      "entities": [
+        "Igor Dodon",
+        "Alexandr Stoianoglo"
+      ],
+      "tags": [],
+      "score": 11.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "3bc9e3366a38b06e"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Додон готов обсуждать с Россией газ, но не беспилотники? Лидер ПСРМ: «Я не представитель власти»",
+      "url": "https://newsmaker.md/ru/dodon-gotov-obsujdat-s-moskvoi-gaz-no-ne-bespilotniki-ya-ne-predstavitel-vlasti",
+      "date": "Thu, 10 Sep 2026 11:19:41 +0000",
+      "summary": "Лидер ПСРМ Игорь Додон сказал, что недавние инциденты с беспилотниками представляют угрозу национальной безопасности Молдовы. На вопрос, намерен ли он обсуждать эту проблему с российскими официальными лицами, депутат ответил, что не представляет власти Кишинева, и выступил за скорейшее прекращение в",
       "entities": [
         "Igor Dodon"
       ],
@@ -16,69 +33,57 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "6f5e1d49e6868927"
+      "uid": "db81b7906ce07884"
     },
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Conducerea statului condamnă atacurile cu drone din apropierea frontierei R. Moldova: „Numele acestui agresor este clar: este Rusia, o țară care a ajuns să cheltuie 25 de milioane de dolari pe oră pentru acest război”",
-      "url": "https://www.zdg.md/stiri/conducerea-statului-condamna-atacurile-cu-drone-din-apropierea-frontierei-r-moldova-numele-acestui-agresor-este-clar-este-rusia-o-tara-care-a-ajuns-sa-cheltuie-25-de-milioane-de-dolari-pe/",
-      "date": "Wed, 09 Sep 2026 09:33:21 +0000",
-      "summary": "Președinta Maia Sandu, președintele Parlamentului, Igor Grosu, și premierul Vasile Tofan au condamnat atacul cu drone produs în noaptea de 8 spre 9 septembrie la punctul de trecere a frontierei Starokazacie, Ucraina, situat la aproximativ un kilometru de R. Moldova. Cei trei oficiali au atras atenți",
+      "title": "[NewsMaker] Додон утверждает, что гражданин Украины якобы пытался ввезти в Молдову дрон со взрывчаткой. Реакция Гросу",
+      "url": "https://newsmaker.md/ru/dodon-utverjdaet-chto-grajdanin-ukrainy-yakoby-pytalsya-vvezti-v-moldovu-dron-so-vzryvchatkoi-reakcziya-grosu",
+      "date": "Thu, 10 Sep 2026 09:01:17 +0000",
+      "summary": "Депутат и лидер Партии социалистов Игорь Додон утверждает, что гражданин Украины якобы пытался ввезти в Молдову беспилотник со взрывчаткой. Спикер парламента и лидер PAS Игорь Гросу сказал, что не располагает информацией о таком инциденте. NewsMaker запросил комментарий у Пограничной полиции. Утром ",
       "entities": [
-        "Maia Sandu"
+        "Igor Dodon"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "f80bb392154ba4b1"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Modificări în facturile Energocom: Consumatorii vor putea urmări plățile efectuate și soldul existent",
+      "url": "https://www.zdg.md/stiri/modificari-in-facturile-energocom-consumatorii-vor-putea-urmari-platile-efectuate-si-soldul-existent/",
+      "date": "Thu, 10 Sep 2026 10:25:36 +0000",
+      "summary": "Începând cu factura de plată pentru luna august 2026, Energocom va introduce un rând nou în care vor fi reflectate achitările efectuate după încheierea perioadei de facturare și până la data emiterii facturii. Potrivit comunicatului companiei, modificarea are scopul de a prezenta mai clar situația c",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "b378b3b0664bcd35"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду отправилась в Осло на государственные похороны короля Норвегии Харальда V",
-      "url": "https://newsmaker.md/ru/sandu-otpravilas-v-oslo-na-gosudarstvennye-pohorony-korolya-norvegii-haralda-v",
-      "date": "Wed, 09 Sep 2026 11:27:16 +0000",
-      "summary": "Президент Молдовы Майя Санду 9 сентября принимает участие в государственных похоронах короля Норвегии Харальда V. Церемония проходит в кафедральном соборе Осло в присутствии глав государств и правительств. Как сообщили в администрации президента Молдовы, Санду выразит королевской семье и народу Норв",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "db77862b587f3342"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду об атаке российских дронов: «Война в Украине уже создает риски для Молдовы»",
-      "url": "https://newsmaker.md/ru/sandu-ob-atake-rossiiskih-dronov-voina-v-ukraine-uje-sozdaet-riski-dlya-moldovy",
-      "date": "Wed, 09 Sep 2026 10:10:43 +0000",
-      "summary": "Война России против Украины «уже создает риски для безопасности Молдовы», заявила президент Майя Санду. Так она прокомментировала атаку российских дронов у молдавской границы и нарушение одним из беспилотников воздушного пространства страны. Санду призвала укреплять способность Молдовы защищать свое",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "d38431056ed59ec4"
+      "uid": "e50daa10086185fe"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      22
+      11
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      3
+      4
     ],
     [
       "Alexandr Stoianoglo",
-      3
+      4
+    ],
+    [
+      "Igor Dodon",
+      4
     ]
   ],
   "errors": [
