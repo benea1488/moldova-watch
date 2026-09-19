@@ -1,7 +1,57 @@
 {
-  "generated": "2026-09-18T11:32:52.049591+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-09-19T11:16:56.308380+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Молдова рвет пакет с Украиной, «Шериф» и Кремль делят Приднестровье, Додон затмит PAS? / «Разборка»",
+      "url": "https://newsmaker.md/ru/moldova-rvet-paket-s-ukrainoi-sherif-i-kreml-delyat-pridnestrove-dodon-zatmit-pas-razborka",
+      "date": "Sat, 19 Sep 2026 07:04:14 +0000",
+      "summary": "Молдова готовится отвязаться от Украины на пути в ЕС. «Шериф» и Кремль, кажется, поделили Приднестровье, а в Гагаузии в башканы идет кандидат от унионистской AUR. Тем временем Додон обещает «затмение» власти PAS, Румыния вязнет в протестах и политическом кризисе, а дизель в Молдове уже пробил истори",
+      "entities": [
+        "Igor Dodon",
+        "Sheriff (Tiraspol)"
+      ],
+      "tags": [],
+      "score": 11.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "ef4ca2602bc60b96"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] (ВИДЕО) Игорь Додон даст показания по делу «о кульке»",
+      "url": "https://newsmaker.md/ru/video-igor-dodon-dast-pokazaniya-po-delu-o-kulke",
+      "date": "Sat, 19 Sep 2026 10:23:47 +0000",
+      "summary": "Лидера Партии социалистов Игоря Додона могут заслушать в суде 24 или 25 сентября по делу «о кульке». После его показаний судебное следствие может завершиться, после чего стороны перейдут к судебным прениям. Об этом сообщил судья 18 сентября во время заседания по делу «о кульке» в Высшей судебной пал",
+      "entities": [
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "00f1c96094a73f99"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Жунгиету отверг план Moldovagaz использовать резервный газ для снижения тарифов: Рост цен — это не ЧС",
+      "url": "https://newsmaker.md/ru/jungietu-otverg-plan-moldovagaz-ispolzovat-rezervnyi-gaz-dlya-snijeniya-tarifov-rost-czen-eto-ne-chs",
+      "date": "Sat, 19 Sep 2026 09:06:24 +0000",
+      "summary": "Министр энергетики Дорин Жунгиету 18 сентября отверг предложение врио главы Moldovagaz Вадима Чебана использовать резервные запасы газа для снижения тарифов для потребителей. Глава минэнерго подчеркнул, что это стратегический резерв страны, а не коммерческий ресурс и подобный шаг — неоправданный рис",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "33c2566774fd1809"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
@@ -9,22 +59,20 @@
     ],
     [
       "Igor Dodon",
-      5
+      7
+    ],
+    [
+      "Energie / Gazprom / Moldovagaz",
+      4
     ],
     [
       "Alexandr Stoianoglo",
       4
     ],
     [
-      "Energie / Gazprom / Moldovagaz",
-      3
-    ],
-    [
       "Irina Vlah",
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
