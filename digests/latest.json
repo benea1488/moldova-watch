@@ -1,28 +1,55 @@
 {
-  "generated": "2026-09-20T11:40:17.965238+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-09-21T13:05:56.695851+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Узун не идет в башканы Гагаузии из-за (не) знания румынского языка. «Не хочу подставлять крупнейшую оппозиционную партию»",
+      "url": "https://newsmaker.md/ru/uzun-otkazalsya-ballotirovatsya-v-bashkany-gagauzii-iz-za-trebovaniya-znat-rumynskii-yazyk-kogo-podderjit-psrm",
+      "date": "Mon, 21 Sep 2026 11:09:30 +0000",
+      "summary": "Депутат парламента от Партии социалистов (ПСРМ) Григорий Узун решил не выдвигать свою кандидатуру на выборах башкана Гагаузии. Одной из причин он назвал новое требование к кандидатам — владение румынским языком. Лидер ПСРМ Игорь Додон подчеркнул, что партия проведет консультации с другими кандидатам",
+      "entities": [
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "e92d5a9561e6f01f"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Ruble pentru altar",
+      "url": "https://www.rise.md/articol/ruble-pentru-altar/",
+      "date": "Mon, 21 Sep 2026 07:12:29 +0000",
+      "summary": "Documente interne rusești arată cum eparhii, biserici și organizații din Republica Moldova au solicitat și au beneficiat de [&#8230;]\nThe post Ruble pentru altar  appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "ade5e4f3c817ac85"
+    }
+  ],
   "momentum": [
+    [
+      "Igor Dodon",
+      8
+    ],
     [
       "Maia Sandu",
       7
-    ],
-    [
-      "Igor Dodon",
-      7
-    ],
-    [
-      "Energie / Gazprom / Moldovagaz",
-      4
-    ],
-    [
-      "Alexandr Stoianoglo",
-      4
     ],
     [
       "Irina Vlah",
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
