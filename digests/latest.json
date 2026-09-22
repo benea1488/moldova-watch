@@ -1,48 +1,68 @@
 {
-  "generated": "2026-09-21T13:05:56.695851+00:00",
-  "count": 2,
+  "generated": "2026-09-22T11:56:35.567580+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Узун не идет в башканы Гагаузии из-за (не) знания румынского языка. «Не хочу подставлять крупнейшую оппозиционную партию»",
-      "url": "https://newsmaker.md/ru/uzun-otkazalsya-ballotirovatsya-v-bashkany-gagauzii-iz-za-trebovaniya-znat-rumynskii-yazyk-kogo-podderjit-psrm",
-      "date": "Mon, 21 Sep 2026 11:09:30 +0000",
-      "summary": "Депутат парламента от Партии социалистов (ПСРМ) Григорий Узун решил не выдвигать свою кандидатуру на выборах башкана Гагаузии. Одной из причин он назвал новое требование к кандидатам — владение румынским языком. Лидер ПСРМ Игорь Додон подчеркнул, что партия проведет консультации с другими кандидатам",
+      "title": "[Ziarul de Garda] LIVE/ Ședința CSM. Judecătorul Vitalie Budeci a fost eliberat din funcție și lipsit de dreptul la indemnizația unică de concediere. Consiliul a acceptat Raportul Comisiei de evaluare externe",
+      "url": "https://www.zdg.md/stiri/live-sedinta-csm-judecatorul-vitalie-budeci-a-fost-eliberat-din-functie-si-lipsit-de-dreptul-la-indemnizatia-unica-de-concediere-consiliul-a-acceptat-raportul-comisiei-de-evaluare-externe/",
+      "date": "Tue, 22 Sep 2026 11:48:00 +0000",
+      "summary": "Membrii Consiliului Superior al Magistraturii (CSM) se întrunesc marți, 22 septembrie, în ședință. Aceștia urmează să examineze 10 subiecte, printre care cererea candidatei la funcția de judecător Ruxanda Panuș privind înaintarea propunerii repetate președintei Maia Sandu de numire în funcție. Totod",
       "entities": [
-        "Igor Dodon"
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 7.9,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "e92d5a9561e6f01f"
+      "uid": "03d0429b4277b638"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Ruble pentru altar",
-      "url": "https://www.rise.md/articol/ruble-pentru-altar/",
-      "date": "Mon, 21 Sep 2026 07:12:29 +0000",
-      "summary": "Documente interne rusești arată cum eparhii, biserici și organizații din Republica Moldova au solicitat și au beneficiat de [&#8230;]\nThe post Ruble pentru altar  appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
+      "title": "[Ziarul de Garda] Energocom anunță economii de 17,5 milioane de lei până la sfârșitul anului. Compania promite că va reduce cheltuielile salariale și va amâna investiții IT",
+      "url": "https://www.zdg.md/stiri/energocom-anunta-economii-de-175-milioane-de-lei-pana-la-sfarsitul-anului-compania-reduce-cheltuielile-salariale-si-amana-investitii-it/",
+      "date": "Tue, 22 Sep 2026 11:25:57 +0000",
+      "summary": "Energocom anunță că va reduce o parte din plățile salariale care „reprezintă o componentă importantă a remunerației angajaților” și că va amâna unele investiții planificate pentru dezvoltarea sistemelor informaționale în acest an. Măsurile ar urma să genereze economii de aproximativ 17,5 milioane de",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
       ],
-      "score": 6.0,
+      "tags": [],
+      "score": 6.1,
       "meta": {
-        "outlet": "RISE Moldova"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "ade5e4f3c817ac85"
+      "uid": "f26a5100bf72a514"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] В Молдове вырастет тариф на газ? Жунгиету: Energocom обратится в НАРЭ с запросом",
+      "url": "https://newsmaker.md/ru/v-moldove-vyrastet-tarif-na-gaz-jungietu-energocom-obratitsya-v-nare-s-zaprosom",
+      "date": "Tue, 22 Sep 2026 09:15:36 +0000",
+      "summary": "В Молдове может вырасти тариф на газ. Как сказал министр энергетики Дорин Жунгиету 22 сентября, Energocom представит расчеты в Нацагентство регулирования в энергетике (НАРЭ), и Агентство примет решение. На сколько может вырасти тариф, Жунгиету не уточнил. По&#160;словам министра, текущая закупочная ",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "5af3b9d280da0658"
     }
   ],
   "momentum": [
+    [
+      "Maia Sandu",
+      8
+    ],
     [
       "Igor Dodon",
       8
     ],
     [
-      "Maia Sandu",
-      7
+      "Energie / Gazprom / Moldovagaz",
+      4
     ],
     [
       "Irina Vlah",
