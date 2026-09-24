@@ -1,28 +1,60 @@
 {
-  "generated": "2026-09-23T11:55:11.826717+00:00",
-  "count": 1,
+  "generated": "2026-09-24T12:02:59.014579+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Додон поздравил «Единую Россию» с победой на выборах в Госдуму: Новый импульс для развития",
-      "url": "https://newsmaker.md/ru/dodon-pozdravil-edinuyu-rossiyu-s-pobedoi-na-vyborah-v-gosdumu-novyi-impuls-dlya-razvitiya",
-      "date": "Wed, 23 Sep 2026 10:43:05 +0000",
-      "summary": "Лидер Партии социалистов (ПСРМ) и экс-президент Молдовы Игорь Додон поздравил российскую правящую партию «Единая Россия» с победой на прошедших выборах в Госдуму. Пост с поздравлением политик опубликовал 23 сентября в своем Telegram-канале. Додон выразил уверенность в&#160;том, что после этих выборо",
+      "title": "[Ziarul de Garda] Dodon, despre cele patru drone care au survolat R. Moldova: „Unica soluție e să se oprească războiul din Ucraina”",
+      "url": "https://www.zdg.md/stiri/dodon-despre-cele-patru-drone-care-au-survolat-r-moldova-unica-solutie-e-sa-se-opreasca-razboiul-din-ucraina/",
+      "date": "Thu, 24 Sep 2026 09:56:38 +0000",
+      "summary": "Liderul Partidului Socialiștilor din R. Moldova (PSRM), Igor Dodon, afirmă că „condamnă categoric” survolarea R. Moldova cu drone și că războiul din Ucraina trebuie încheiat. Totuși, acesta nu menționează Rusia, cea care a început războiul. Declarațiile vin după ce, în dimineața zilei de 24 septembr",
       "entities": [
         "Igor Dodon"
       ],
       "tags": [],
       "score": 8.7,
       "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "a1a32a57d04bc4b7"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] «Давайте усвоим эти уроки». Гросу прокомментировал возможное новое повышение тарифа на газ",
+      "url": "https://newsmaker.md/ru/davaite-usvoim-eti-uroki-grosu-prokommentiroval-vozmojnoe-novoe-povyshenie-tarifa-na-gaz",
+      "date": "Thu, 24 Sep 2026 11:46:49 +0000",
+      "summary": "Спикер парламента Игорь Гросу прокомментировал запрос Energocom об очередном повышении тарифа на газ. По его словам, тарифы необходимо корректировать своевременно, чтобы энергетические предприятия не накапливали долги. Гросу также пояснил, что механизм компенсаций должен быть максимально адресным. «",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "a62e7754f0e63659"
+      "uid": "262ec611e30d2292"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] 6 млн леев в год за офис Energocom: сколько за аренду платят потребители газа и при чем тут бизнесмен Топало",
+      "url": "https://newsmaker.md/ru/6-mln-leev-v-god-za-ofis-energocom-skolko-za-arendu-platyat-potrebiteli-gaza-i-pri-chem-tut-biznesmen-topalo",
+      "date": "Thu, 24 Sep 2026 10:02:39 +0000",
+      "summary": "Госкомпания Energocom тратит на аренду своего нового офиса более 6 млн леев в год, а эти расходы частично заложены в тариф на газ для конечных потребителей. При этом, по данным журналистов, деньги за аренду поступают компаниям, подконтрольным ранее осужденному за уклонение от уплаты налогов бизнесме",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "0694829555df9582"
     }
   ],
   "momentum": [
     [
       "Igor Dodon",
-      8
+      6
     ],
     [
       "Maia Sandu",
@@ -30,12 +62,14 @@
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      4
+      5
     ],
     [
       "Irina Vlah",
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
