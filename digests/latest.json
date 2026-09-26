@@ -1,56 +1,57 @@
 {
-  "generated": "2026-09-25T12:03:01.244493+00:00",
+  "generated": "2026-09-26T11:38:23.637831+00:00",
   "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] VIDEO/ Dosarul „Kuliok”: Procurorii solicită modificarea învinuirii aduse lui Igor Dodon „în sensul agravării”. Socialistul, prezent în instanță",
-      "url": "https://www.zdg.md/stiri/video-dosarul-kuliok-procurorii-solicita-modificarea-invinuirii-aduse-lui-igor-dodon-in-sensul-agravarii-socialistul-prezent-in-instanta/",
-      "date": "Fri, 25 Sep 2026 10:11:26 +0000",
-      "summary": "La Curtea Supremă de Justiție (CSJ) are loc vineri, 25 septembrie, o nouă ședință de judecată în dosarul „Kuliok”, în care este inculpat fostul președinte al R. Moldova și actualul deputat socialist Igor Dodon, prezent de această dată în fața judecătorilor. Procurorii au înaintat instanței un demers",
+      "title": "[NewsMaker] Молдаванам не будут давать гражданство Румынии?/ Додон имитировал конкурс?/В Бричанах взорвался дрон",
+      "url": "https://newsmaker.md/ru/moldavanam-ne-budut-davat-grajdanstvo-rumynii-dodon-imitiroval-konkursv-brichanah-vzorvalsya-dron",
+      "date": "Fri, 25 Sep 2026 17:14:58 +0000",
+      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска: — НАРЭ снова предлагает повысить тариф на газ почти на 6 леев— Межрайонные перевозки опять дорожают— У Молдовы теперь самые защищенные паспорта— Мэр Комрата Анастасов будет баллотироваться в башканы Гагаузии— Петр Влах намерен ид",
       "entities": [
-        "Igor Dodon"
+        "Igor Dodon",
+        "Irina Vlah"
       ],
       "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "409dddd75c878d17"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) 6 лет для Лянкэ и Лазэра, ни одного вопроса Санду и Речану? Чем заканчивается дело об аэропорте? #NM_explains it all",
-      "url": "https://newsmaker.md/ru/video-6-let-dlya-lyanke-i-lazera-ni-odnogo-voprosa-sandu-i-rechanu-chem-zakanchivaetsya-delo-ob-aeroporte-nm_explains-it-all",
-      "date": "Fri, 25 Sep 2026 08:53:36 +0000",
-      "summary": "Кишиневский аэропорт вернулся под контроль государства, а суд над чиновниками, отдавшими его в концессию, вышел на финишную прямую. Подсудимые, включая экс-премьера Юрие Лянкэ и бывшего министра экономики Валериу Лазэра, готовятся выступить с последним словом. Прокуратура требует для восьми обвиняем",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
+      "score": 11.1,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "d2b13753233070f2"
+      "uid": "59249ded770897b0"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] NM Espresso: на сколько взлетят тарифы на газ и отопление, как  правильно называть Приднестровье, и как Молдова «сошла с рельсов»",
+      "url": "https://newsmaker.md/ru/nmespresso-chto-reshit-nare-o-tarifah-kak-pravilno-nazyvat-pridnestrove-chto-budet-v-novom-buletine-i-mojno-li-vernut-jeleznuyu-dorogu-moldovy",
+      "date": "Sat, 26 Sep 2026 05:08:00 +0000",
+      "summary": "Тарифы: газ, отопление Отопление в Кишиневе, Бельцах и Комрате может подорожать более чем в полтора раза, а газ — почти на 30%. Нацагентство регулирования в энергетике (НАРЭ), рассмотрев запросы поставщиков о повышении тарифов, практически их удовлетворило, лишь немного урезав. Так, Energocom просил",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "6f3a705f79285860"
     }
   ],
   "momentum": [
     [
       "Igor Dodon",
-      7
-    ],
-    [
-      "Maia Sandu",
-      6
+      8
     ],
     [
       "Energie / Gazprom / Moldovagaz",
-      5
+      6
     ],
     [
       "Irina Vlah",
-      3
+      4
+    ],
+    [
+      "Maia Sandu",
+      4
     ]
   ],
   "errors": []
