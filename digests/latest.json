@@ -1,39 +1,22 @@
 {
-  "generated": "2026-09-26T11:38:23.637831+00:00",
-  "count": 2,
+  "generated": "2026-09-27T12:17:08.868533+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Молдаванам не будут давать гражданство Румынии?/ Додон имитировал конкурс?/В Бричанах взорвался дрон",
-      "url": "https://newsmaker.md/ru/moldavanam-ne-budut-davat-grajdanstvo-rumynii-dodon-imitiroval-konkursv-brichanah-vzorvalsya-dron",
-      "date": "Fri, 25 Sep 2026 17:14:58 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска: — НАРЭ снова предлагает повысить тариф на газ почти на 6 леев— Межрайонные перевозки опять дорожают— У Молдовы теперь самые защищенные паспорта— Мэр Комрата Анастасов будет баллотироваться в башканы Гагаузии— Петр Влах намерен ид",
+      "title": "[NewsMaker] Костюк предложил заморозить зарубежные активы Гушана и использовать деньги в холодный сезон: «Я бы так поступил». Реакция депутата от PAS",
+      "url": "https://newsmaker.md/ru/kostyuk-predlojil-zamorozit-zarubejnye-aktivy-gushana-i-ispolzovat-dengi-v-holodnyi-sezon-ya-by-tak-postupil-reakcziya-deputata-ot-pas",
+      "date": "Sat, 26 Sep 2026 15:22:17 +0000",
+      "summary": "Депутат от партии «Демократия дома» Василе Костюк считает, что Кишинев должен обратиться к европейским странам и США с просьбой заморозить активы владельца холдинга «Шериф» Виктора Гушана и использовать эти средства для покрытия расходов в холодный сезон. Депутат от PAS Андриан Кептонар назвал такой",
       "entities": [
-        "Igor Dodon",
-        "Irina Vlah"
+        "Sheriff (Tiraspol)"
       ],
       "tags": [],
-      "score": 11.1,
+      "score": 8.7,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "59249ded770897b0"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: на сколько взлетят тарифы на газ и отопление, как  правильно называть Приднестровье, и как Молдова «сошла с рельсов»",
-      "url": "https://newsmaker.md/ru/nmespresso-chto-reshit-nare-o-tarifah-kak-pravilno-nazyvat-pridnestrove-chto-budet-v-novom-buletine-i-mojno-li-vernut-jeleznuyu-dorogu-moldovy",
-      "date": "Sat, 26 Sep 2026 05:08:00 +0000",
-      "summary": "Тарифы: газ, отопление Отопление в Кишиневе, Бельцах и Комрате может подорожать более чем в полтора раза, а газ — почти на 30%. Нацагентство регулирования в энергетике (НАРЭ), рассмотрев запросы поставщиков о повышении тарифов, практически их удовлетворило, лишь немного урезав. Так, Energocom просил",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "6f3a705f79285860"
+      "uid": "35389c77a6bb120d"
     }
   ],
   "momentum": [
