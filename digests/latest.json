@@ -1,13 +1,13 @@
 {
-  "generated": "2026-09-28T14:15:36.856845+00:00",
-  "count": 1,
+  "generated": "2026-09-29T13:12:12.278968+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] „Ordinul Onoarei”, conferit lui Tomasz Kobzdej, Ambasadorul Republicii Polone în R. Moldova",
-      "url": "https://www.zdg.md/stiri/ordinul-onoarei-conferit-lui-tomasz-kobzdej-ambasadorul-republicii-polone-in-r-moldova/",
-      "date": "Mon, 28 Sep 2026 11:16:34 +0000",
-      "summary": "Președinta Maia Sandu i-a conferit luni, 28 septembrie, lui Tomasz Kobzdej, Ambasadorul Republicii Polone în R. Moldova, „Ordinul Onoarei”, la încheierea misiunii sale diplomatice în țara noastră, comunică Președinția. „Distincția a fost acordată în semn de înaltă apreciere a contribuției la consoli",
+      "title": "[Ziarul de Garda] Maia Sandu, despre criza hidrologică: „Trebuie să ne pregătim pentru o realitate în care perioadele de secetă vor fi mai frecvente”. Șefa statului solicită măsuri",
+      "url": "https://www.zdg.md/stiri/maia-sandu-despre-criza-hidrologica-trebuie-sa-ne-pregatim-pentru-o-realitate-in-care-perioadele-de-seceta-vor-fi-mai-frecvente-sefa-statului-solicita-masuri/",
+      "date": "Tue, 29 Sep 2026 10:26:10 +0000",
+      "summary": "Președinta Maia Sandu susține că apa devine un subiect tot mai presant pentru R. Moldova, iar Guvernul, împreună cu primăriile și instituțiile responsabile din domeniu, trebuie să găsească soluții comune pentru a preveni o criză. Într-o postare pe pagina sa de Facebook, șefa statului afirmă că „acum",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,7 +16,39 @@
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "8bb0d779579db5bd"
+      "uid": "7d97b67075ee4cd4"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Санду призвала принять меры для предотвращения водного кризиса: «Мы должны обеспечить людям воду из крана»",
+      "url": "https://newsmaker.md/ru/sandu-prizvala-prinyat-mery-dlya-predotvrasheniya-vodnogo-krizisa-my-doljny-obespechit-lyudyam-vodu-iz-krana",
+      "date": "Tue, 29 Sep 2026 11:29:16 +0000",
+      "summary": "Президент Майя Санду призвала правительство, местные власти и ответственные учреждения подготовить водозаборные станции и найти альтернативные источники воды, чтобы предотвратить возможный кризис. По ее словам, из-за засухи уровень воды как в Днестре, так и в Пруте «драматически» снизился, а из-за и",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "6c80d581ce0343a4"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Viorel Melnic, unul dintre capii rețelei cripto ai lui Șor, trimis în judecată",
+      "url": "https://www.rise.md/viorel-melnic-unul-dintre-capii-retelei-cripto-ai-lui-sor-trimis-in-judecata/",
+      "date": "Tue, 29 Sep 2026 08:00:43 +0000",
+      "summary": "Fostul deputat și ex-șef al Serviciului Vamal, Viorel Melnic, a fost trimis în judecată într-un dosar privind finanțarea [&#8230;]\nThe post Viorel Melnic, unul dintre capii rețelei cripto ai lui Șor, trimis în judecată appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "1e12d5ac02afb89e"
     }
   ],
   "momentum": [
@@ -25,17 +57,19 @@
       8
     ],
     [
-      "Energie / Gazprom / Moldovagaz",
-      6
+      "Maia Sandu",
+      7
     ],
     [
-      "Maia Sandu",
-      5
+      "Energie / Gazprom / Moldovagaz",
+      6
     ],
     [
       "Irina Vlah",
       4
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
