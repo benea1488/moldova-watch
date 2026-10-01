@@ -1,44 +1,51 @@
 {
-  "generated": "2026-09-30T12:52:00.702238+00:00",
+  "generated": "2026-10-01T13:37:54.069149+00:00",
   "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Energocom откажется от офиса с арендой более 6 млн леев в год. Жунгиету ответил на критику из-за тарифа на газ",
-      "url": "https://newsmaker.md/ru/energocom-otkajetsya-ot-ofisa-s-arendoi-bolee-6-mln-leev-v-god-jungietu-otvetil-na-kritiku-iz-za-tarifa-na-gaz",
-      "date": "Wed, 30 Sep 2026 09:25:44 +0000",
-      "summary": "Административный совет Energocom решил расторгнуть договор аренды и перенести офис предприятия. Об этом 30 сентября сообщил министр энергетики Дорин Жунгиету после публикации расследования об офисе поставщика газа. Согласно расследованию, Energocom ежегодно платит за аренду около 6,37 млн леев без Н",
+      "title": "[Ziarul de Garda] Colegiul care examinează apelul în dosarul de condamnare a lui Plahotniuc, modificat. Apărarea contestă noua componență",
+      "url": "https://www.zdg.md/stiri/colegiul-care-examineaza-apelul-in-dosarul-de-condamnare-a-lui-plahotniuc-modificat-apararea-contesta-noua-componenta/",
+      "date": "Thu, 01 Oct 2026 11:02:40 +0000",
+      "summary": "Colegiul care examinează apelul în dosarul de condamnare a lui Vladimir Plahotniuc la 19 ani de detenție a fost modificat. Din noua componență, alături de magistrații Denis Băbălău și Vladislav Schibin, face parte judecătorul Vitalie Pîslariuc. Decizia vine ca urmare a excluderii din sistem a judecă",
       "entities": [
-        "Energie / Gazprom / Moldovagaz"
+        "Vladimir Plahotniuc"
       ],
       "tags": [],
-      "score": 6.1,
+      "score": 9.5,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "03e7d8f7c480ef18"
+      "uid": "91d4234cd0d5fea5"
     },
     {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Fact-checking: Republica Moldova (nu) importă totul din Ucraina",
-      "url": "https://www.rise.md/fact-checking-republica-moldova-nu-importa-totul-din-ucraina/",
-      "date": "Wed, 30 Sep 2026 10:30:30 +0000",
-      "summary": "Vasile Costiuc, deputat și lider al Partidului „Democrația Acasă”, a declarat în cadrul unei emisiuni de la postul [&#8230;]\nThe post Fact-checking: Republica Moldova (nu) importă totul din Ucraina appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
+      "source": "OpenSanctions",
+      "title": "UniBank [Company]",
+      "url": "https://www.opensanctions.org/entities/NK-6FQ3xjtmBtZKzhF5ALBsPG/",
+      "date": "2025-08-25T19:32:17",
+      "summary": "Datasets: US Federal Reserve Enforcement Actions",
+      "entities": [
+        "Unibank"
       ],
-      "score": 6.0,
+      "tags": [
+        "sanction"
+      ],
+      "score": 9.4,
       "meta": {
-        "outlet": "RISE Moldova"
+        "datasets": [
+          "US Federal Reserve Enforcement Actions"
+        ],
+        "query": [
+          "Unibank"
+        ]
       },
-      "uid": "f826da0fe75ed6b3"
+      "uid": "fa0c5014015a8629"
     }
   ],
   "momentum": [
     [
       "Igor Dodon",
-      8
+      7
     ],
     [
       "Energie / Gazprom / Moldovagaz",
@@ -46,12 +53,10 @@
     ],
     [
       "Maia Sandu",
-      6
-    ],
-    [
-      "Irina Vlah",
-      3
+      5
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
