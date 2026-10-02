@@ -1,45 +1,39 @@
 {
-  "generated": "2026-10-01T13:37:54.069149+00:00",
+  "generated": "2026-10-02T12:57:06.243343+00:00",
   "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Colegiul care examinează apelul în dosarul de condamnare a lui Plahotniuc, modificat. Apărarea contestă noua componență",
-      "url": "https://www.zdg.md/stiri/colegiul-care-examineaza-apelul-in-dosarul-de-condamnare-a-lui-plahotniuc-modificat-apararea-contesta-noua-componenta/",
-      "date": "Thu, 01 Oct 2026 11:02:40 +0000",
-      "summary": "Colegiul care examinează apelul în dosarul de condamnare a lui Vladimir Plahotniuc la 19 ani de detenție a fost modificat. Din noua componență, alături de magistrații Denis Băbălău și Vladislav Schibin, face parte judecătorul Vitalie Pîslariuc. Decizia vine ca urmare a excluderii din sistem a judecă",
+      "title": "[NewsMaker] (ВИДЕО) FlyOne отмыла 41 млн леев?/ Стояногло — кандидат в башканы «от парламента»?/ Шор снова в деле",
+      "url": "https://newsmaker.md/ru/video-flyone-otmyla-41-mln-leev-stoyanoglo-kandidat-v-bashkany-ot-parlamenta-shor-snova-v-dele",
+      "date": "Fri, 02 Oct 2026 12:40:53 +0000",
+      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Гросу — о кандидате в башканы: от парламента он уже есть и этого достаточно— FlyOne основали на 41 млн незадекларированных леев? Реакция авиакомпании— €1700 за права: бывших автоинструктора и экзаменатора ASP подозревают в корру",
       "entities": [
-        "Vladimir Plahotniuc"
+        "Ilan Shor",
+        "Alexandr Stoianoglo"
       ],
       "tags": [],
-      "score": 9.5,
+      "score": 11.9,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "NewsMaker"
       },
-      "uid": "91d4234cd0d5fea5"
+      "uid": "a7a075dcc8daccb2"
     },
     {
-      "source": "OpenSanctions",
-      "title": "UniBank [Company]",
-      "url": "https://www.opensanctions.org/entities/NK-6FQ3xjtmBtZKzhF5ALBsPG/",
-      "date": "2025-08-25T19:32:17",
-      "summary": "Datasets: US Federal Reserve Enforcement Actions",
+      "source": "MD Press",
+      "title": "[NewsMaker] Петр Влах баллотируется в башканы от партии NOI. Подписи граждан не надо собирать",
+      "url": "https://newsmaker.md/ru/petr-vlah-ballotiruetsya-v-bashkany-ot-partii-noi-podpisi-grajdan-ne-nado-sobirat",
+      "date": "Fri, 02 Oct 2026 11:53:58 +0000",
+      "summary": "Экс-депутат парламента Петр Влах, отказавшийся баллотироваться в башканы как независимый кандидат, 2 октября подал в избирательный орган Гагаузии документы на участие в выборах от центристско-консервативной партии «Новый исторический выбор» (NOI &#8212; Noua Opțiune Istorică). «Как я уже заявлял, я ",
       "entities": [
-        "Unibank"
+        "Irina Vlah"
       ],
-      "tags": [
-        "sanction"
-      ],
-      "score": 9.4,
+      "tags": [],
+      "score": 7.9,
       "meta": {
-        "datasets": [
-          "US Federal Reserve Enforcement Actions"
-        ],
-        "query": [
-          "Unibank"
-        ]
+        "outlet": "NewsMaker"
       },
-      "uid": "fa0c5014015a8629"
+      "uid": "5a095b1ad2eee8a7"
     }
   ],
   "momentum": [
@@ -56,7 +50,5 @@
       5
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
