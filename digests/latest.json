@@ -1,73 +1,7 @@
 {
-  "generated": "2026-10-03T11:53:35.042177+00:00",
-  "count": 4,
-  "items": [
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Гагаузия: башканы обязаны знать румынский/Стояногло — кандидат «от парламента»?/Влах идет на выборы",
-      "url": "https://newsmaker.md/ru/video-gagauziya-bashkany-obyazany-znat-rumynskiistoyanoglo-kandidat-ot-parlamentavlah-idet-na-vybory",
-      "date": "Sat, 03 Oct 2026 09:30:58 +0000",
-      "summary": "Что происходит в Гагаузии, с какими проблемами сталкиваются жители автономии, и какие решения предлагают местные и центральные власти? NewsMaker рассказывает о главных событиях в автономии: Знание румынского обязательно для башкана: КС отклонил жалобу ПСРМ Конституционный суд отклонил обращение соци",
-      "entities": [
-        "Alexandr Stoianoglo",
-        "Irina Vlah"
-      ],
-      "tags": [],
-      "score": 10.3,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "ceb8af050c6caf74"
-    },
-    {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Maia Sandu despre exploziile din această dimineață: Războiul Rusiei împotriva Ucrainei pune în pericol direct viața cetățenilor noștri",
-      "url": "https://www.zdg.md/stiri/maia-sandu-despre-exploziile-din-aceasta-dimineata-razboiul-rusiei-impotriva-ucrainei-pune-in-pericol-direct-viata-cetatenilor-nostri/",
-      "date": "Sat, 03 Oct 2026 08:40:26 +0000",
-      "summary": "Într-un mesaj public, președinta R. Moldova condamnă atacurile Rusiei asupra Ucrainei. „În această dimineață, în doar 15 minute, cinci drone și rachete au încălcat spațiul aerian al R. Moldova și au explodat în apropierea unor localități din patru raioane. Războiul Rusiei împotriva Ucrainei pune în ",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "8dfa9fea944ae7a0"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Минобороны: в Молдову залетели три ракеты и два дрона. МИД и Санду осудили нарушение воздушного пространства страны",
-      "url": "https://newsmaker.md/ru/minoborony-v-moldovu-zaleteli-tri-rakety-i-dva-drona-mid-i-sandu-osudili-narushenie-vozdushnogo-prostranstva-strany",
-      "date": "Sat, 03 Oct 2026 08:57:19 +0000",
-      "summary": "Министерство иностранных дел Молдовы и президент Майя Санду 3 октября осудили нарушение воздушного пространства Молдовы пятью беспилотниками в ходе массированных ударов РФ по Украине. Министр обороны Анатолий Носатый также уточнил, что в инциденте были задействованы три ракеты и два дрона, обломки к",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "17e6ed0d7d3d299c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Молдавский протест, вечный Кремль, карта Тофана без Приднестровья и напряг с Украиной / «Разборка»",
-      "url": "https://newsmaker.md/ru/video-moldavskii-protest-vechnyi-kreml-karta-tofana-bez-pridnestrovya-i-napryag-s-ukrainoi-razborka",
-      "date": "Sat, 03 Oct 2026 06:51:16 +0000",
-      "summary": "Молдавская зима еще толком не началась, а коммуналка уже заставляет людей выходить на протесты – пока не опасные для власти. Оппозиция предлагает импичмент Санду, забрать деньги у «хозяина Приднестровья» Виктора Гушана и вообще знает, как всех спасти – пока сама не у власти. PAS тем временем снова н",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "ece73be84ca1355a"
-    }
-  ],
+  "generated": "2026-10-04T12:38:15.307507+00:00",
+  "count": 0,
+  "items": [],
   "momentum": [
     [
       "Maia Sandu",
@@ -86,7 +20,5 @@
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
