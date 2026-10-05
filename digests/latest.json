@@ -1,7 +1,73 @@
 {
-  "generated": "2026-10-04T12:38:15.307507+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-10-05T15:04:37.708527+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Додон предлагал Стояногло баллотироваться в башканы Гагаузии от ПСРМ? «Я неудобен для оппозиции»",
+      "url": "https://newsmaker.md/ru/dodon-predlagal-stoyanoglo-ballotirovatsya-v-bashkany-gagauzii-ot-psrm-ya-neudoben-dlya-oppoziczii",
+      "date": "Mon, 05 Oct 2026 13:28:02 +0000",
+      "summary": "Депутат парламента Молдовы Александр Стояногло, который намерен участвовать в выборах башкана Гагаузии, рассказал, что лидер Партии социалистов Игорь Додон предлагал ему баллотироваться от социалистов, но он предпочел быть независимым кандидатом. Об этом Стояногло рассказал 5 октября в интервью Real",
+      "entities": [
+        "Igor Dodon",
+        "Alexandr Stoianoglo"
+      ],
+      "tags": [],
+      "score": 11.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "bd99a9cabc793153"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Додон: 300 тыс. билетов FlyOne могут аннулировать из-за отмены рейсов. Что сказали в компании",
+      "url": "https://newsmaker.md/ru/dodon-bolee-300-tys-biletov-flyone-mogut-annulirovat-iz-za-otmeny-reisov-chto-skazali-v-kompanii",
+      "date": "Mon, 05 Oct 2026 12:04:16 +0000",
+      "summary": "Авиакомпания FlyOne сокращает число рейсов по некоторым направлениям. Председатель совета директоров компании Владимир Чеботарь сообщил NewsMaker, что это решение связано с низким спросом и «давлением» со стороны правительства. При этом он заверил, что компания будет соблюдать права пассажиров, чей ",
+      "entities": [
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "af6f8c989363026f"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] (ВИДЕО) Чей кандидат Стояногло? Сценарии Москвы, PAS и Додона на выборах в Гагаузии / RealPolitik",
+      "url": "https://newsmaker.md/ru/video-chei-kandidat-stoyanoglo-sczenarii-moskvy-pas-i-dodona-na-vyborah-v-gagauzii-realpolitik",
+      "date": "Mon, 05 Oct 2026 12:00:26 +0000",
+      "summary": "В Гагаузии стартует предвыборная кампания. 15 ноября в автономии выберут и главу – башкана, и местный парламент – Народное собрание. Больше всего внимания приковано к выборам главы региона. Уже есть 8 претендентов на пост башкана, но не исключено, что в кампании еще появятся новые лица – а кто-то, в",
+      "entities": [
+        "Alexandr Stoianoglo"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "3644d3871c8fa511"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Datele personale ale unui jurnalist RISE, accesate de un ofițer de investigație",
+      "url": "https://www.rise.md/datele-personale-ale-unui-jurnalist-rise-accesate-de-un-ofiter-de-investigatie/",
+      "date": "Mon, 05 Oct 2026 05:29:53 +0000",
+      "summary": "Un ofițer de investigație al Serviciului Prevenirea și Combaterea Spălării Banilor (SPCSB) a accesat datele jurnalistului RISE Moldova [&#8230;]\nThe post Datele personale ale unui jurnalist RISE, accesate de un ofițer de investigație appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "fc286acd0eb5cd83"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
@@ -13,12 +79,18 @@
     ],
     [
       "Igor Dodon",
-      5
+      6
+    ],
+    [
+      "Alexandr Stoianoglo",
+      4
     ],
     [
       "Irina Vlah",
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
