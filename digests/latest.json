@@ -1,28 +1,64 @@
 {
-  "generated": "2026-10-06T13:29:58.963500+00:00",
-  "count": 1,
+  "generated": "2026-10-07T13:41:44.570413+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Energocom a importat peste 82% din energia electrică achiziționată în septembrie",
-      "url": "https://www.zdg.md/stiri/energocom-a-importat-peste-82-din-energia-electrica-achizitionata-in-septembrie/",
-      "date": "Tue, 06 Oct 2026 11:43:17 +0000",
-      "summary": "În luna septembrie 2026, S.A. „Energocom”, în calitate de furnizor central de energie electrică și în cadrul obligației de serviciu public, a cumpărat un volum total de 266.565 MWh de energie electrică, provenită atât din surse interne, cât și din import, a anunțat marți, 6 octombrie, compania. Astf",
+      "title": "[Ziarul de Garda] Mesajele politicienilor din R. Moldova de ziua liderului de la Kremlin. Expert: „Sunt partenerii lui Putin în această țară”",
+      "url": "https://www.zdg.md/stiri/mesajele-politicienilor-din-r-moldova-de-ziua-liderului-de-la-kremlin-expert-sunt-partenerii-lui-putin-in-aceasta-tara/",
+      "date": "Wed, 07 Oct 2026 13:06:29 +0000",
+      "summary": "Igor Dodon, Ilan Șor, Marina Tauber și Evghenia Guțul sunt politicienii care l-au felicitat pe Vladimir Putin la împlinirea a 74 de ani. Miercuri, 7 octombrie, aceștia au publicat mesaje de felicitare pe rețelele de socializare dedicate liderului de la Kremlin, care a ordonat trupelor sale să invade",
       "entities": [
-        "Energie / Gazprom / Moldovagaz"
+        "Ilan Shor",
+        "Marina Tauber",
+        "Igor Dodon",
+        "Evghenia Gutul"
       ],
       "tags": [],
-      "score": 6.1,
+      "score": 15.9,
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "ec4651598b075fc1"
+      "uid": "4d769ffb490006da"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] «Я возвращаюсь к полноценной политической борьбе». Филат выступил с критикой Санду и PAS",
+      "url": "https://newsmaker.md/ru/ya-vozvrashayus-k-polnoczennoi-politicheskoi-borbe-filat-vystupil-s-kritikoi-sandu-i-pas",
+      "date": "Wed, 07 Oct 2026 10:28:29 +0000",
+      "summary": "Бывший премьер-министр и лидер Либерально-демократической партии Молдовы (ЛДПМ) Влад Филат 7 октября заявил о возвращении к «полноценной политической борьбе». Он обвинил президента Майю Санду и PAS в некомпетентности, коррупции, давлении на оппонентов и ухудшении экономической ситуации в стране. В P",
+      "entities": [
+        "Vlad Filat",
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 10.3,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "9e7dbce96116696c"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] LIVE Гагаузии нужен проевропейский башкан? Кто кандидаты Санду, Шора и Москвы? / RealPolitik",
+      "url": "https://newsmaker.md/ru/live-gagauzii-nujen-proevropeiskii-bashkan-kto-kandidaty-sandu-shora-i-moskvy-realpolitik",
+      "date": "Wed, 07 Oct 2026 12:02:53 +0000",
+      "summary": "В гонку за пост башкана Гагаузии вступают восемь претендентов. Среди них – мэр Комрата Сергей Анастасов, один из немногих гагаузских политиков, сохранивших диалог с Кишиневом на фоне затяжного конфликта между центром и автономией. Он встречался с президентом Майей Санду и европейскими чиновниками, в",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "882d82a58b21faf4"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      7
+      9
     ],
     [
       "Igor Dodon",
@@ -41,5 +77,7 @@
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
