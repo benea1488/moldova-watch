@@ -1,58 +1,26 @@
 {
-  "generated": "2026-10-07T13:41:44.570413+00:00",
-  "count": 3,
+  "generated": "2026-10-08T13:48:55.659346+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] Mesajele politicienilor din R. Moldova de ziua liderului de la Kremlin. Expert: „Sunt partenerii lui Putin în această țară”",
-      "url": "https://www.zdg.md/stiri/mesajele-politicienilor-din-r-moldova-de-ziua-liderului-de-la-kremlin-expert-sunt-partenerii-lui-putin-in-aceasta-tara/",
-      "date": "Wed, 07 Oct 2026 13:06:29 +0000",
-      "summary": "Igor Dodon, Ilan Șor, Marina Tauber și Evghenia Guțul sunt politicienii care l-au felicitat pe Vladimir Putin la împlinirea a 74 de ani. Miercuri, 7 octombrie, aceștia au publicat mesaje de felicitare pe rețelele de socializare dedicate liderului de la Kremlin, care a ordonat trupelor sale să invade",
-      "entities": [
-        "Ilan Shor",
-        "Marina Tauber",
-        "Igor Dodon",
-        "Evghenia Gutul"
-      ],
+      "source": "OpenSanctions",
+      "title": "Moisés da Silva Barboza [Person]",
+      "url": "https://www.opensanctions.org/entities/Q136779198/",
+      "date": "2026-10-07T14:57:46",
+      "summary": "Datasets: Wikidata;Wikidata Persons in Relevant Categories",
+      "entities": [],
       "tags": [],
-      "score": 15.9,
+      "score": 6.0,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "datasets": [
+          "Wikidata",
+          "Wikidata Persons in Relevant Categories"
+        ],
+        "query": [
+          "Banca de Economii"
+        ]
       },
-      "uid": "4d769ffb490006da"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] «Я возвращаюсь к полноценной политической борьбе». Филат выступил с критикой Санду и PAS",
-      "url": "https://newsmaker.md/ru/ya-vozvrashayus-k-polnoczennoi-politicheskoi-borbe-filat-vystupil-s-kritikoi-sandu-i-pas",
-      "date": "Wed, 07 Oct 2026 10:28:29 +0000",
-      "summary": "Бывший премьер-министр и лидер Либерально-демократической партии Молдовы (ЛДПМ) Влад Филат 7 октября заявил о возвращении к «полноценной политической борьбе». Он обвинил президента Майю Санду и PAS в некомпетентности, коррупции, давлении на оппонентов и ухудшении экономической ситуации в стране. В P",
-      "entities": [
-        "Vlad Filat",
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 10.3,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "9e7dbce96116696c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] LIVE Гагаузии нужен проевропейский башкан? Кто кандидаты Санду, Шора и Москвы? / RealPolitik",
-      "url": "https://newsmaker.md/ru/live-gagauzii-nujen-proevropeiskii-bashkan-kto-kandidaty-sandu-shora-i-moskvy-realpolitik",
-      "date": "Wed, 07 Oct 2026 12:02:53 +0000",
-      "summary": "В гонку за пост башкана Гагаузии вступают восемь претендентов. Среди них – мэр Комрата Сергей Анастасов, один из немногих гагаузских политиков, сохранивших диалог с Кишиневом на фоне затяжного конфликта между центром и автономией. Он встречался с президентом Майей Санду и европейскими чиновниками, в",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "882d82a58b21faf4"
+      "uid": "5c4cbb3d56a74d1c"
     }
   ],
   "momentum": [
@@ -62,10 +30,6 @@
     ],
     [
       "Igor Dodon",
-      6
-    ],
-    [
-      "Energie / Gazprom / Moldovagaz",
       5
     ],
     [
@@ -73,11 +37,13 @@
       4
     ],
     [
+      "Energie / Gazprom / Moldovagaz",
+      3
+    ],
+    [
       "Irina Vlah",
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
