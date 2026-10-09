@@ -1,32 +1,46 @@
 {
-  "generated": "2026-10-08T13:48:55.659346+00:00",
-  "count": 1,
+  "generated": "2026-10-09T13:33:40.876264+00:00",
+  "count": 2,
   "items": [
     {
-      "source": "OpenSanctions",
-      "title": "Moisés da Silva Barboza [Person]",
-      "url": "https://www.opensanctions.org/entities/Q136779198/",
-      "date": "2026-10-07T14:57:46",
-      "summary": "Datasets: Wikidata;Wikidata Persons in Relevant Categories",
-      "entities": [],
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Editorial/ Putin amenință Moldova, iar Dodon îl felicită. Care e mai neutru?",
+      "url": "https://www.zdg.md/blog/editoriale/editorial-putin-ameninta-moldova-iar-dodon-il-felicita-care-e-mai-neutru/",
+      "date": "Fri, 09 Oct 2026 13:00:00 +0000",
+      "summary": "Exact cu 20 de ani în urmă, la 7 octombrie 2006, de ziua lui Putin, jurnalista de investigație Ana Politkovskaia a fost omorâtă la Moscova, în lift, în timp ce urca spre propria locuință, unde o așteptau copiii săi. Cu doi ani înainte, în 2004, se întâmplase masacrul de la școala din Beslan, unde au",
+      "entities": [
+        "Igor Dodon"
+      ],
       "tags": [],
-      "score": 6.0,
+      "score": 8.7,
       "meta": {
-        "datasets": [
-          "Wikidata",
-          "Wikidata Persons in Relevant Categories"
-        ],
-        "query": [
-          "Banca de Economii"
-        ]
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "5c4cbb3d56a74d1c"
+      "uid": "4257d581447b5a9b"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Din complice în coautor. Rolul lui Corneliu Ghimpu în „Frauda bancară”",
+      "url": "https://www.rise.md/articol/din-complice-in-coautor-rolul-lui-corneliu-ghimpu-in-frauda-bancara/",
+      "date": "Fri, 09 Oct 2026 08:04:02 +0000",
+      "summary": "Corneliu Ghimpu, fostul prim-vicepreședinte al Victoriabank, a treia ca mărime bancă din Republica Moldova, a fost trimis în [&#8230;]\nThe post Din complice în coautor. Rolul lui Corneliu Ghimpu în „Frauda bancară” appeared first on Rise Moldova.",
+      "entities": [
+        "Frauda bancara (miliardul furat)"
+      ],
+      "tags": [
+        "leak"
+      ],
+      "score": 8.4,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "9b8603aba2657d02"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      9
+      8
     ],
     [
       "Igor Dodon",
