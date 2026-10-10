@@ -1,58 +1,55 @@
 {
-  "generated": "2026-10-09T13:33:40.876264+00:00",
+  "generated": "2026-10-10T12:48:36.975222+00:00",
   "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Editorial/ Putin amenință Moldova, iar Dodon îl felicită. Care e mai neutru?",
-      "url": "https://www.zdg.md/blog/editoriale/editorial-putin-ameninta-moldova-iar-dodon-il-felicita-care-e-mai-neutru/",
-      "date": "Fri, 09 Oct 2026 13:00:00 +0000",
-      "summary": "Exact cu 20 de ani în urmă, la 7 octombrie 2006, de ziua lui Putin, jurnalista de investigație Ana Politkovskaia a fost omorâtă la Moscova, în lift, în timp ce urca spre propria locuință, unde o așteptau copiii săi. Cu doi ani înainte, în 2004, se întâmplase masacrul de la școala din Beslan, unde au",
+      "title": "[NewsMaker] (ВИДЕО) Чебан взорвался из-за ямы, Гросу подставил Стояногло, PAS подлизывается к Трампу? / «Разборка»",
+      "url": "https://newsmaker.md/ru/video-cheban-vzorvalsya-iz-za-yamy-grosu-podstavil-stoyanoglo-pas-podlizyvaetsya-k-trampu-razborka",
+      "date": "Sat, 10 Oct 2026 07:07:22 +0000",
+      "summary": "Ион Чебан устроил настоящий политический взрыв – из-за ямы в центре Кишинева. Игорь Гросу похвалил Стояногло – и этим подложил ему свинью перед выборами в Гагаузии. Владимир Филат возвращается в политику, Майю Санду сравнили с Владимиром Путиным, а Игорь Додон не забыл поздравить настоящего Путина с",
       "entities": [
-        "Igor Dodon"
+        "Igor Dodon",
+        "Vlad Filat",
+        "Maia Sandu",
+        "Alexandr Stoianoglo"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 13.5,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "NewsMaker"
       },
-      "uid": "4257d581447b5a9b"
+      "uid": "a1cfbca50ed870c9"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Din complice în coautor. Rolul lui Corneliu Ghimpu în „Frauda bancară”",
-      "url": "https://www.rise.md/articol/din-complice-in-coautor-rolul-lui-corneliu-ghimpu-in-frauda-bancara/",
-      "date": "Fri, 09 Oct 2026 08:04:02 +0000",
-      "summary": "Corneliu Ghimpu, fostul prim-vicepreședinte al Victoriabank, a treia ca mărime bancă din Republica Moldova, a fost trimis în [&#8230;]\nThe post Din complice în coautor. Rolul lui Corneliu Ghimpu în „Frauda bancară” appeared first on Rise Moldova.",
+      "title": "[NewsMaker] Петра Влаха зарегистрировали кандидатом на пост башкана: «У Гагаузии есть будущее»",
+      "url": "https://newsmaker.md/ru/petra-vlaha-zaregistrirovali-kandidatom-na-post-bashkana-u-gagauzii-est-budushee",
+      "date": "Sat, 10 Oct 2026 09:30:16 +0000",
+      "summary": "Петра Влаха, кандидата от партии «Новый исторический выбор» (NOI — Noua Opțiune Istorică) на пост башкана Гагаузии, зарегистрировали для участия в выборах. Влах сообщил в Facebook, что теперь его команде предстоит неделя подготовки, после чего он официально начнет предвыборную кампанию. На заседании",
       "entities": [
-        "Frauda bancara (miliardul furat)"
+        "Irina Vlah"
       ],
-      "tags": [
-        "leak"
-      ],
-      "score": 8.4,
+      "tags": [],
+      "score": 7.9,
       "meta": {
-        "outlet": "RISE Moldova"
+        "outlet": "NewsMaker"
       },
-      "uid": "9b8603aba2657d02"
+      "uid": "e3bfbd918764e9e5"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      8
+      9
+    ],
+    [
+      "Alexandr Stoianoglo",
+      5
     ],
     [
       "Igor Dodon",
       5
-    ],
-    [
-      "Alexandr Stoianoglo",
-      4
-    ],
-    [
-      "Energie / Gazprom / Moldovagaz",
-      3
     ],
     [
       "Irina Vlah",

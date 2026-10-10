@@ -453,29 +453,11 @@
 "9e7dbce96116696c": "2026-10-07",
 "5c4cbb3d56a74d1c": "2026-10-08",
 "4257d581447b5a9b": "2026-10-09",
-"9b8603aba2657d02": "2026-10-09"
+"9b8603aba2657d02": "2026-10-09",
+"e3bfbd918764e9e5": "2026-10-10",
+"a1cfbca50ed870c9": "2026-10-10"
 },
 "entity_log": [
-[
-"2026-09-10",
-"Energie / Gazprom / Moldovagaz"
-],
-[
-"2026-09-10",
-"Igor Dodon"
-],
-[
-"2026-09-10",
-"Igor Dodon"
-],
-[
-"2026-09-10",
-"Alexandr Stoianoglo"
-],
-[
-"2026-09-10",
-"Igor Dodon"
-],
 [
 "2026-09-12",
 "Vladimir Plahotniuc"
@@ -703,6 +685,26 @@
 [
 "2026-10-09",
 "Frauda bancara (miliardul furat)"
+],
+[
+"2026-10-10",
+"Irina Vlah"
+],
+[
+"2026-10-10",
+"Igor Dodon"
+],
+[
+"2026-10-10",
+"Vlad Filat"
+],
+[
+"2026-10-10",
+"Maia Sandu"
+],
+[
+"2026-10-10",
+"Alexandr Stoianoglo"
 ]
 ]
 }
