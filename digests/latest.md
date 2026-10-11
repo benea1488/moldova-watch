@@ -1,11 +1,6 @@
-# Moldova Watch — 2026-10-10
+# Moldova Watch — 2026-10-11
 
-*2 semnale noi din 1 surse.*
-
-## 🧭 Brief editorial (Claude)
-
-**1) BRIEF (max 5 puncte):**
-1.  **Manevre politice PAS vs. Stoianoglo:** Se sugerează că Igor Grosu (PAS) l-ar fi "
+*0 semnale noi din 0 surse.*
 
 ## 📈 Momentum (ultimele 14 zile)
 
@@ -16,31 +11,13 @@
 
 ## ⭐ Priority
 
-- [[NewsMaker] (ВИДЕО) Чебан взорвался из-за ямы, Гросу подставил Стояногло, PAS подлизывается к Трампу? / «Разборка»](https://newsmaker.md/ru/video-cheban-vzorvalsya-iz-za-yamy-grosu-podstavil-stoyanoglo-pas-podlizyvaetsya-k-trampu-razborka) (Sat, 10 Oc) — Igor Dodon, Vlad Filat, Maia Sandu, Alexandr Stoianoglo **[13.5]**
-- [[NewsMaker] Петра Влаха зарегистрировали кандидатом на пост башкана: «У Гагаузии есть будущее»](https://newsmaker.md/ru/petra-vlaha-zaregistrirovali-kandidatom-na-post-bashkana-u-gagauzii-est-budushee) (Sat, 10 Oc) — Irina Vlah **[7.9]**
-
-## 👤 Pe entitate
-
-### Irina Vlah (1)
-- [[NewsMaker] Петра Влаха зарегистрировали кандидатом на пост башкана: «У Гагаузии есть будущее»](https://newsmaker.md/ru/petra-vlaha-zaregistrirovali-kandidatom-na-post-bashkana-u-gagauzii-est-budushee) (Sat, 10 Oc) — Irina Vlah
-
-### Igor Dodon (1)
-- [[NewsMaker] (ВИДЕО) Чебан взорвался из-за ямы, Гросу подставил Стояногло, PAS подлизывается к Трампу? / «Разборка»](https://newsmaker.md/ru/video-cheban-vzorvalsya-iz-za-yamy-grosu-podstavil-stoyanoglo-pas-podlizyvaetsya-k-trampu-razborka) (Sat, 10 Oc) — Igor Dodon, Vlad Filat, Maia Sandu, Alexandr Stoianoglo
-
-### Vlad Filat (1)
-- [[NewsMaker] (ВИДЕО) Чебан взорвался из-за ямы, Гросу подставил Стояногло, PAS подлизывается к Трампу? / «Разборка»](https://newsmaker.md/ru/video-cheban-vzorvalsya-iz-za-yamy-grosu-podstavil-stoyanoglo-pas-podlizyvaetsya-k-trampu-razborka) (Sat, 10 Oc) — Igor Dodon, Vlad Filat, Maia Sandu, Alexandr Stoianoglo
-
-### Maia Sandu (1)
-- [[NewsMaker] (ВИДЕО) Чебан взорвался из-за ямы, Гросу подставил Стояногло, PAS подлизывается к Трампу? / «Разборка»](https://newsmaker.md/ru/video-cheban-vzorvalsya-iz-za-yamy-grosu-podstavil-stoyanoglo-pas-podlizyvaetsya-k-trampu-razborka) (Sat, 10 Oc) — Igor Dodon, Vlad Filat, Maia Sandu, Alexandr Stoianoglo
-
-### Alexandr Stoianoglo (1)
-- [[NewsMaker] (ВИДЕО) Чебан взорвался из-за ямы, Гросу подставил Стояногло, PAS подлизывается к Трампу? / «Разборка»](https://newsmaker.md/ru/video-cheban-vzorvalsya-iz-za-yamy-grosu-podstavil-stoyanoglo-pas-podlizyvaetsya-k-trampu-razborka) (Sat, 10 Oc) — Igor Dodon, Vlad Filat, Maia Sandu, Alexandr Stoianoglo
+_Nimic nou azi._
 
 ## 🗂️ Toate, pe sursa
 
-### MD Press (2)
-- [[NewsMaker] (ВИДЕО) Чебан взорвался из-за ямы, Гросу подставил Стояногло, PAS подлизывается к Трампу? / «Разборка»](https://newsmaker.md/ru/video-cheban-vzorvalsya-iz-za-yamy-grosu-podstavil-stoyanoglo-pas-podlizyvaetsya-k-trampu-razborka) (Sat, 10 Oc) — Igor Dodon, Vlad Filat, Maia Sandu, Alexandr Stoianoglo
-- [[NewsMaker] Петра Влаха зарегистрировали кандидатом на пост башкана: «У Гагаузии есть будущее»](https://newsmaker.md/ru/petra-vlaha-zaregistrirovali-kandidatom-na-post-bashkana-u-gagauzii-est-budushee) (Sat, 10 Oc) — Irina Vlah
+## ⚠️ Erori la fetch
+
+- GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))
 
 ---
-_Generat automat de moldova-watch la 2026-10-10T12:48:36.974797+00:00._
+_Generat automat de moldova-watch la 2026-10-11T13:11:37.176713+00:00._
