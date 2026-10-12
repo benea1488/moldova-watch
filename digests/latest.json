@@ -1,7 +1,72 @@
 {
-  "generated": "2026-10-11T13:11:37.177317+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-10-12T15:50:15.922468+00:00",
+  "count": 4,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Vladimir Plahotniuc, la Curtea de Apel după condamnare: „Eu vreau să înțeleg învinuirea […] Cred că și procurorul nu înțelege”",
+      "url": "https://www.zdg.md/stiri/vladimir-plahotniuc-la-curtea-de-apel-dupa-condamnare-eu-vreau-sa-inteleg-invinuirea-cred-ca-si-procurorul-nu-intelege/",
+      "date": "Mon, 12 Oct 2026 13:25:00 +0000",
+      "summary": "„Eu nu înțeleg învinuirea. [&#8230;] O mulțime de cuvinte, mai mult nimic”, a declarat Vladimir Plahotniuc în adresa magistraților de la Curtea de Apel, în timp ce își susținea cererea prin care solicită explicarea acuzațiilor care i-au adus o condamnare la 19 ani de detenție în dosarul privind crea",
+      "entities": [
+        "Vladimir Plahotniuc"
+      ],
+      "tags": [],
+      "score": 9.5,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "277cb18c630b04f5"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] O asociație condusă de Vadim Krasnoselski organizează „Adunarea poporului” la Tiraspol, împotriva „presiunii economice din partea R. Moldova”. Biroul politici de reintegrare: „O manifestație propagandistică, cu lozinci anticonstituționale”",
+      "url": "https://www.zdg.md/stiri/o-asociatie-condusa-de-vadim-krasnoselski-organizeaza-adunarea-poporului-la-tiraspol-impotriva-presiunii-economice-din-partea-r-moldova-biroul-politici-de-reintegrare/",
+      "date": "Mon, 12 Oct 2026 15:00:57 +0000",
+      "summary": "„Forumul popular transnistrean&#8221;, condus de Vadim Krasnoselski, i-a îndemnat pe locuitorii regiunii să participe la „Adunarea poporului”, pe 23 octombrie, la ora 12:00, în piața Suvorov din Tiraspol. Organizatorii prezintă acțiunea drept un protest împotriva „presiunii economice din partea R. M",
+      "entities": [
+        "Vadim Krasnoselsky"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "c167e5a7b1f3324d"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Maia Sandu declară că R. Moldova își propune să deschidă până la sfârșitul anului toate capitolele de negocieri rămase, în cadrul unei convorbiri telefonice cu prim-ministrul Irlandei",
+      "url": "https://www.zdg.md/stiri/maia-sandu-declara-ca-r-moldova-isi-propune-sa-deschida-pana-la-sfarsitul-anului-toate-capitolele-de-negocieri-ramase-in-cadrul-unei-convorbiri-telefonice-cu-prim-ministrul-irlandei/",
+      "date": "Mon, 12 Oct 2026 14:40:38 +0000",
+      "summary": "R. Moldova își propune să deschidă până la sfârșitul anului toate capitolele de negocieri rămase, a transmis astăzi, 12 octombrie, șefa statului Maia Sandu în cadrul unei convorbiri telefonice cu Prim-ministrul Irlandei, Micheál Martin. Irlanda deține, până la 31 decembrie, Președinția Consiliului U",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "9b17bc2466c3421c"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] 14 studenți ai Facultății de Energetică și Inginerie vor beneficia de burse de excelență. „Ministerul Energiei încurajează tinerii să-și valorifice pregătirea profesională în R. Moldova”",
+      "url": "https://www.zdg.md/stiri/14-studenti-ai-facultatii-de-energetica-si-inginerie-vor-beneficia-de-burse-de-excelenta-ministerul-energiei-incurajeaza-tinerii-sa-si-valorifice-pregatirea-profesionala-in-r-moldova/",
+      "date": "Mon, 12 Oct 2026 14:52:22 +0000",
+      "summary": "14 studenți din anii II și III ai Facultății Energetică și Inginerie Electrică ai Universității Tehnice a Moldovei (UTM) vor beneficia de burse din partea Ministerului Energiei, finanțate din donațiile a doi membri ai Consiliului de Observatori al Moldovagaz. Potrivit Ministerului Energiei, cei doi ",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "1b0fe37d98a24235"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
@@ -14,6 +79,10 @@
     [
       "Igor Dodon",
       5
+    ],
+    [
+      "Energie / Gazprom / Moldovagaz",
+      3
     ],
     [
       "Irina Vlah",
