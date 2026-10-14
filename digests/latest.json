@@ -1,29 +1,29 @@
 {
-  "generated": "2026-10-13T14:27:26.916122+00:00",
+  "generated": "2026-10-14T12:11:54.742249+00:00",
   "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Додон в Москве за одним столом с участником войны в Украине. ЛП попросила СИБ проверить последствия визита ПСРМ по приглашению Госдумы РФ",
-      "url": "https://newsmaker.md/ru/dodon-v-moskve-za-odnim-stolom-s-uchastnikom-voiny-v-ukraine-lp-poprosila-sib-proverit-posledstviya-vizita-psrm-po-priglasheniyu-gosdumy-rf",
-      "date": "Tue, 13 Oct 2026 10:02:48 +0000",
-      "summary": "Представители Партии социалистов Молдовы во главе с Игорем Додоном встретились в Москве с представителями партии «Справедливая Россия», включая зампреда партии Руслана Татаринова, который почти три года участвовал в войне России против Украины. Татаринов выразил сожаление по поводу позиции руководст",
+      "title": "[Ziarul de Garda] „Pentru mine, Chișinăul este acasă. Pentru Moldova, este principalul motor al economiei”. Sandu și Tofan, mesaje de hramul capitalei",
+      "url": "https://www.zdg.md/stiri/stiri-sociale/pentru-mine-chisinaul-este-acasa-pentru-moldova-este-principalul-motor-al-economiei-sandu-si-tofan-mesaje-de-hramul-capitalei/",
+      "date": "Wed, 14 Oct 2026 07:36:45 +0000",
+      "summary": "Locuitorii și oaspeții capitalei sărbătoresc miercuri, 14 octombrie, Hramul Orașului Chișinău. Cu acest prilej, prim-ministrul Vasile Tofan și șefa statului Maia Sandu au venit cu mesaje de felicitare. Premierul a depănat amintiri în postarea sa și a menționat investițiile Guvernului în oraș. „Am cr",
       "entities": [
-        "Igor Dodon"
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 7.9,
       "meta": {
-        "outlet": "NewsMaker"
+        "outlet": "Ziarul de Garda"
       },
-      "uid": "cc8b242a55725463"
+      "uid": "ac52349a7528aaad"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Кравчук, которого Санду лишила гражданства РМ, решил участвовать в выборах главы Приднестровья",
-      "url": "https://newsmaker.md/ru/kravchuk-kotorogo-sandu-lishila-grajdanstva-rm-reshil-uchastvovat-v-vyborah-glavy-pridnestrovya",
-      "date": "Tue, 13 Oct 2026 13:35:30 +0000",
-      "summary": "В непризнанной ПМР подал документы в местный избирательный орган так называемый депутат местного законодательного органа («Верховный совет») Вадим Кравчук. Он первый, кто решил баллотироваться в лидеры непризнанной республики, которые пройдут 13 декабря. Как сообщил приднестровский избирательный орг",
+      "title": "[NewsMaker] «Развитие Кишинева — общая ответственность»: Санду, Гросу и Тофан поздравили жителей столицы с Днем города",
+      "url": "https://newsmaker.md/ru/razvitie-kishineva-obshaya-otvetstvennost-sandu-grosu-i-tofan-pozdravili-jitelei-stoliczy-s-dnem-goroda",
+      "date": "Wed, 14 Oct 2026 07:13:43 +0000",
+      "summary": "Президент Молдовы Майя Санду, спикер парламента Игорь Гросу и премьер-министр Василе Тофан 14 октября поздравили жителей Кишинева с Днем города. В своих обращениях они говорили о развитии столицы, модернизации инфраструктуры, инвестициях в образование и здравоохранение, а также о задачах, которые ещ",
       "entities": [
         "Maia Sandu"
       ],
@@ -32,13 +32,13 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "10314510ee0df045"
+      "uid": "80091f06e7c0b0a2"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      8
+      10
     ],
     [
       "Igor Dodon",
@@ -49,13 +49,11 @@
       5
     ],
     [
-      "Energie / Gazprom / Moldovagaz",
-      3
-    ],
-    [
       "Irina Vlah",
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
