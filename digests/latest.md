@@ -1,33 +1,35 @@
-# Moldova Watch — 2026-10-15
+# Moldova Watch — 2026-10-16
 
-*1 semnale noi din 1 surse.*
+*2 semnale noi din 1 surse.*
 
 ## 🧭 Brief editorial (Claude)
 
-**1) BRIEF (max 5 puncte): ce contează azi și DE CE.**
-
-1.  **Dezbaterea Neutralității vs. Modernizare Militară:** Articolul scoate în evidență o disc
+1) BRIEF:
+*   **Interferență directă:** Rusia, prin purtătorul de cuvânt Peskov, condiționează public normalizarea relațiilor cu Republica Moldova de eliber
 
 ## 📈 Momentum (ultimele 14 zile)
 
 - **Maia Sandu** — 10 aparitii
 - **Igor Dodon** — 6 aparitii
-- **Alexandr Stoianoglo** — 5 aparitii
-- **Irina Vlah** — 3 aparitii
+- **Alexandr Stoianoglo** — 4 aparitii
+- **Evghenia Gutul** — 3 aparitii
 
 ## ⭐ Priority
 
-- [[Ziarul de Garda] „Nicăieri nu scrie că, dacă ești neutru, trebuie să fii și idiot.” De ce modernizarea Armatei NU reprezintă încălcarea neutralității constituționale și nu face din R. Moldova „cap de pod militar al NATO”](https://www.zdg.md/stiri/nicaieri-nu-scrie-ca-daca-esti-neutru-trebuie-sa-fii-si-idiot-de-ce-modernizarea-armatei-nu-reprezinta-incalcarea-neutralitatii-constitutionale-si-nu-face-din-r-moldova-c/) (Thu, 15 Oc) — Vladimir Voronin **[7.9]**
+- [[Ziarul de Garda] Rusia cere eliberarea Evgheniei Guțul, pentru „îmbunătățirea” relațiilor dintre Chișinău și Moscova](https://www.zdg.md/stiri/rusia-cere-eliberarea-evgheniei-gutul-pentru-imbunatatirea-relatiilor-dintre-chisinau-si-moscova/) (Fri, 16 Oc) — Evghenia Gutul **[8.7]**
+- [[NewsMaker] Песков назвал освобождение Гуцул одним из условий нормализации отношений между Молдовой и Россией](https://newsmaker.md/ru/peskov-nazval-osvobojdenie-guczul-odnim-iz-uslovii-normalizaczii-otnoshenii-mejdu-moldovoi-i-rossiei) (Fri, 16 Oc) — Evghenia Gutul **[8.7]**
 
 ## 👤 Pe entitate
 
-### Vladimir Voronin (1)
-- [[Ziarul de Garda] „Nicăieri nu scrie că, dacă ești neutru, trebuie să fii și idiot.” De ce modernizarea Armatei NU reprezintă încălcarea neutralității constituționale și nu face din R. Moldova „cap de pod militar al NATO”](https://www.zdg.md/stiri/nicaieri-nu-scrie-ca-daca-esti-neutru-trebuie-sa-fii-si-idiot-de-ce-modernizarea-armatei-nu-reprezinta-incalcarea-neutralitatii-constitutionale-si-nu-face-din-r-moldova-c/) (Thu, 15 Oc) — Vladimir Voronin
+### Evghenia Gutul (2)
+- [[Ziarul de Garda] Rusia cere eliberarea Evgheniei Guțul, pentru „îmbunătățirea” relațiilor dintre Chișinău și Moscova](https://www.zdg.md/stiri/rusia-cere-eliberarea-evgheniei-gutul-pentru-imbunatatirea-relatiilor-dintre-chisinau-si-moscova/) (Fri, 16 Oc) — Evghenia Gutul
+- [[NewsMaker] Песков назвал освобождение Гуцул одним из условий нормализации отношений между Молдовой и Россией](https://newsmaker.md/ru/peskov-nazval-osvobojdenie-guczul-odnim-iz-uslovii-normalizaczii-otnoshenii-mejdu-moldovoi-i-rossiei) (Fri, 16 Oc) — Evghenia Gutul
 
 ## 🗂️ Toate, pe sursa
 
-### MD Press (1)
-- [[Ziarul de Garda] „Nicăieri nu scrie că, dacă ești neutru, trebuie să fii și idiot.” De ce modernizarea Armatei NU reprezintă încălcarea neutralității constituționale și nu face din R. Moldova „cap de pod militar al NATO”](https://www.zdg.md/stiri/nicaieri-nu-scrie-ca-daca-esti-neutru-trebuie-sa-fii-si-idiot-de-ce-modernizarea-armatei-nu-reprezinta-incalcarea-neutralitatii-constitutionale-si-nu-face-din-r-moldova-c/) (Thu, 15 Oc) — Vladimir Voronin
+### MD Press (2)
+- [[Ziarul de Garda] Rusia cere eliberarea Evgheniei Guțul, pentru „îmbunătățirea” relațiilor dintre Chișinău și Moscova](https://www.zdg.md/stiri/rusia-cere-eliberarea-evgheniei-gutul-pentru-imbunatatirea-relatiilor-dintre-chisinau-si-moscova/) (Fri, 16 Oc) — Evghenia Gutul
+- [[NewsMaker] Песков назвал освобождение Гуцул одним из условий нормализации отношений между Молдовой и Россией](https://newsmaker.md/ru/peskov-nazval-osvobojdenie-guczul-odnim-iz-uslovii-normalizaczii-otnoshenii-mejdu-moldovoi-i-rossiei) (Fri, 16 Oc) — Evghenia Gutul
 
 ---
-_Generat automat de moldova-watch la 2026-10-15T11:48:29.698075+00:00._
+_Generat automat de moldova-watch la 2026-10-16T11:42:40.108518+00:00._

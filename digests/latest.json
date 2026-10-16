@@ -1,22 +1,38 @@
 {
-  "generated": "2026-10-15T11:48:29.698502+00:00",
-  "count": 1,
+  "generated": "2026-10-16T11:42:40.108939+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] „Nicăieri nu scrie că, dacă ești neutru, trebuie să fii și idiot.” De ce modernizarea Armatei NU reprezintă încălcarea neutralității constituționale și nu face din R. Moldova „cap de pod militar al NATO”",
-      "url": "https://www.zdg.md/stiri/nicaieri-nu-scrie-ca-daca-esti-neutru-trebuie-sa-fii-si-idiot-de-ce-modernizarea-armatei-nu-reprezinta-incalcarea-neutralitatii-constitutionale-si-nu-face-din-r-moldova-c/",
-      "date": "Thu, 15 Oct 2026 08:43:51 +0000",
-      "summary": "R. Moldova ar fi „cap de pod militar al NATO”, iar modernizarea Armatei Naționale ar ascunde, de fapt, „încălcarea neutralității constituționale”. Speculațiile lansate de președintele de onoare al Partidului Comuniștilor, Vladimir Voronin, după ce fracțiunea sa a boicotat ședința închisă a Parlament",
+      "title": "[Ziarul de Garda] Rusia cere eliberarea Evgheniei Guțul, pentru „îmbunătățirea” relațiilor dintre Chișinău și Moscova",
+      "url": "https://www.zdg.md/stiri/rusia-cere-eliberarea-evgheniei-gutul-pentru-imbunatatirea-relatiilor-dintre-chisinau-si-moscova/",
+      "date": "Fri, 16 Oct 2026 09:29:59 +0000",
+      "summary": "Eliberarea fostei bașcane a Găgăuziei, Evghenia Guțul, condamnată pentru finanțarea ilegală a Partidului „Șor”, declarat neconstituțional, este una dintre condițiile puse de Moscova pentru „îmbunătățirea” relațiilor cu R. Moldova, potrivit NewsMaker. Purtătorul de cuvânt al Kremlinului, Dmitri Pesko",
       "entities": [
-        "Vladimir Voronin"
+        "Evghenia Gutul"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 8.7,
       "meta": {
         "outlet": "Ziarul de Garda"
       },
-      "uid": "fb695b1afab4e961"
+      "uid": "38c3fd94e4662284"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Песков назвал освобождение Гуцул одним из условий нормализации отношений между Молдовой и Россией",
+      "url": "https://newsmaker.md/ru/peskov-nazval-osvobojdenie-guczul-odnim-iz-uslovii-normalizaczii-otnoshenii-mejdu-moldovoi-i-rossiei",
+      "date": "Fri, 16 Oct 2026 07:18:33 +0000",
+      "summary": "Пресс-секретарь президента России Дмитрий Песков среди условий улучшения молдавско-российских отношений назвал освобождение политзаключенных, а именно «мать двоих детей Евгению Гуцул». Об этом Песков сообщил журналистам. Песков, отвечая на&#160;вопросы журналистов, назвал условия Москвы для улучшени",
+      "entities": [
+        "Evghenia Gutul"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "3fb700dfc854279f"
     }
   ],
   "momentum": [
@@ -30,10 +46,10 @@
     ],
     [
       "Alexandr Stoianoglo",
-      5
+      4
     ],
     [
-      "Irina Vlah",
+      "Evghenia Gutul",
       3
     ]
   ],
