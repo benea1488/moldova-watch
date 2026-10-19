@@ -1,34 +1,13 @@
 {
-  "generated": "2026-10-18T11:28:51.862196+00:00",
-  "count": 3,
+  "generated": "2026-10-19T13:45:59.302030+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "OpenSanctions",
-      "title": "Volodymyr Voronin [Person]",
-      "url": "https://www.opensanctions.org/entities/Q21683699/",
-      "date": "2026-10-18T00:12:05",
-      "summary": "Datasets: Wikidata Persons in Relevant Categories",
-      "entities": [
-        "Vladimir Voronin"
-      ],
-      "tags": [],
-      "score": 9.4,
-      "meta": {
-        "datasets": [
-          "Wikidata Persons in Relevant Categories"
-        ],
-        "query": [
-          "Vladimir Voronin"
-        ]
-      },
-      "uid": "c439751a635b44cf"
-    },
-    {
       "source": "MD Press",
-      "title": "[NewsMaker] Санду на форуме этнических меньшинств: Дроны не спрашивают, на каком языке говорят люди",
-      "url": "https://newsmaker.md/ru/sandu-na-forume-etnicheskih-menshinstv-drony-ne-sprashivayut-na-kakom-yazyke-govoryat-lyudi",
-      "date": "Sat, 17 Oct 2026 14:04:38 +0000",
-      "summary": "Президент Молдовы Майя Санду 17 октября приняла участие в Национальном форуме этнических меньшинств. Глава государства подчеркнула, что наша страна — «дом для всех своих граждан, независимо от языка, на котором они говорят». При этом Санду напомнила о падающих в Молдове дронах и призвала к единству.",
+      "title": "[NewsMaker] Ольгу Рошку и Станислава Секриеру назначили главными советниками Майи Санду",
+      "url": "https://newsmaker.md/ru/olgu-roshku-i-stanislava-sekrieru-naznachili-glavnymi-sovetnikami-prezidenta-moldovy",
+      "date": "Mon, 19 Oct 2026 09:38:40 +0000",
+      "summary": "Президент Молдовы Майя Санду подписала указы о назначении Ольги Рошки и Станислава Секриеру своими главными советниками. Согласно документам, с 19 октября Секриеру приступает к исполнению обязанностей главного советника в области обороны и национальной безопасности, а Рошка — советника по вопросам в",
       "entities": [
         "Maia Sandu"
       ],
@@ -37,41 +16,25 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "d84465ecd2109bd7"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Стояногло представил предвыборную программу: Диалог Комрата с Кишиневом, деньги ЕС, Турции и СНГ",
-      "url": "https://newsmaker.md/ru/stoyanoglo-predstavil-predvybornuyu-programmu-dialog-komrata-s-kishinevom-dengi-es-turczii-i-sng",
-      "date": "Sat, 17 Oct 2026 12:39:36 +0000",
-      "summary": "Бывший генеральный прокурор и действующий депутат Александр Стояногло, который баллотируется как независимый кандидат на пост башкана Гагаузии, опубликовал 16 октября предвыборную программу — «Гагаузия: автономия справедливости». В случае победы на выборах кандидат обещает наладить диалог между Комр",
-      "entities": [
-        "Alexandr Stoianoglo"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "c83b1c94dbc366e8"
+      "uid": "c376c587442fbf40"
     }
   ],
   "momentum": [
     [
-      "Igor Dodon",
-      8
-    ],
-    [
       "Maia Sandu",
-      8
+      9
     ],
     [
-      "Alexandr Stoianoglo",
-      5
+      "Igor Dodon",
+      6
     ],
     [
       "Evghenia Gutul",
       4
+    ],
+    [
+      "Alexandr Stoianoglo",
+      3
     ]
   ],
   "errors": [
