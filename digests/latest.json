@@ -1,22 +1,51 @@
 {
-  "generated": "2026-10-19T13:45:59.302030+00:00",
-  "count": 1,
+  "generated": "2026-10-20T11:55:05.165501+00:00",
+  "count": 2,
   "items": [
     {
-      "source": "MD Press",
-      "title": "[NewsMaker] Ольгу Рошку и Станислава Секриеру назначили главными советниками Майи Санду",
-      "url": "https://newsmaker.md/ru/olgu-roshku-i-stanislava-sekrieru-naznachili-glavnymi-sovetnikami-prezidenta-moldovy",
-      "date": "Mon, 19 Oct 2026 09:38:40 +0000",
-      "summary": "Президент Молдовы Майя Санду подписала указы о назначении Ольги Рошки и Станислава Секриеру своими главными советниками. Согласно документам, с 19 октября Секриеру приступает к исполнению обязанностей главного советника в области обороны и национальной безопасности, а Рошка — советника по вопросам в",
+      "source": "OpenSanctions",
+      "title": "JAIRO EDUARDO DE BEM [Person]",
+      "url": "https://www.opensanctions.org/entities/br-ceis-9bc7fb91d571cde70cf67a56e3482b5ca029bd24/",
+      "date": "2026-10-19T23:47:06",
+      "summary": "Datasets: Brazil National Register of Disreputable and Suspended Companies",
       "entities": [
-        "Maia Sandu"
+        "Banca de Economii"
+      ],
+      "tags": [
+        "sanction"
+      ],
+      "score": 11.4,
+      "meta": {
+        "datasets": [
+          "Brazil National Register of Disreputable and Suspended Companies"
+        ],
+        "query": [
+          "Banca de Economii"
+        ]
+      },
+      "uid": "a56dadef656cdce4"
+    },
+    {
+      "source": "OpenSanctions",
+      "title": "Gospodăria Țărănească \"GUȘAN ION VALENTIN\" s.Cobani raionul Glodeni [Company]",
+      "url": "https://www.opensanctions.org/entities/oc-companies-md-1024602009057/",
+      "date": "2026-10-19T07:35:16",
+      "summary": "Datasets: Graph-based entity tagging;State Registers of Legal Entities and Non-Profit Organizations in the Republic of Moldova",
+      "entities": [
+        "Viktor Gushan"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 10.06,
       "meta": {
-        "outlet": "NewsMaker"
+        "datasets": [
+          "Graph-based entity tagging",
+          "State Registers of Legal Entities and Non-Profit Organizations in the Republic of Moldova"
+        ],
+        "query": [
+          "Viktor Gushan"
+        ]
       },
-      "uid": "c376c587442fbf40"
+      "uid": "09200db811cf2a4b"
     }
   ],
   "momentum": [
@@ -37,7 +66,5 @@
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }

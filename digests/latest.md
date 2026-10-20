@@ -1,22 +1,13 @@
-# Moldova Watch — 2026-10-19
+# Moldova Watch — 2026-10-20
 
-*1 semnale noi din 1 surse.*
+*2 semnale noi din 1 surse.*
 
 ## 🧭 Brief editorial (Claude)
 
-1) BRIEF (max 5 puncte):
-*   **Numiri cheie la Președinție:** Olga Roshka și Stanislav Secrieru au fost numiți consilieri principali ai Președintei Maia Sandu.
-*   **De ce contează:** Aceste numiri consolidează echipa din jurul Președintei și pot semnala o reconfigurare a priorităților sau o întărire a anumitor direcții strategice. Consilierii principali au o influență directă asupra agendei și deciziilor prezidențiale.
+1) BRIEF:
 
-2) CONEXIUNI:
-*   Maia Sandu: Apare ca entitate centrală în semnal, fiind cea care face numirile.
-*   Nu există alte nume/entități care să apară în multiple surse simultan, având în vedere unicul semnal furnizat.
-
-3) UNGHIURI:
-*   **Profilul și potențialele interese ale noilor consilieri:**
-    *   Primul pas: Verificarea declarațiilor de avere și interese, istoricul profesional și politic (legături cu entități private, ONG-uri, partide) pentru Olga Roshka și Stanislav Secrieru.
-*   **Aria de expertiză și influența specifică în Președinție:**
-    *   Primul pas: Determinarea portofoliilor specifice sau domeniilor de responsabilitate atribuite fiecărui consilier și analiza corespondenței cu expertiza lor anterioară. Identificarea potențialelor arii de conflict de interese sau de lobbying.
+*   **Banca de Economii:** Un individ brazilian, Jairo Eduardo De Bem, apare într-o bază de date de sancțiuni/ineligibilitate din Brazilia cu o legătură la Banca de Economii din Moldova. Acest lucru sugerează o posibilă implicare internațională în tranzacții sau evenimente legate de frauda bancară din Moldova.
+*   **Viktor Gushan:**
 
 ## 📈 Momentum (ultimele 14 zile)
 
@@ -27,21 +18,22 @@
 
 ## ⭐ Priority
 
-- [[NewsMaker] Ольгу Рошку и Станислава Секриеру назначили главными советниками Майи Санду](https://newsmaker.md/ru/olgu-roshku-i-stanislava-sekrieru-naznachili-glavnymi-sovetnikami-prezidenta-moldovy) (Mon, 19 Oc) — Maia Sandu **[7.9]**
+- [JAIRO EDUARDO DE BEM [Person]](https://www.opensanctions.org/entities/br-ceis-9bc7fb91d571cde70cf67a56e3482b5ca029bd24/) (2026-10-19) — Banca de Economii `sanction` **[11.4]**
+- [Gospodăria Țărănească "GUȘAN ION VALENTIN" s.Cobani raionul Glodeni [Company]](https://www.opensanctions.org/entities/oc-companies-md-1024602009057/) (2026-10-19) — Viktor Gushan **[10.06]**
 
 ## 👤 Pe entitate
 
-### Maia Sandu (1)
-- [[NewsMaker] Ольгу Рошку и Станислава Секриеру назначили главными советниками Майи Санду](https://newsmaker.md/ru/olgu-roshku-i-stanislava-sekrieru-naznachili-glavnymi-sovetnikami-prezidenta-moldovy) (Mon, 19 Oc) — Maia Sandu
+### Banca de Economii (1)
+- [JAIRO EDUARDO DE BEM [Person]](https://www.opensanctions.org/entities/br-ceis-9bc7fb91d571cde70cf67a56e3482b5ca029bd24/) (2026-10-19) — Banca de Economii `sanction`
+
+### Viktor Gushan (1)
+- [Gospodăria Țărănească "GUȘAN ION VALENTIN" s.Cobani raionul Glodeni [Company]](https://www.opensanctions.org/entities/oc-companies-md-1024602009057/) (2026-10-19) — Viktor Gushan
 
 ## 🗂️ Toate, pe sursa
 
-### MD Press (1)
-- [[NewsMaker] Ольгу Рошку и Станислава Секриеру назначили главными советниками Майи Санду](https://newsmaker.md/ru/olgu-roshku-i-stanislava-sekrieru-naznachili-glavnymi-sovetnikami-prezidenta-moldovy) (Mon, 19 Oc) — Maia Sandu
-
-## ⚠️ Erori la fetch
-
-- GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))
+### OpenSanctions (2)
+- [JAIRO EDUARDO DE BEM [Person]](https://www.opensanctions.org/entities/br-ceis-9bc7fb91d571cde70cf67a56e3482b5ca029bd24/) (2026-10-19) — Banca de Economii `sanction`
+- [Gospodăria Țărănească "GUȘAN ION VALENTIN" s.Cobani raionul Glodeni [Company]](https://www.opensanctions.org/entities/oc-companies-md-1024602009057/) (2026-10-19) — Viktor Gushan
 
 ---
-_Generat automat de moldova-watch la 2026-10-19T13:45:59.301573+00:00._
+_Generat automat de moldova-watch la 2026-10-20T11:55:05.164617+00:00._
