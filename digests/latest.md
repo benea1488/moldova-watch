@@ -1,23 +1,35 @@
-# Moldova Watch — 2026-10-21
+# Moldova Watch — 2026-10-22
 
-*0 semnale noi din 0 surse.*
+*2 semnale noi din 1 surse.*
+
+## 🧭 Brief editorial (Claude)
+
+1) BRIEF:
+*   Noul premier român a ales R. Moldova pentru prima sa vizită externă, semnalând importanța strategică a relației bilaterale.
+*   Vizita va include o
 
 ## 📈 Momentum (ultimele 14 zile)
 
-- **Maia Sandu** — 7 aparitii
+- **Maia Sandu** — 8 aparitii
 - **Igor Dodon** — 5 aparitii
 - **Alexandr Stoianoglo** — 3 aparitii
 - **Evghenia Gutul** — 3 aparitii
 
 ## ⭐ Priority
 
-_Nimic nou azi._
+- [[NewsMaker] Новый премьер Румынии выбрал Молдову для своего первого зарубежного визита. Когда он приедет и с кем встретится?](https://newsmaker.md/ru/novyi-premer-rumynii-vybral-moldovu-dlya-svoego-pervogo-zarubejnogo-vizita-kogda-i-zachem-on-priedet) (Thu, 22 Oc) — Maia Sandu **[7.9]**
+- [[RISE Moldova] Investigația transfrontalieră despre medicii sancționați, premiată la IJ4EU](https://www.rise.md/investigatia-transfrontaliera-despre-medicii-sanctionati-premiata-la-ij4eu/) (Wed, 21 Oc) `leak` **[6.0]**
+
+## 👤 Pe entitate
+
+### Maia Sandu (1)
+- [[NewsMaker] Новый премьер Румынии выбрал Молдову для своего первого зарубежного визита. Когда он приедет и с кем встретится?](https://newsmaker.md/ru/novyi-premer-rumynii-vybral-moldovu-dlya-svoego-pervogo-zarubejnogo-vizita-kogda-i-zachem-on-priedet) (Thu, 22 Oc) — Maia Sandu
 
 ## 🗂️ Toate, pe sursa
 
-## ⚠️ Erori la fetch
-
-- GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))
+### MD Press (2)
+- [[NewsMaker] Новый премьер Румынии выбрал Молдову для своего первого зарубежного визита. Когда он приедет и с кем встретится?](https://newsmaker.md/ru/novyi-premer-rumynii-vybral-moldovu-dlya-svoego-pervogo-zarubejnogo-vizita-kogda-i-zachem-on-priedet) (Thu, 22 Oc) — Maia Sandu
+- [[RISE Moldova] Investigația transfrontalieră despre medicii sancționați, premiată la IJ4EU](https://www.rise.md/investigatia-transfrontaliera-despre-medicii-sanctionati-premiata-la-ij4eu/) (Wed, 21 Oc) `leak`
 
 ---
-_Generat automat de moldova-watch la 2026-10-21T12:07:58.202065+00:00._
+_Generat automat de moldova-watch la 2026-10-22T12:11:35.380133+00:00._
