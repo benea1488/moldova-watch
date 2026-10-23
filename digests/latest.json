@@ -1,13 +1,13 @@
 {
-  "generated": "2026-10-22T12:11:35.382965+00:00",
+  "generated": "2026-10-23T11:53:45.174866+00:00",
   "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Новый премьер Румынии выбрал Молдову для своего первого зарубежного визита. Когда он приедет и с кем встретится?",
-      "url": "https://newsmaker.md/ru/novyi-premer-rumynii-vybral-moldovu-dlya-svoego-pervogo-zarubejnogo-vizita-kogda-i-zachem-on-priedet",
-      "date": "Thu, 22 Oct 2026 09:09:17 +0000",
-      "summary": "Новый премьер-министр Румынии Лука Никулеску 27 октября совершит свой первый официальный визит в Молдову. Как сообщают 22 октября румынские СМИ, это будет его первый зарубежный визит после вступления в должность. Программа визита включает встречи с президентом Майей Санду, главой правительства Васил",
+      "title": "[NewsMaker] Пиар на саженцах или спасение от засухи? Хаждер ответил на критику программы расширения лесов",
+      "url": "https://newsmaker.md/ru/piar-na-sajenczah-ili-spasenie-ot-zasuhi-hajder-otvetil-na-kritiku-programmy-rasshireniya-lesov",
+      "date": "Fri, 23 Oct 2026 11:40:10 +0000",
+      "summary": "Министр окружающей среды Георге Хаждер 23 октября ответил на критику оппозиционных ресурсов и неправительственных эко-активистов в адрес национальной программы расширения и восстановления лесов, инициированной президентом Майей Санду. Министр прокомментировал заявления о неэффективности программы, о",
       "entities": [
         "Maia Sandu"
       ],
@@ -16,14 +16,14 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "bc0f6ae62b10c63a"
+      "uid": "4dfd5826b03cc056"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Investigația transfrontalieră despre medicii sancționați, premiată la IJ4EU",
-      "url": "https://www.rise.md/investigatia-transfrontaliera-despre-medicii-sanctionati-premiata-la-ij4eu/",
-      "date": "Wed, 21 Oct 2026 15:26:41 +0000",
-      "summary": "Proiectul Bad Practice, realizat prin colaborarea OCCRP, RISE Moldova și peste 45 de instituții media europene, a câștigat [&#8230;]\nThe post Investigația transfrontalieră despre medicii sancționați, premiată la IJ4EU appeared first on Rise Moldova.",
+      "title": "[RISE Moldova] RISE Moldova câștigă dosarul SLAPP intentat de politicianul Nicolae Pascaru",
+      "url": "https://www.rise.md/rise-moldova-castiga-dosarul-slapp-intentat-de-politicianul-nicolae-pascaru/",
+      "date": "Thu, 22 Oct 2026 15:12:44 +0000",
+      "summary": "Judecătoria Chișinău a respins ca neîntemeiată acțiunea depusă de fostul deputat socialist Nicolae Pascaru împotriva RISE Moldova. În [&#8230;]\nThe post RISE Moldova câștigă dosarul SLAPP intentat de politicianul Nicolae Pascaru appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -32,17 +32,17 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "4e39f6725f4367d8"
+      "uid": "7a1c5f261fd8226c"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      8
+      9
     ],
     [
       "Igor Dodon",
-      5
+      4
     ],
     [
       "Alexandr Stoianoglo",
