@@ -1,134 +1,45 @@
 {
-  "generated": "2026-10-24T11:22:27.871612+00:00",
-  "count": 8,
+  "generated": "2026-10-25T11:53:10.861027+00:00",
+  "count": 2,
   "items": [
     {
-      "source": "MD Press",
-      "title": "[Ziarul de Garda] VIDEO/ Programul „Moldova Pregătită” | Dosarul „INTERPOL” | Incidentele cu grănicerii ucraineni | Cazul Irinei Gutnic | Tiktokerul Nekoglai, din nou după gratii | Premierul Tofan, apel către locuitorii Autonomiei Găgăuze | SĂPTĂMÂNA DE GARDĂ",
-      "url": "https://www.zdg.md/video/video-programul-moldova-pregatita-dosarul-interpol-incidentele-cu-granicerii-ucraineni-cazul-irinei-gutnic-tiktokerul-nekoglai-din-nou-dupa-gratii-premi/",
-      "date": "Sat, 24 Oct 2026 06:00:00 +0000",
-      "summary": "Electricitatea, apa și agentul termic nu vor fi oprite pentru 72 de ore, așa cum există mai multe manipulări în spațiul public. Ce înseamnă, de fapt, programul „Moldova pregătită”, vă spunem astăzi. Vorbim și despre organizația „Eurasia”, controlată de fugarul Ilan Șor, despre apelul premierului Vas",
+      "source": "OpenSanctions",
+      "title": "Voronin Aleksandr [Person]",
+      "url": "https://www.opensanctions.org/entities/ua-nsdc-37644-voronin-oleksandr-andrijovic/",
+      "date": "2026-10-24T16:22:06",
+      "summary": "Datasets: Ukraine NSDC State Register of Sanctions",
       "entities": [
-        "Ilan Shor"
+        "Vladimir Voronin"
       ],
-      "tags": [],
-      "score": 9.5,
+      "tags": [
+        "sanction"
+      ],
+      "score": 11.4,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "datasets": [
+          "Ukraine NSDC State Register of Sanctions"
+        ],
+        "query": [
+          "Vladimir Voronin"
+        ]
       },
-      "uid": "84ff0283cc0603d8"
+      "uid": "0c1b2fd556303722"
     },
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Maia Sandu s-a întâlnit cu președintele și premierul Ungariei",
-      "url": "https://www.zdg.md/stiri/maia-sandu-s-a-intalnit-cu-presedintele-si-premierul-ungariei/",
-      "date": "Sat, 24 Oct 2026 10:28:50 +0000",
-      "summary": "Președinta R. Moldova, Maia Sandu, a avut sâmbătă, 24 octombrie, întrevederi la Budapesta cu președintele Ungariei, András Baka, și cu prim-ministrul Péter Magyar. Oficialii au discutat despre parcursul european al R. Moldova, cooperarea economică și energetică și securitatea regională, anunță Preșe",
-      "entities": [
-        "Maia Sandu"
+      "title": "[RISE Moldova] ANI refuză să inițieze un control pe numele deputatului comunist Adrian Domentiuc",
+      "url": "https://www.rise.md/ani-refuza-sa-initieze-un-control-pe-numele-deputatului-comunist-adrian-domentiuc/",
+      "date": "Sat, 24 Oct 2026 12:15:29 +0000",
+      "summary": "Autoritatea Națională de Integritate (ANI) a refuzat să inițieze un control privind respectarea regimului juridic al incompatibilităților în [&#8230;]\nThe post ANI refuză să inițieze un control pe numele deputatului comunist Adrian Domentiuc appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
       ],
-      "tags": [],
-      "score": 7.9,
+      "score": 6.0,
       "meta": {
-        "outlet": "Ziarul de Garda"
+        "outlet": "RISE Moldova"
       },
-      "uid": "d92c9dbd93f99aff"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду встретилась с президентом и премьером Венгрии. Стороны обсудили вступление Молдовы в ЕС и угрозы со стороны России",
-      "url": "https://newsmaker.md/ru/sandu-vstretilas-s-prezidentom-i-premerom-vengrii-obsudili-vstuplenie-moldovy-v-es-i-ugrozy-so-storony-rossii",
-      "date": "Sat, 24 Oct 2026 11:00:18 +0000",
-      "summary": "Президент Молдовы Майя Санду 24&#160;октября встретилась в&#160;Будапеште с&#160;президентом Венгрии Андрашем Бакой и&#160;премьер-министром Петером Мадьяром. Как сообщили в&#160;администрации главы государства, стороны обсудили европейскую интеграцию Молдовы, экономическое и&#160;энергетическое сот",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "cc8326efe031edd4"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Гагаузия: Рассчитывать только на Кишинев — несправедливо?/Избиратели смогут проголосовать в EVO",
-      "url": "https://newsmaker.md/ru/video-gagauziya-rasschityvat-tolko-na-kishinev-nespravedlivoizbirateli-smogut-progolosovat-v-evo",
-      "date": "Sat, 24 Oct 2026 10:59:01 +0000",
-      "summary": "Что происходит в Гагаузии, с какими проблемами сталкиваются жители автономии, и какие решения предлагают местные и центральные власти? NewsMaker рассказывает о главных событиях в автономии: Стояногло: без доверия не может быть сотрудничества Александр Стояногло, независимый кандидат на пост башкана ",
-      "entities": [
-        "Alexandr Stoianoglo"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "1b39ca730b667c57"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Минобороны подтвердило, что в Теленештском районе упал ударный беспилотник «Герань-4»",
-      "url": "https://newsmaker.md/ru/minoborony-podtverdilo-chto-v-teleneshtskom-raione-upal-udarnyi-bespilotnik-geran-4",
-      "date": "Sat, 24 Oct 2026 08:58:16 +0000",
-      "summary": "Министерство обороны 24 октября подтвердило озвученную ранее президентом Майей Санду информацию, что в селе Киштельница Теленештского района упал ударный беспилотник типа «Герань-4». В ведомстве заверили, что боевую часть БЛА уже уничтожили. В&#160;министерстве сообщили, что совместная рабочая групп",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "ee927ec2cdd771cc"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду приняла участие в памятных мероприятиях в Будапеште: Идеал свободы венгров нам близок",
-      "url": "https://newsmaker.md/ru/sandu-prinyala-uchastie-v-pamyatnyh-meropriyatiyah-v-budapeshte-ideal-svobody-vengrov-nam-blizok",
-      "date": "Sat, 24 Oct 2026 08:24:10 +0000",
-      "summary": "Президент Молдовы Майя Санду, находящаяся в Будапеште в рамках первого официального визита в Венгрию, приняла участие в памятных мероприятиях, приуроченных к 70-й годовщине Венгерской революции 1956 года. Как сообщили 24 октября в администрации президента, вместе с Санду на торжества в Будапешт приб",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "7d16ea29f20ac104"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Мужики отбили украинца, Зеленский держит Молдову, PAS гуляет в Милане / «Разборка»",
-      "url": "https://newsmaker.md/ru/video-mujiki-otbili-ukraincza-zelenskii-derjit-moldovu-pas-gulyaet-v-milane-razborka",
-      "date": "Sat, 24 Oct 2026 07:00:25 +0000",
-      "summary": "Молдавские сельчане отбили украинского беглеца у пограничников, представители власти всю неделю путаются в показаниях, а Костюк может заменить Moldova-1. Зеленский не хочет отпускать Молдову в ЕС без Украины, а Санду собирается в Венгрию. В Румынии спустя полгода новое правительство – и это не те, н",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "acdbbbd5d56e8cf4"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] NM Espresso: Молдова вышлет российского дипломата, приднестровцев «сгоняют» на протесты, футбольный клуб «Зимбру» закроют?",
-      "url": "https://newsmaker.md/ru/nm-espresso-pridnestrovczev-sognali-na-miting-v-moldove-snova-upal-dron-futbolnyi-klub-zimbru-zakroyut",
-      "date": "Sat, 24 Oct 2026 05:08:00 +0000",
-      "summary": "Снова дроны: Санду, МИД Упавший дрон накануне обнаружили в 100 метрах от жилого дома в селе Киштельница Теленештского района. Дрон нашел местный житель, на место приехали полиция и саперы. Место оцепили. Других подробностей в полиции не сообщили. Некоторые подробности появились в заявлении президент",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "f30ff90714afc117"
+      "uid": "88c4fb1c2cfb331e"
     }
   ],
   "momentum": [
@@ -138,6 +49,10 @@
     ],
     [
       "Igor Dodon",
+      3
+    ],
+    [
+      "Vladimir Voronin",
       3
     ],
     [
