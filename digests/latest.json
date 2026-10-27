@@ -1,64 +1,11 @@
 {
-  "generated": "2026-10-26T13:23:57.963437+00:00",
-  "count": 3,
-  "items": [
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Додон заявил, что «договорился» с Россией о более дешевом газе: «Мы докажем, что это возможно»",
-      "url": "https://newsmaker.md/ru/dodon-zayavil-chto-dogovorilsya-s-rossiei-o-bolee-deshevom-gaze-my-dokajem-chto-eto-vozmojno",
-      "date": "Mon, 26 Oct 2026 10:22:55 +0000",
-      "summary": "Лидер Партии социалистов Игорь Додон заявил, что ищет компанию, которая сможет поставлять более дешевый российский газ до границы Молдовы. По его словам, договоренность с Россией уже достигнута, однако политик не уточнил ни цену, ни условия поставок. Заявление Додон сделал в Комрате в преддверии выб",
-      "entities": [
-        "Igor Dodon"
-      ],
-      "tags": [],
-      "score": 8.7,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "cb3289131f30db8b"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Санду назначила нового замглавы Службы госохраны",
-      "url": "https://newsmaker.md/ru/sandu-naznachila-novogo-zamglavy-slujby-gosohrany",
-      "date": "Mon, 26 Oct 2026 10:13:59 +0000",
-      "summary": "Президент Майя Санду подписала 26 октября указ о назначении нового заместителя главы Службы государственной охраны (SPPS). Согласно документу, место отправленного в отставку в ноябре 2025 года Виталия Лапушку займет Вадим Шкепу, ранее возглавлявший одно из управлений службы. В&#160;указе уточняется,",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "c525ae7c93a7c1f9"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Cine controlează Yandex Moldova și unde ajung datele clienților",
-      "url": "https://www.rise.md/articol/cine-controleaza-yandex-moldova-si-unde-ajung-datele-clientilor/",
-      "date": "Mon, 26 Oct 2026 08:19:49 +0000",
-      "summary": "Consiliul pentru Examinarea Investițiilor de Importanță pentru Securitatea Statului, condus de premierul Vasile Tofan, a demarat o evaluare [&#8230;]\nThe post Cine controlează Yandex Moldova și unde ajung datele clienților appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
-      ],
-      "score": 6.0,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "e94a0e2c8d10af9d"
-    }
-  ],
+  "generated": "2026-10-27T12:30:55.122093+00:00",
+  "count": 0,
+  "items": [],
   "momentum": [
     [
       "Maia Sandu",
-      14
-    ],
-    [
-      "Igor Dodon",
-      4
+      13
     ],
     [
       "Vladimir Voronin",
@@ -69,11 +16,13 @@
       3
     ],
     [
+      "Igor Dodon",
+      3
+    ],
+    [
       "Alexandr Stoianoglo",
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
