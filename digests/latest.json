@@ -1,15 +1,11 @@
 {
-  "generated": "2026-10-28T13:19:46.655696+00:00",
+  "generated": "2026-10-29T13:26:50.453634+00:00",
   "count": 0,
   "items": [],
   "momentum": [
     [
       "Maia Sandu",
       11
-    ],
-    [
-      "Vladimir Voronin",
-      3
     ],
     [
       "Evghenia Gutul",
@@ -24,5 +20,7 @@
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
