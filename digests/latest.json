@@ -1,15 +1,60 @@
 {
-  "generated": "2026-10-29T13:26:50.453634+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-10-30T13:15:51.129665+00:00",
+  "count": 3,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Зарплата президента Майи Санду вырастет с 22 000 до 55 000 леев",
+      "url": "https://newsmaker.md/ru/zarplata-prezidenta-maii-sandu-vyrastet-s-22-000-do-55-000-leev",
+      "date": "Fri, 30 Oct 2026 09:15:33 +0000",
+      "summary": "Заработная плата президента до вычета налогов (брутто) должна увеличиться примерно с 22 тыс. до 55 тыс. леев. Повышение зарплат затронет также премьер-министра и председателя парламента. Эту информацию сообщила министр финансов Виктория Белоус 29 октября в эфире передачи «Cutia Neagră» на телеканале",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "2d2fb003e9a274e6"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Energocom avertizează: escrocii se dau drept angajați ai companiei și solicită datele personale: „Angajații nu solicită telefonic informații din buletinul de identitate sau date bancare”",
+      "url": "https://www.zdg.md/stiri/1energocom-avertizeaza-escrocii-se-dau-drept-angajati-ai-companiei-si-solicita-datele-personale-angajatii-nu-solicita-telefonic-informatii-din-buletinul-de-identitate-sau-date-bancare/",
+      "date": "Fri, 30 Oct 2026 10:51:33 +0000",
+      "summary": "Energocom avertizează asupra unor tentative de fraudă în care persoane necunoscute contactează telefonic consumatorii, prezentându-se drept angajați ai companiei și solicitând date cu caracter personal sub pretextul colectării indicilor contoarelor de gaze naturale, anunță vineri, 30 octombrie, comp",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "5d2239c8981923f7"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Новая схема мошенничества. Неизвестные звонят от имени Energocom под предлогом проверки газовых счетчиков",
+      "url": "https://newsmaker.md/ru/novaya-shema-moshennichestva-neizvestnye-zvonyat-ot-imeni-energocom-pod-predlogom-proverki-gazovyh-schetchikov",
+      "date": "Fri, 30 Oct 2026 10:43:54 +0000",
+      "summary": "В Молдове мошенники звонят потребителям от имени госкомпании Energocom и пытаются выведать их личные данные под предлогом сбора показаний счетчиков природного газа. Об этом 30 октября предупредили в пресс-службе предприятия. По данным Energocom, в последнее время участились случаи, когда неизвестные",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "39ca39a82127f05f"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
-      11
-    ],
-    [
-      "Evghenia Gutul",
-      3
+      12
     ],
     [
       "Igor Dodon",
@@ -20,7 +65,5 @@
       3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
