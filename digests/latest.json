@@ -1,7 +1,40 @@
 {
-  "generated": "2026-11-01T13:41:44.447120+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-11-02T16:23:19.227738+00:00",
+  "count": 2,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] Apărarea lui Plahotniuc a solicitat scoaterea de sub sechestru a mai multor bunuri indisponibilizate",
+      "url": "https://www.zdg.md/stiri/apararea-lui-plahotniuc-a-solicitat-scoaterea-de-sub-sechestru-a-mai-multor-bunuri-indisponibilizate/",
+      "date": "Mon, 02 Nov 2026 13:05:00 +0000",
+      "summary": "Apărarea lui Vladimir Plahotniuc a solicitat scoatere de sub sechestru a mai multor bunuri indisponibilizate. „Niciunul dintre bunurile sechestrate nu este înregistrat pe numele inculpatului”, argumentează avocații lui Vladimir Plahotniuc. De cealaltă parte, procurorul a cerut respingerea acestei ce",
+      "entities": [
+        "Vladimir Plahotniuc"
+      ],
+      "tags": [],
+      "score": 9.5,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "7cdb64139aa5da5b"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Майя Санду поздравила Илиану Йотову с победой на президентских выборах в Болгарии",
+      "url": "https://newsmaker.md/ru/maiya-sandu-pozdravila-ilianu-iotovu-s-pobedoi-na-prezidentskih-vyborah-v-bolgarii",
+      "date": "Mon, 02 Nov 2026 16:21:11 +0000",
+      "summary": "Президент Майя Санду поздравила Илиану Йотову с избранием на пост президента Болгарии. В сообщении, опубликованном в соцсети X, глава государства выразила готовность к сотрудничеству ради безопасности и процветания региона. «Поздравляю Илиану Йотову с избранием на пост президента Болгарии. Молдова д",
+      "entities": [
+        "Maia Sandu"
+      ],
+      "tags": [],
+      "score": 7.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "1a51eddb2878e5cc"
+    }
+  ],
   "momentum": [
     [
       "Maia Sandu",
@@ -12,5 +45,7 @@
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
