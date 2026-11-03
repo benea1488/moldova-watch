@@ -1,47 +1,85 @@
 {
-  "generated": "2026-11-02T16:23:19.227738+00:00",
-  "count": 2,
+  "generated": "2026-11-03T14:32:37.703700+00:00",
+  "count": 4,
   "items": [
     {
       "source": "MD Press",
-      "title": "[Ziarul de Garda] Apărarea lui Plahotniuc a solicitat scoaterea de sub sechestru a mai multor bunuri indisponibilizate",
-      "url": "https://www.zdg.md/stiri/apararea-lui-plahotniuc-a-solicitat-scoaterea-de-sub-sechestru-a-mai-multor-bunuri-indisponibilizate/",
-      "date": "Mon, 02 Nov 2026 13:05:00 +0000",
-      "summary": "Apărarea lui Vladimir Plahotniuc a solicitat scoatere de sub sechestru a mai multor bunuri indisponibilizate. „Niciunul dintre bunurile sechestrate nu este înregistrat pe numele inculpatului”, argumentează avocații lui Vladimir Plahotniuc. De cealaltă parte, procurorul a cerut respingerea acestei ce",
+      "title": "[NewsMaker] Гуцул не просила Санду о помиловании? Ответ администрации президента",
+      "url": "https://newsmaker.md/ru/sandu-ne-rassmotrit-prosbu-dodona-o-pomilovanii-guczul-ne-sootvetstvuet-trebovaniyam",
+      "date": "Tue, 03 Nov 2026 14:01:38 +0000",
+      "summary": "Президент Молдовы Майя Санду не будет рассматривать просьбу лидера Партии социалистов Игоря Додона о помиловании бывшего башкана Гагаузии Евгении Гуцул. В администрации президента 3 ноября сообщили NewsMaker, что обращение Додона не соответствует установленным законом требованиям для рассмотрения. К",
       "entities": [
-        "Vladimir Plahotniuc"
+        "Maia Sandu",
+        "Evghenia Gutul"
       ],
       "tags": [],
-      "score": 9.5,
-      "meta": {
-        "outlet": "Ziarul de Garda"
-      },
-      "uid": "7cdb64139aa5da5b"
-    },
-    {
-      "source": "MD Press",
-      "title": "[NewsMaker] Майя Санду поздравила Илиану Йотову с победой на президентских выборах в Болгарии",
-      "url": "https://newsmaker.md/ru/maiya-sandu-pozdravila-ilianu-iotovu-s-pobedoi-na-prezidentskih-vyborah-v-bolgarii",
-      "date": "Mon, 02 Nov 2026 16:21:11 +0000",
-      "summary": "Президент Майя Санду поздравила Илиану Йотову с избранием на пост президента Болгарии. В сообщении, опубликованном в соцсети X, глава государства выразила готовность к сотрудничеству ради безопасности и процветания региона. «Поздравляю Илиану Йотову с избранием на пост президента Болгарии. Молдова д",
-      "entities": [
-        "Maia Sandu"
-      ],
-      "tags": [],
-      "score": 7.9,
+      "score": 11.1,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "1a51eddb2878e5cc"
+      "uid": "90d3201991e03e4d"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] «Позволит ли Energocom закупить газ „Газпрома“, чтобы тариф снизили до 10 леев?» Додон ждет Тофана в парламенте",
+      "url": "https://newsmaker.md/ru/pozvolit-li-energocom-zakupit-gaz-gazproma-chtoby-tarif-snizili-do-10-leev-dodon-jdet-tofana-v-parlamente",
+      "date": "Tue, 03 Nov 2026 11:58:36 +0000",
+      "summary": "Лидер и депутат от Партии социалистов Игорь Додон заявил, что ждет отчета премьер-министра в парламенте, чтобы задать вопрос о возможности поставок дешевого российского газа в Молдову. А именно, согласится ли Energocom купить российский газ по $350 за тыс. кубометров, если «Газпром» поставит его к г",
+      "entities": [
+        "Igor Dodon",
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 10.3,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "fe256d3b46099940"
+    },
+    {
+      "source": "MD Press",
+      "title": "[Ziarul de Garda] VIDEO/ Dosarul „Kuliok”: CC urmează să se expună dacă CSJ poate examina cauza penală. Un martor al acuzării va fi audiat prin videoconferință",
+      "url": "https://www.zdg.md/stiri/video-dosarul-kuliok-cc-urmeaza-sa-se-expuna-daca-csj-poate-examina-cauza-penala-un-martor-al-acuzarii-va-fi-audiat-prin-videoconferinta/",
+      "date": "Tue, 03 Nov 2026 12:56:32 +0000",
+      "summary": "După o pauză de o lună, marți, 3 noiembrie, la Curtea Supremă de Justiție (CSJ) a avut loc o nouă ședință de judecată în dosarul „Kuliok”, în care este inculpat fostul președinte al R. Moldova și actualul deputat socialist Igor Dodon. Acesta s-a prezentat în fața judecătorilor. La începutul ședinței",
+      "entities": [
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "Ziarul de Garda"
+      },
+      "uid": "fcf4e682526cc392"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Додон обратился в КС за разъяснением процедуры по делу о «кульке»",
+      "url": "https://newsmaker.md/ru/dodon-obratilsya-v-ks-za-razyasneniem-proczedury-po-delu-o-kulke",
+      "date": "Tue, 03 Nov 2026 10:04:34 +0000",
+      "summary": "Бывший президент Молдовы, депутат от Партии социалистов (ПСРМ) Игорь Додон обратился в Конституционный суд (КС) за разъяснением процедуры рассмотрения уголовных дел против бывших глав государства. Политик и его защита просят КС внести ясность: должны ли дела экс-президентов рассматриваться в обычных",
+      "entities": [
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "82a11300274bdf5b"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      13
+      14
     ],
     [
       "Igor Dodon",
+      6
+    ],
+    [
+      "Energie / Gazprom / Moldovagaz",
       3
     ]
   ],
