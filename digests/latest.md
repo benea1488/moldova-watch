@@ -1,49 +1,53 @@
-# Moldova Watch — 2026-11-04
+# Moldova Watch — 2026-11-05
 
-*4 semnale noi din 1 surse.*
+*5 semnale noi din 1 surse.*
 
 ## 🧭 Brief editorial (Claude)
 
-1) BRIEF (max 5 puncte): ce conteaza azi si DE CE.
-*   **Instabilitate electorală și retorică destabilizatoare:** Igor Dodon contestă legitimitatea viitoarelor
+1) BRIEF:
+*   **Tensiuni Transnistrene Escaladează:** Vadim Krasnoselsky este figura centrală, vizita sa la Moscova și decorarea de către Putin fiind percepute ca provoc
 
 ## 📈 Momentum (ultimele 14 zile)
 
-- **Maia Sandu** — 16 aparitii
-- **Igor Dodon** — 8 aparitii
+- **Maia Sandu** — 17 aparitii
+- **Igor Dodon** — 9 aparitii
 - **Energie / Gazprom / Moldovagaz** — 3 aparitii
+- **Vadim Krasnoselsky** — 3 aparitii
 
 ## ⭐ Priority
 
-- [[NewsMaker] Додон усомнился в легитимности выборов в Гагаузии, если Федора Гагауза снимут с гонки: Реакция Центрального избирательного совета](https://newsmaker.md/ru/dodon-usomnilsya-v-legitimnosti-vyborov-v-gagauzii-esli-fedora-gagauza-snimut-s-gonki-reakcziya-czentralnogo-izbiratelnogo-soveta) (Wed, 04 No) — Igor Dodon, Alexandr Stoianoglo **[11.1]**
-- [[NewsMaker] (ВИДЕО) Додон пророчит «украинский сценарий»/ Депутатам повысят зарплаты/ Новые авиарейсы из Кишинева](https://newsmaker.md/ru/video-dodon-prorochit-ukrainskii-sczenarii-deputatam-povysyat-zarplaty-novye-aviareisy-iz-kishineva) (Wed, 04 No) — Igor Dodon **[8.7]**
-- [[Ziarul de Garda] Maia Sandu, după prezentarea pachetului de extindere al UE: „Lucrând mai departe, putem atinge obiectivele pe care ni le-am propus ca țară”](https://www.zdg.md/stiri/maia-sandu-dupa-prezentarea-pachetului-de-extindere-al-ue-lucrand-mai-departe-putem-atinge-obiectivele-pe-care-ni-le-am-propus-ca-tara/) (Wed, 04 No) — Maia Sandu **[7.9]**
-- [[NewsMaker] «Укрепление обороноспособности» или «лазейка для Санду»? Проект минобороны об осадном и военном положении вызвал споры в сети](https://newsmaker.md/ru/ukreplenie-oboronosposobnosti-ili-lazeika-dlya-sandu-proekt-minoborony-ob-osadnom-i-voennom-polojenii-vyzval-spory-v-seti) (Wed, 04 No) — Maia Sandu **[7.9]**
+- [[NewsMaker] (ВИДЕО) Красносельский не вернется в Приднестровье?/ Москва обвиняет Санду?/ Киронда присоединился к PAS](https://newsmaker.md/ru/video-krasnoselskii-ne-vernetsya-v-pridnestrove-moskva-obvinyaet-sandu-kironda-prisoedinilsya-k-pas) (Thu, 05 No) — Maia Sandu, Vadim Krasnoselsky **[11.1]**
+- [[Ziarul de Garda] „Rusia vrea să ne provoace. Ne întinde o capcană”, a comentat Vasile Tofan vizita lui Vadim Krasnoselski în Moscova, unde a fost decorat de Vladimir Putin](https://www.zdg.md/stiri/politic/rusia-vrea-sa-ne-provoace-ne-intinde-o-capcana-a-comentat-vasile-tofan-vizita-lui-vadim-krasnoselski-in-moscova-unde-a-fost-decorat-de-vladimir-putin/) (Thu, 05 No) — Vadim Krasnoselsky **[8.7]**
+- [[NewsMaker] Додон вслед за Костюком требует отозвать законопроект об осадном и военном положении: «Получил десятки сообщений от обеспокоенных людей»](https://newsmaker.md/ru/dodon-vsled-za-kostyukom-trebuet-otozvat-zakonoproekt-ob-osadnom-i-voennom-polojenii-poluchil-desyatki-zvonkov-i-soobshenii-ot-obespokoennyh-lyudei) (Thu, 05 No) — Igor Dodon **[8.7]**
+- [[NewsMaker] «Он планирует жить в России»: Тофан объяснил решение запретить Красносельскому покидать Молдову на пять лет](https://newsmaker.md/ru/emu-nujen-komfort-ne-v-tiraspole-a-v-moskve-tofan-obyasnil-reshenie-zapretit-krasnoselskomu-pokidat-moldovu-na-pyat-let) (Thu, 05 No) — Vadim Krasnoselsky **[8.7]**
+- [[Ziarul de Garda] Maia Sandu convoacă Consiliul Național de Securitate. Atacurile cibernetice, pe agendă](https://www.zdg.md/stiri/maia-sandu-convoaca-consiliul-national-de-securitate-atacurile-cibernetice-pe-agenda/) (Thu, 05 No) — Maia Sandu **[7.9]**
 
 ## 👤 Pe entitate
 
+### Vadim Krasnoselsky (3)
+- [[NewsMaker] (ВИДЕО) Красносельский не вернется в Приднестровье?/ Москва обвиняет Санду?/ Киронда присоединился к PAS](https://newsmaker.md/ru/video-krasnoselskii-ne-vernetsya-v-pridnestrove-moskva-obvinyaet-sandu-kironda-prisoedinilsya-k-pas) (Thu, 05 No) — Maia Sandu, Vadim Krasnoselsky
+- [[Ziarul de Garda] „Rusia vrea să ne provoace. Ne întinde o capcană”, a comentat Vasile Tofan vizita lui Vadim Krasnoselski în Moscova, unde a fost decorat de Vladimir Putin](https://www.zdg.md/stiri/politic/rusia-vrea-sa-ne-provoace-ne-intinde-o-capcana-a-comentat-vasile-tofan-vizita-lui-vadim-krasnoselski-in-moscova-unde-a-fost-decorat-de-vladimir-putin/) (Thu, 05 No) — Vadim Krasnoselsky
+- [[NewsMaker] «Он планирует жить в России»: Тофан объяснил решение запретить Красносельскому покидать Молдову на пять лет](https://newsmaker.md/ru/emu-nujen-komfort-ne-v-tiraspole-a-v-moskve-tofan-obyasnil-reshenie-zapretit-krasnoselskomu-pokidat-moldovu-na-pyat-let) (Thu, 05 No) — Vadim Krasnoselsky
+
 ### Maia Sandu (2)
-- [[Ziarul de Garda] Maia Sandu, după prezentarea pachetului de extindere al UE: „Lucrând mai departe, putem atinge obiectivele pe care ni le-am propus ca țară”](https://www.zdg.md/stiri/maia-sandu-dupa-prezentarea-pachetului-de-extindere-al-ue-lucrand-mai-departe-putem-atinge-obiectivele-pe-care-ni-le-am-propus-ca-tara/) (Wed, 04 No) — Maia Sandu
-- [[NewsMaker] «Укрепление обороноспособности» или «лазейка для Санду»? Проект минобороны об осадном и военном положении вызвал споры в сети](https://newsmaker.md/ru/ukreplenie-oboronosposobnosti-ili-lazeika-dlya-sandu-proekt-minoborony-ob-osadnom-i-voennom-polojenii-vyzval-spory-v-seti) (Wed, 04 No) — Maia Sandu
+- [[NewsMaker] (ВИДЕО) Красносельский не вернется в Приднестровье?/ Москва обвиняет Санду?/ Киронда присоединился к PAS](https://newsmaker.md/ru/video-krasnoselskii-ne-vernetsya-v-pridnestrove-moskva-obvinyaet-sandu-kironda-prisoedinilsya-k-pas) (Thu, 05 No) — Maia Sandu, Vadim Krasnoselsky
+- [[Ziarul de Garda] Maia Sandu convoacă Consiliul Național de Securitate. Atacurile cibernetice, pe agendă](https://www.zdg.md/stiri/maia-sandu-convoaca-consiliul-national-de-securitate-atacurile-cibernetice-pe-agenda/) (Thu, 05 No) — Maia Sandu
 
-### Igor Dodon (2)
-- [[NewsMaker] Додон усомнился в легитимности выборов в Гагаузии, если Федора Гагауза снимут с гонки: Реакция Центрального избирательного совета](https://newsmaker.md/ru/dodon-usomnilsya-v-legitimnosti-vyborov-v-gagauzii-esli-fedora-gagauza-snimut-s-gonki-reakcziya-czentralnogo-izbiratelnogo-soveta) (Wed, 04 No) — Igor Dodon, Alexandr Stoianoglo
-- [[NewsMaker] (ВИДЕО) Додон пророчит «украинский сценарий»/ Депутатам повысят зарплаты/ Новые авиарейсы из Кишинева](https://newsmaker.md/ru/video-dodon-prorochit-ukrainskii-sczenarii-deputatam-povysyat-zarplaty-novye-aviareisy-iz-kishineva) (Wed, 04 No) — Igor Dodon
-
-### Alexandr Stoianoglo (1)
-- [[NewsMaker] Додон усомнился в легитимности выборов в Гагаузии, если Федора Гагауза снимут с гонки: Реакция Центрального избирательного совета](https://newsmaker.md/ru/dodon-usomnilsya-v-legitimnosti-vyborov-v-gagauzii-esli-fedora-gagauza-snimut-s-gonki-reakcziya-czentralnogo-izbiratelnogo-soveta) (Wed, 04 No) — Igor Dodon, Alexandr Stoianoglo
+### Igor Dodon (1)
+- [[NewsMaker] Додон вслед за Костюком требует отозвать законопроект об осадном и военном положении: «Получил десятки сообщений от обеспокоенных людей»](https://newsmaker.md/ru/dodon-vsled-za-kostyukom-trebuet-otozvat-zakonoproekt-ob-osadnom-i-voennom-polojenii-poluchil-desyatki-zvonkov-i-soobshenii-ot-obespokoennyh-lyudei) (Thu, 05 No) — Igor Dodon
 
 ## 🗂️ Toate, pe sursa
 
-### MD Press (4)
-- [[NewsMaker] Додон усомнился в легитимности выборов в Гагаузии, если Федора Гагауза снимут с гонки: Реакция Центрального избирательного совета](https://newsmaker.md/ru/dodon-usomnilsya-v-legitimnosti-vyborov-v-gagauzii-esli-fedora-gagauza-snimut-s-gonki-reakcziya-czentralnogo-izbiratelnogo-soveta) (Wed, 04 No) — Igor Dodon, Alexandr Stoianoglo
-- [[NewsMaker] (ВИДЕО) Додон пророчит «украинский сценарий»/ Депутатам повысят зарплаты/ Новые авиарейсы из Кишинева](https://newsmaker.md/ru/video-dodon-prorochit-ukrainskii-sczenarii-deputatam-povysyat-zarplaty-novye-aviareisy-iz-kishineva) (Wed, 04 No) — Igor Dodon
-- [[Ziarul de Garda] Maia Sandu, după prezentarea pachetului de extindere al UE: „Lucrând mai departe, putem atinge obiectivele pe care ni le-am propus ca țară”](https://www.zdg.md/stiri/maia-sandu-dupa-prezentarea-pachetului-de-extindere-al-ue-lucrand-mai-departe-putem-atinge-obiectivele-pe-care-ni-le-am-propus-ca-tara/) (Wed, 04 No) — Maia Sandu
-- [[NewsMaker] «Укрепление обороноспособности» или «лазейка для Санду»? Проект минобороны об осадном и военном положении вызвал споры в сети](https://newsmaker.md/ru/ukreplenie-oboronosposobnosti-ili-lazeika-dlya-sandu-proekt-minoborony-ob-osadnom-i-voennom-polojenii-vyzval-spory-v-seti) (Wed, 04 No) — Maia Sandu
+### MD Press (5)
+- [[NewsMaker] (ВИДЕО) Красносельский не вернется в Приднестровье?/ Москва обвиняет Санду?/ Киронда присоединился к PAS](https://newsmaker.md/ru/video-krasnoselskii-ne-vernetsya-v-pridnestrove-moskva-obvinyaet-sandu-kironda-prisoedinilsya-k-pas) (Thu, 05 No) — Maia Sandu, Vadim Krasnoselsky
+- [[Ziarul de Garda] „Rusia vrea să ne provoace. Ne întinde o capcană”, a comentat Vasile Tofan vizita lui Vadim Krasnoselski în Moscova, unde a fost decorat de Vladimir Putin](https://www.zdg.md/stiri/politic/rusia-vrea-sa-ne-provoace-ne-intinde-o-capcana-a-comentat-vasile-tofan-vizita-lui-vadim-krasnoselski-in-moscova-unde-a-fost-decorat-de-vladimir-putin/) (Thu, 05 No) — Vadim Krasnoselsky
+- [[NewsMaker] Додон вслед за Костюком требует отозвать законопроект об осадном и военном положении: «Получил десятки сообщений от обеспокоенных людей»](https://newsmaker.md/ru/dodon-vsled-za-kostyukom-trebuet-otozvat-zakonoproekt-ob-osadnom-i-voennom-polojenii-poluchil-desyatki-zvonkov-i-soobshenii-ot-obespokoennyh-lyudei) (Thu, 05 No) — Igor Dodon
+- [[NewsMaker] «Он планирует жить в России»: Тофан объяснил решение запретить Красносельскому покидать Молдову на пять лет](https://newsmaker.md/ru/emu-nujen-komfort-ne-v-tiraspole-a-v-moskve-tofan-obyasnil-reshenie-zapretit-krasnoselskomu-pokidat-moldovu-na-pyat-let) (Thu, 05 No) — Vadim Krasnoselsky
+- [[Ziarul de Garda] Maia Sandu convoacă Consiliul Național de Securitate. Atacurile cibernetice, pe agendă](https://www.zdg.md/stiri/maia-sandu-convoaca-consiliul-national-de-securitate-atacurile-cibernetice-pe-agenda/) (Thu, 05 No) — Maia Sandu
 
 ## ⚠️ Erori la fetch
 
 - GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))
 
 ---
-_Generat automat de moldova-watch la 2026-11-04T14:46:20.886216+00:00._
+_Generat automat de moldova-watch la 2026-11-05T14:51:35.769211+00:00._
