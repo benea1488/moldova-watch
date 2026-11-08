@@ -1,28 +1,28 @@
 {
-  "generated": "2026-11-07T13:23:19.339780+00:00",
+  "generated": "2026-11-08T13:43:47.911758+00:00",
   "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Красносельский попал в ловушку, PAS сдает Кишинев, Костюк снимает для Путина? / «Разборка» с Екатериной Дубасовой",
-      "url": "https://newsmaker.md/ru/video-krasnoselskii-popal-v-lovushku-pas-sdaet-kishinev-kostyuk-snimaet-dlya-putina-razborka-s-ekaterinoi-dubasovoi",
-      "date": "Sat, 07 Nov 2026 08:00:00 +0000",
-      "summary": "Костюк нашел в Джурджулештах «украинское зерно», а Тофан – «российского шпиона» с депутатским мандатом. Путин наградил Красносельского орденом, а Кишинев – пятилетним запретом на выезд. Правда, сначала надо дождаться его возвращения. PAS обещала отвоевать Кишинев у Чебана, но рискует потерять полстр",
+      "title": "[NewsMaker] Молдова выразила соболезнования Польше. Новые подробности о нападавшем в Кракове: в его доме нашли тела еще трех человек (UPD)",
+      "url": "https://newsmaker.md/ru/moldova-vyrazila-soboleznovaniya-polshe-novye-podrobnosti-o-napadavshem-v-krakove-on-mog-ubit-svoyu-semyu",
+      "date": "Sun, 08 Nov 2026 08:25:43 +0000",
+      "summary": "Президент Майя Санду, премьер-министр Василий Тофан и министерство иностранных дел от лица всей Молдовы выразили соболезнования в связи с инцидентом со стрельбой в польском Кракове, во время которой погибли по меньшей мере 6 человек. ОБНОВЛЕНО 12:00 Среди пострадавших во время стрельбы в Кракове нет",
       "entities": [
-        "Vadim Krasnoselsky"
+        "Maia Sandu"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 7.9,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "6f97f978be0acf1e"
+      "uid": "ee791ed0c1b294a8"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      14
+      15
     ],
     [
       "Igor Dodon",
