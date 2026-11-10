@@ -1,22 +1,22 @@
 {
-  "generated": "2026-11-09T16:42:57.454246+00:00",
+  "generated": "2026-11-10T15:06:17.498461+00:00",
   "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Rețeaua Bpay, sub lacăt: Culisele deciziei BNM de a suspenda licența operatorului de plăți electronice",
-      "url": "https://www.rise.md/reteaua-bpay-sub-lacat-culisele-deciziei-bnm-de-a-suspenda-licenta-operatorului-de-plati-electronice/",
-      "date": "Mon, 09 Nov 2026 13:08:08 +0000",
-      "summary": "La finele săptămânii trecute, Banca Națională a Moldovei (BNM) a suspendat pentru șase luni licența companiei Bpay SRL, [&#8230;]\nThe post Rețeaua Bpay, sub lacăt: Culisele deciziei BNM de a suspenda licența operatorului de plăți electronice appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
+      "title": "[NewsMaker] Молдова намерена полностью присоединиться к санкциям ЕС против России и Беларуси. Додон: «Мудрая власть придерживалась бы нейтрального курса»",
+      "url": "https://newsmaker.md/ru/moldova-namerena-polnostyu-prisoedinitsya-k-sankcziyam-es-protiv-rossii-i-belarusi-dodon-mudraya-vlast-priderjivalas-by-neitralnogo-kursa",
+      "date": "Tue, 10 Nov 2026 13:59:37 +0000",
+      "summary": "Лидер Партии социалистов (ПСРМ) и депутат Игорь Додон раскритиковал намерение Молдовы полностью присоединиться к санкциям Евросоюза против России. Политик, выступающий за сближение с Москвой, обвинил правящую партию PAS в проведении «враждебной политики» по отношению к России и заявил, что сближение",
+      "entities": [
+        "Igor Dodon"
       ],
-      "score": 6.0,
+      "tags": [],
+      "score": 8.7,
       "meta": {
-        "outlet": "RISE Moldova"
+        "outlet": "NewsMaker"
       },
-      "uid": "b2f1fd7598809e45"
+      "uid": "bb89430375183060"
     }
   ],
   "momentum": [
@@ -26,7 +26,7 @@
     ],
     [
       "Igor Dodon",
-      10
+      11
     ],
     [
       "Vadim Krasnoselsky",
