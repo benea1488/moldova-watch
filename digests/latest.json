@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-10T15:06:17.498461+00:00",
-  "count": 1,
+  "generated": "2026-11-11T14:37:26.387518+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Молдова намерена полностью присоединиться к санкциям ЕС против России и Беларуси. Додон: «Мудрая власть придерживалась бы нейтрального курса»",
-      "url": "https://newsmaker.md/ru/moldova-namerena-polnostyu-prisoedinitsya-k-sankcziyam-es-protiv-rossii-i-belarusi-dodon-mudraya-vlast-priderjivalas-by-neitralnogo-kursa",
-      "date": "Tue, 10 Nov 2026 13:59:37 +0000",
-      "summary": "Лидер Партии социалистов (ПСРМ) и депутат Игорь Додон раскритиковал намерение Молдовы полностью присоединиться к санкциям Евросоюза против России. Политик, выступающий за сближение с Москвой, обвинил правящую партию PAS в проведении «враждебной политики» по отношению к России и заявил, что сближение",
+      "title": "[NewsMaker] Додон встретился с послом России: Депутаты ПСРМ снова едут в Москву",
+      "url": "https://newsmaker.md/ru/dodon-vstretilsya-s-poslom-rossii-deputaty-psrm-snova-edut-v-moskvu",
+      "date": "Wed, 11 Nov 2026 12:06:15 +0000",
+      "summary": "Несколько депутатов ПСРМ вновь отправятся в Москву по приглашению правящей партии России «Единая Россия», которую возглавляет бывший президент России Дмитрий Медведев, ныне занимающий пост заместителя председателя Совета безопасности РФ. Лидер социалистов Игорь Додон сообщил в соцсетях, что поездка ",
       "entities": [
         "Igor Dodon"
       ],
@@ -16,7 +16,23 @@
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "bb89430375183060"
+      "uid": "cad8ccaaece3cfe2"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Peste 19 milioane de lei restanță: Cum a ajuns sub sechestru gospodăria  deputatului Sergiu Stefanco",
+      "url": "https://www.rise.md/peste-19-milioane-de-lei-restanta-cum-a-ajuns-sub-sechestru-gospodaria-deputatului-sergiu-stefanco/",
+      "date": "Wed, 11 Nov 2026 13:15:10 +0000",
+      "summary": "Gospodăria țărănească a deputatului Partidului „Democrația Acasă”, Sergiu Stefanco s-a ales cu bunurile și conturile blocate. Sechestrul preventiv [&#8230;]\nThe post Peste 19 milioane de lei restanță: Cum a ajuns sub sechestru gospodăria  deputatului Sergiu Stefanco appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "7be3d3f23f611dde"
     }
   ],
   "momentum": [
@@ -26,7 +42,7 @@
     ],
     [
       "Igor Dodon",
-      11
+      12
     ],
     [
       "Vadim Krasnoselsky",
