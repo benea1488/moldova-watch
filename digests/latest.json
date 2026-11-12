@@ -1,29 +1,29 @@
 {
-  "generated": "2026-11-11T14:37:26.387518+00:00",
+  "generated": "2026-11-12T15:30:40.441679+00:00",
   "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Додон встретился с послом России: Депутаты ПСРМ снова едут в Москву",
-      "url": "https://newsmaker.md/ru/dodon-vstretilsya-s-poslom-rossii-deputaty-psrm-snova-edut-v-moskvu",
-      "date": "Wed, 11 Nov 2026 12:06:15 +0000",
-      "summary": "Несколько депутатов ПСРМ вновь отправятся в Москву по приглашению правящей партии России «Единая Россия», которую возглавляет бывший президент России Дмитрий Медведев, ныне занимающий пост заместителя председателя Совета безопасности РФ. Лидер социалистов Игорь Додон сообщил в соцсетях, что поездка ",
+      "title": "[NewsMaker] (ВИДЕО) TEMU включил налог для Молдовы/ Гагауз догоняет Стояногло/Провокация против Озерова?",
+      "url": "https://newsmaker.md/ru/video-temu-vklyuchil-nalog-dlya-moldovy-gagauz-dogonyaet-stoyanogloprovokacziya-protiv-ozerova",
+      "date": "Thu, 12 Nov 2026 14:34:59 +0000",
+      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Опрос: Стояногло лидирует, но Гагауз сокращает отрыв— Осмокеску: производители сахарной свеклы не получат помощь от государства— Обломки БПЛА обнаружили в винограднике в районе Штефан-Водэ— Посольство РФ опровергло сообщения о в",
       "entities": [
-        "Igor Dodon"
+        "Alexandr Stoianoglo"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 7.9,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "cad8ccaaece3cfe2"
+      "uid": "5411eb1aa968c69c"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Peste 19 milioane de lei restanță: Cum a ajuns sub sechestru gospodăria  deputatului Sergiu Stefanco",
-      "url": "https://www.rise.md/peste-19-milioane-de-lei-restanta-cum-a-ajuns-sub-sechestru-gospodaria-deputatului-sergiu-stefanco/",
-      "date": "Wed, 11 Nov 2026 13:15:10 +0000",
-      "summary": "Gospodăria țărănească a deputatului Partidului „Democrația Acasă”, Sergiu Stefanco s-a ales cu bunurile și conturile blocate. Sechestrul preventiv [&#8230;]\nThe post Peste 19 milioane de lei restanță: Cum a ajuns sub sechestru gospodăria  deputatului Sergiu Stefanco appeared first on Rise Moldova.",
+      "title": "[RISE Moldova] Dosarul Caritate: Curtea de Apel Centru a respins cererea fundației împotriva RISE",
+      "url": "https://www.rise.md/dosarul-caritate-curtea-de-apel-centru-a-respins-cererea-fundatiei-impotriva-rise/",
+      "date": "Wed, 11 Nov 2026 16:44:05 +0000",
+      "summary": "Curtea de Apel Centru a respins cererile depuse de Svetlana Sainsus, Sergiu Diaconu și Fundația „Caritate MD”. Decizia survine [&#8230;]\nThe post Dosarul Caritate: Curtea de Apel Centru a respins cererea fundației împotriva RISE appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -32,7 +32,7 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "7be3d3f23f611dde"
+      "uid": "688e94478a726fad"
     }
   ],
   "momentum": [
@@ -53,5 +53,7 @@
       3
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
