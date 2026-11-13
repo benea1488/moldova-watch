@@ -527,17 +527,12 @@
 "7be3d3f23f611dde": "2026-11-11",
 "cad8ccaaece3cfe2": "2026-11-11",
 "688e94478a726fad": "2026-11-12",
-"5411eb1aa968c69c": "2026-11-12"
+"5411eb1aa968c69c": "2026-11-12",
+"aed02c4b0067320b": "2026-11-13",
+"e9c6beaeca26f4d6": "2026-11-13",
+"6880a9165b301b0f": "2026-11-13"
 },
 "entity_log": [
-[
-"2026-10-14",
-"Maia Sandu"
-],
-[
-"2026-10-14",
-"Maia Sandu"
-],
 [
 "2026-10-15",
 "Vladimir Voronin"
@@ -793,6 +788,14 @@
 [
 "2026-11-12",
 "Alexandr Stoianoglo"
+],
+[
+"2026-11-13",
+"Energie / Gazprom / Moldovagaz"
+],
+[
+"2026-11-13",
+"Vadim Krasnoselsky"
 ]
 ]
 }

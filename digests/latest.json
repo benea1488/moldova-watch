@@ -1,29 +1,45 @@
 {
-  "generated": "2026-11-12T15:30:40.441679+00:00",
-  "count": 2,
+  "generated": "2026-11-13T14:47:13.643873+00:00",
+  "count": 3,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) TEMU включил налог для Молдовы/ Гагауз догоняет Стояногло/Провокация против Озерова?",
-      "url": "https://newsmaker.md/ru/video-temu-vklyuchil-nalog-dlya-moldovy-gagauz-dogonyaet-stoyanogloprovokacziya-protiv-ozerova",
-      "date": "Thu, 12 Nov 2026 14:34:59 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Опрос: Стояногло лидирует, но Гагауз сокращает отрыв— Осмокеску: производители сахарной свеклы не получат помощь от государства— Обломки БПЛА обнаружили в винограднике в районе Штефан-Водэ— Посольство РФ опровергло сообщения о в",
+      "title": "[NewsMaker] Promo-LEX призвала власти ввести персональные санкции против Красносельского и еще 16 представителей Тирасполя",
+      "url": "https://newsmaker.md/ru/promo-lex-prizvala-vlasti-vvesti-personalnye-sankczii-protiv-krasnoselskogo-i-eshe-16-predstavitelei-tiraspolya",
+      "date": "Fri, 13 Nov 2026 10:59:34 +0000",
+      "summary": "Правозащитная организация Promo-LEX призвала правительство Молдовы применить индивидуальные санкции против представителей структур Тирасполя, ответственных за пытки и произвольные задержания. В организации считают, что первый санкционный список должен возглавить Вадим Красносельский. Правозащитники ",
       "entities": [
-        "Alexandr Stoianoglo"
+        "Vadim Krasnoselsky"
       ],
       "tags": [],
-      "score": 7.9,
+      "score": 8.7,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "5411eb1aa968c69c"
+      "uid": "6880a9165b301b0f"
     },
     {
       "source": "MD Press",
-      "title": "[RISE Moldova] Dosarul Caritate: Curtea de Apel Centru a respins cererea fundației împotriva RISE",
-      "url": "https://www.rise.md/dosarul-caritate-curtea-de-apel-centru-a-respins-cererea-fundatiei-impotriva-rise/",
-      "date": "Wed, 11 Nov 2026 16:44:05 +0000",
-      "summary": "Curtea de Apel Centru a respins cererile depuse de Svetlana Sainsus, Sergiu Diaconu și Fundația „Caritate MD”. Decizia survine [&#8230;]\nThe post Dosarul Caritate: Curtea de Apel Centru a respins cererea fundației împotriva RISE appeared first on Rise Moldova.",
+      "title": "[NewsMaker] Власти рассматривают вариант внешнего управления Moldovagaz",
+      "url": "https://newsmaker.md/ru/vlasti-rassmatrivayut-variant-vneshnego-upravleniya-moldovagaz",
+      "date": "Fri, 13 Nov 2026 11:46:10 +0000",
+      "summary": "Министр энергетики Дорин Жунгиету заявил, что если реорганизация 12 распределительных компаний, подчиненных Moldovagaz, не состоится, правительство рассмотрит несколько вариантов, включая временное внешнее управление компанией. Об этом Жунгиету сказал TV8 12 ноября. Отметим, что в июле министр предл",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "e9c6beaeca26f4d6"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] Planul lui Gagauz: Instruire „electorală” la Moscova, pentru tineri din Moldova",
+      "url": "https://www.rise.md/articol/planul-lui-gagauz-instruire-electorala-la-moscova-pentru-tineri-din-moldova/",
+      "date": "Fri, 13 Nov 2026 07:40:00 +0000",
+      "summary": "Instruirea a patru persoane din Republica Moldova în inginerii electorale și consultanță politică. Asta cerea Fiodor Gagauz de [&#8230;]\nThe post Planul lui Gagauz: Instruire „electorală” la Moscova, pentru tineri din Moldova appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -32,13 +48,13 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "688e94478a726fad"
+      "uid": "aed02c4b0067320b"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      14
+      13
     ],
     [
       "Igor Dodon",
@@ -46,14 +62,8 @@
     ],
     [
       "Vadim Krasnoselsky",
-      4
-    ],
-    [
-      "Energie / Gazprom / Moldovagaz",
-      3
+      5
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }

@@ -1,33 +1,33 @@
-# Moldova Watch — 2026-11-12
+# Moldova Watch — 2026-11-13
 
-*2 semnale noi din 1 surse.*
+*3 semnale noi din 1 surse.*
 
 ## 📈 Momentum (ultimele 14 zile)
 
-- **Maia Sandu** — 14 aparitii
+- **Maia Sandu** — 13 aparitii
 - **Igor Dodon** — 12 aparitii
-- **Vadim Krasnoselsky** — 4 aparitii
-- **Energie / Gazprom / Moldovagaz** — 3 aparitii
+- **Vadim Krasnoselsky** — 5 aparitii
 
 ## ⭐ Priority
 
-- [[NewsMaker] (ВИДЕО) TEMU включил налог для Молдовы/ Гагауз догоняет Стояногло/Провокация против Озерова?](https://newsmaker.md/ru/video-temu-vklyuchil-nalog-dlya-moldovy-gagauz-dogonyaet-stoyanogloprovokacziya-protiv-ozerova) (Thu, 12 No) — Alexandr Stoianoglo **[7.9]**
-- [[RISE Moldova] Dosarul Caritate: Curtea de Apel Centru a respins cererea fundației împotriva RISE](https://www.rise.md/dosarul-caritate-curtea-de-apel-centru-a-respins-cererea-fundatiei-impotriva-rise/) (Wed, 11 No) `leak` **[6.0]**
+- [[NewsMaker] Promo-LEX призвала власти ввести персональные санкции против Красносельского и еще 16 представителей Тирасполя](https://newsmaker.md/ru/promo-lex-prizvala-vlasti-vvesti-personalnye-sankczii-protiv-krasnoselskogo-i-eshe-16-predstavitelei-tiraspolya) (Fri, 13 No) — Vadim Krasnoselsky **[8.7]**
+- [[NewsMaker] Власти рассматривают вариант внешнего управления Moldovagaz](https://newsmaker.md/ru/vlasti-rassmatrivayut-variant-vneshnego-upravleniya-moldovagaz) (Fri, 13 No) — Energie / Gazprom / Moldovagaz **[6.1]**
+- [[RISE Moldova] Planul lui Gagauz: Instruire „electorală” la Moscova, pentru tineri din Moldova](https://www.rise.md/articol/planul-lui-gagauz-instruire-electorala-la-moscova-pentru-tineri-din-moldova/) (Fri, 13 No) `leak` **[6.0]**
 
 ## 👤 Pe entitate
 
-### Alexandr Stoianoglo (1)
-- [[NewsMaker] (ВИДЕО) TEMU включил налог для Молдовы/ Гагауз догоняет Стояногло/Провокация против Озерова?](https://newsmaker.md/ru/video-temu-vklyuchil-nalog-dlya-moldovy-gagauz-dogonyaet-stoyanogloprovokacziya-protiv-ozerova) (Thu, 12 No) — Alexandr Stoianoglo
+### Energie / Gazprom / Moldovagaz (1)
+- [[NewsMaker] Власти рассматривают вариант внешнего управления Moldovagaz](https://newsmaker.md/ru/vlasti-rassmatrivayut-variant-vneshnego-upravleniya-moldovagaz) (Fri, 13 No) — Energie / Gazprom / Moldovagaz
+
+### Vadim Krasnoselsky (1)
+- [[NewsMaker] Promo-LEX призвала власти ввести персональные санкции против Красносельского и еще 16 представителей Тирасполя](https://newsmaker.md/ru/promo-lex-prizvala-vlasti-vvesti-personalnye-sankczii-protiv-krasnoselskogo-i-eshe-16-predstavitelei-tiraspolya) (Fri, 13 No) — Vadim Krasnoselsky
 
 ## 🗂️ Toate, pe sursa
 
-### MD Press (2)
-- [[NewsMaker] (ВИДЕО) TEMU включил налог для Молдовы/ Гагауз догоняет Стояногло/Провокация против Озерова?](https://newsmaker.md/ru/video-temu-vklyuchil-nalog-dlya-moldovy-gagauz-dogonyaet-stoyanogloprovokacziya-protiv-ozerova) (Thu, 12 No) — Alexandr Stoianoglo
-- [[RISE Moldova] Dosarul Caritate: Curtea de Apel Centru a respins cererea fundației împotriva RISE](https://www.rise.md/dosarul-caritate-curtea-de-apel-centru-a-respins-cererea-fundatiei-impotriva-rise/) (Wed, 11 No) `leak`
-
-## ⚠️ Erori la fetch
-
-- GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))
+### MD Press (3)
+- [[NewsMaker] Promo-LEX призвала власти ввести персональные санкции против Красносельского и еще 16 представителей Тирасполя](https://newsmaker.md/ru/promo-lex-prizvala-vlasti-vvesti-personalnye-sankczii-protiv-krasnoselskogo-i-eshe-16-predstavitelei-tiraspolya) (Fri, 13 No) — Vadim Krasnoselsky
+- [[NewsMaker] Власти рассматривают вариант внешнего управления Moldovagaz](https://newsmaker.md/ru/vlasti-rassmatrivayut-variant-vneshnego-upravleniya-moldovagaz) (Fri, 13 No) — Energie / Gazprom / Moldovagaz
+- [[RISE Moldova] Planul lui Gagauz: Instruire „electorală” la Moscova, pentru tineri din Moldova](https://www.rise.md/articol/planul-lui-gagauz-instruire-electorala-la-moscova-pentru-tineri-din-moldova/) (Fri, 13 No) `leak`
 
 ---
-_Generat automat de moldova-watch la 2026-11-12T15:30:40.441279+00:00._
+_Generat automat de moldova-watch la 2026-11-13T14:47:13.643320+00:00._
