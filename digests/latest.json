@@ -1,45 +1,30 @@
 {
-  "generated": "2026-11-13T14:47:13.643873+00:00",
-  "count": 3,
+  "generated": "2026-11-14T13:43:57.107465+00:00",
+  "count": 2,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Promo-LEX призвала власти ввести персональные санкции против Красносельского и еще 16 представителей Тирасполя",
-      "url": "https://newsmaker.md/ru/promo-lex-prizvala-vlasti-vvesti-personalnye-sankczii-protiv-krasnoselskogo-i-eshe-16-predstavitelei-tiraspolya",
-      "date": "Fri, 13 Nov 2026 10:59:34 +0000",
-      "summary": "Правозащитная организация Promo-LEX призвала правительство Молдовы применить индивидуальные санкции против представителей структур Тирасполя, ответственных за пытки и произвольные задержания. В организации считают, что первый санкционный список должен возглавить Вадим Красносельский. Правозащитники ",
+      "title": "[NewsMaker] (ВИДЕО) Гагаузия выбирает, Додон возвращается, PAS обещает жить вечно, Марта Кос творит чудеса / «Разборка»",
+      "url": "https://newsmaker.md/ru/video-gagauziya-vybiraet-dodon-vozvrashaetsya-pas-obeshaet-jit-vechno-marta-kos-tvorit-chudesa-razborka",
+      "date": "Sat, 14 Nov 2026 08:38:28 +0000",
+      "summary": "Гагаузия готовится выбрать нового башкана, но кандидаты продолжают пиариться на Евгении Гуцул. Молдове уже подбирают нового президента, и в лидерах – опять Додон. PAS тем временем замахнулась на 100 лет жизни, но пока не может выбрать даже кандидата в мэры Кишинева. Социалисты придумали, как удешеви",
       "entities": [
-        "Vadim Krasnoselsky"
+        "Igor Dodon",
+        "Evghenia Gutul"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 11.9,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "6880a9165b301b0f"
+      "uid": "09d0e5a0cb38b082"
     },
     {
       "source": "MD Press",
-      "title": "[NewsMaker] Власти рассматривают вариант внешнего управления Moldovagaz",
-      "url": "https://newsmaker.md/ru/vlasti-rassmatrivayut-variant-vneshnego-upravleniya-moldovagaz",
-      "date": "Fri, 13 Nov 2026 11:46:10 +0000",
-      "summary": "Министр энергетики Дорин Жунгиету заявил, что если реорганизация 12 распределительных компаний, подчиненных Moldovagaz, не состоится, правительство рассмотрит несколько вариантов, включая временное внешнее управление компанией. Об этом Жунгиету сказал TV8 12 ноября. Отметим, что в июле министр предл",
-      "entities": [
-        "Energie / Gazprom / Moldovagaz"
-      ],
-      "tags": [],
-      "score": 6.1,
-      "meta": {
-        "outlet": "NewsMaker"
-      },
-      "uid": "e9c6beaeca26f4d6"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Planul lui Gagauz: Instruire „electorală” la Moscova, pentru tineri din Moldova",
-      "url": "https://www.rise.md/articol/planul-lui-gagauz-instruire-electorala-la-moscova-pentru-tineri-din-moldova/",
-      "date": "Fri, 13 Nov 2026 07:40:00 +0000",
-      "summary": "Instruirea a patru persoane din Republica Moldova în inginerii electorale și consultanță politică. Asta cerea Fiodor Gagauz de [&#8230;]\nThe post Planul lui Gagauz: Instruire „electorală” la Moscova, pentru tineri din Moldova appeared first on Rise Moldova.",
+      "title": "[RISE Moldova] Fugarul moldovean de lângă ambasadorul rus",
+      "url": "https://www.rise.md/articol/fugarul-moldovean-de-langa-ambasadorul-rus/",
+      "date": "Fri, 13 Nov 2026 17:18:34 +0000",
+      "summary": "Căutat prin rețeaua Interpol de 14 ani, un afacerist moldovean a început să vâneze companii strategice în România.&#160; [&#8230;]\nThe post Fugarul moldovean de lângă ambasadorul rus appeared first on Rise Moldova.",
       "entities": [],
       "tags": [
         "leak"
@@ -48,22 +33,24 @@
       "meta": {
         "outlet": "RISE Moldova"
       },
-      "uid": "aed02c4b0067320b"
+      "uid": "ea29d6f88db09b4e"
     }
   ],
   "momentum": [
     [
       "Maia Sandu",
-      13
+      11
     ],
     [
       "Igor Dodon",
-      12
+      11
     ],
     [
       "Vadim Krasnoselsky",
       5
     ]
   ],
-  "errors": []
+  "errors": [
+    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
+  ]
 }
