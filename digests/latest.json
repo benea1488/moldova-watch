@@ -1,19 +1,142 @@
 {
-  "generated": "2026-11-15T14:11:24.838897+00:00",
-  "count": 0,
-  "items": [],
+  "generated": "2026-11-16T16:12:54.176002+00:00",
+  "count": 7,
+  "items": [
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Стояногло выиграл, но может проиграть? Кто возьмет Гагаузию, и при чем тут Шор",
+      "url": "https://newsmaker.md/ru/mejdu-stoyanoglo-i-gagauzom-kto-stanet-novym-bashkanom-gagauzii",
+      "date": "Mon, 16 Nov 2026 12:46:52 +0000",
+      "summary": "В Гагаузии 15 ноября прошли выборы башкана и депутатов Народного собрания (НСГ). Впереди — второй тур, в котором встретятся независимый кандидат Александр Стояногло и кандидат, поддержанный социалистами, Федор Гагауз. NM разбирался, кто может стать следующим башканом автономии, почему третье место н",
+      "entities": [
+        "Ilan Shor",
+        "Alexandr Stoianoglo"
+      ],
+      "tags": [],
+      "score": 11.9,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "1cb833f68d01ae20"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] (ВИДЕО) Красносельский тосковал по Приднестровью?/ Стояногло рассчитывал победить?/ Кого поддерживает PAS?",
+      "url": "https://newsmaker.md/ru/video-krasnoselskii-toskoval-po-pridnestrovyu-stoyanoglo-rasschityval-pobedit-kogo-podderjivaet-pas",
+      "date": "Mon, 16 Nov 2026 13:51:20 +0000",
+      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска: — Стояногло и Гагауз вышли во второй тур выборов башкана Гагаузии— 13 депутатов Народного собрания Гагаузии избраны в первом туре— Гросу о Красносельском: соскучился по левому берегу Днестра— В Приднестровье предлагают оплачивать",
+      "entities": [
+        "Alexandr Stoianoglo",
+        "Vadim Krasnoselsky"
+      ],
+      "tags": [],
+      "score": 11.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "0af9a1665e95b212"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] «В Москве мне дали четкий посыл». Красносельский о поставках газа в Приднестровье",
+      "url": "https://newsmaker.md/ru/v-moskve-mne-dali-chetkii-posyl-krasnoselskii-o-postavkah-gaza-v-pridnestrove",
+      "date": "Mon, 16 Nov 2026 15:09:24 +0000",
+      "summary": "«Россия не оставит Приднестровье и будет оказывать всяческую поддержку поставкам газа электроэнергии». Об этом 16 ноября сообщил вернувшийся из Москвы приднестровский лидер Вадим Красносельский на заседание местной власти. Он подчеркнул, что в Москве заверили его в этом. «В&#160;Москве мне дали четк",
+      "entities": [
+        "Vadim Krasnoselsky"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "dd9a35ee0fb31dc1"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Участие Цырди во встрече секретарей совбезов СНГ вместе с Шойгу. Как это объяснил Додон",
+      "url": "https://newsmaker.md/ru/uchastie-czyrdi-v-moskve-vo-vstreche-sekretarei-sovbezov-sng-vmeste-s-shoigu-kak-eto-obyasnil-dodon",
+      "date": "Mon, 16 Nov 2026 12:01:00 +0000",
+      "summary": "Депутат ПСРМ Богдан Цырдя принял участие в совещании секретарей советов безопасности стран СНГ, которое состоялось в Москве под председательством Сергея Шойгу. Заместитель председателя парламента Дойна Герман потребовала от компетентных органов проверить, кто направил Цырдю на совещание и в каком ка",
+      "entities": [
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "f21ae9a07259da6e"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] ПСРМ подписала проект вотума недоверия правительству Тофана. «Рассчитываем на другие фракции от оппозиции»",
+      "url": "https://newsmaker.md/ru/psrm-podpisala-proekt-votuma-nedoveriya-pravitelstvu-tofana-rasschityvaem-na-drugie-frakczii-ot-oppoziczii",
+      "date": "Mon, 16 Nov 2026 10:28:39 +0000",
+      "summary": "Депутаты от Партии социалистов подготовили проект вотума недоверия правительству Василия Тофана. Об этом 16 ноября сообщил лидер ПСРМ Игорь Додон, отметив, что 17 депутатов партии подписали документ, и социалисты надеются на поддержку депутатов от оппозиции. «Рассчитываем на&#160;поддержку коллег из",
+      "entities": [
+        "Igor Dodon"
+      ],
+      "tags": [],
+      "score": 8.7,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "9dfb4e75c83a1b28"
+    },
+    {
+      "source": "MD Press",
+      "title": "[NewsMaker] Energocom и Moldtelecom хотят занять деньги у населения. Как будут работать корпоративные облигации?",
+      "url": "https://newsmaker.md/ru/energocom-i-moldtelecom-hotyat-zanyat-dengi-u-naseleniya-kak-budut-rabotat-korporativnye-obligaczii",
+      "date": "Mon, 16 Nov 2026 14:11:06 +0000",
+      "summary": "Два госпредприятия — Energocom и Moldtelecom — планируют выпустить корпоративные облигации для финансирования инвестпроектов, связанных с закупкой аккумуляторов. NM рассказывает, что известно о проекте. В Кишиневе 16 ноября госкомпании Energocom и Moldtelecom, банки maib и Victoriabank, а также анал",
+      "entities": [
+        "Energie / Gazprom / Moldovagaz"
+      ],
+      "tags": [],
+      "score": 6.1,
+      "meta": {
+        "outlet": "NewsMaker"
+      },
+      "uid": "51171429a269e712"
+    },
+    {
+      "source": "MD Press",
+      "title": "[RISE Moldova] O factură „umflată” de 40 de ori, pentru un contract de aproape 100 de milioane la Ministerul Apărării",
+      "url": "https://www.rise.md/o-factura-umflata-de-40-de-ori-pentru-un-contract-de-aproape-100-de-milioane-la-ministerul-apararii/",
+      "date": "Mon, 16 Nov 2026 07:57:53 +0000",
+      "summary": "O companie de construcții a folosit o factură „trucată” pentru a câștiga o licitație de 100 de milioane [&#8230;]\nThe post O factură „umflată” de 40 de ori, pentru un contract de aproape 100 de milioane la Ministerul Apărării  appeared first on Rise Moldova.",
+      "entities": [],
+      "tags": [
+        "leak"
+      ],
+      "score": 6.0,
+      "meta": {
+        "outlet": "RISE Moldova"
+      },
+      "uid": "60017d08a840fd09"
+    }
+  ],
   "momentum": [
     [
-      "Maia Sandu",
-      11
+      "Igor Dodon",
+      13
     ],
     [
-      "Igor Dodon",
-      11
+      "Maia Sandu",
+      10
     ],
     [
       "Vadim Krasnoselsky",
-      5
+      7
+    ],
+    [
+      "Alexandr Stoianoglo",
+      4
+    ],
+    [
+      "Energie / Gazprom / Moldovagaz",
+      3
     ]
   ],
   "errors": [
