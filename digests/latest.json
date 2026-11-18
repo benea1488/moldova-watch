@@ -1,48 +1,32 @@
 {
-  "generated": "2026-11-17T16:19:32.497504+00:00",
-  "count": 2,
+  "generated": "2026-11-18T15:53:47.054883+00:00",
+  "count": 1,
   "items": [
     {
       "source": "MD Press",
-      "title": "[NewsMaker] (ВИДЕО) Молдова оторвется от Украины за год?/ «Шериф» раздает деньги/ Госпредприятия теряют миллиарды",
-      "url": "https://newsmaker.md/ru/video-moldova-otorvetsya-ot-ukrainy-za-god-sherif-razdaet-dengi-gospredpriyatiya-teryayut-milliardy",
-      "date": "Tue, 17 Nov 2026 13:37:25 +0000",
-      "summary": "Главные новости Молдовы и мира в новом выпуске NewsMaker!Темы выпуска:— Виталий Нягу – первый зарегистрированный кандидат на «выборах» в Приднестровье— Какие нарушения выявило ANSA на ферме, где лошадь ела навоз?— Молдова полностью обеспечила запасы газа на зиму 2026–2027 годов— По 200 рублей пенсио",
+      "title": "[NewsMaker] «Я не прошу привилегий». Плахотнюк из тюрьмы прокомментировал решение суда ЕС о санкциях против него",
+      "url": "https://newsmaker.md/ru/ya-ne-proshu-privilegii-plahotnyuk-iz-tyurmy-prokommentiroval-reshenie-suda-es-o-sankcziyah-protiv-nego",
+      "date": "Wed, 18 Nov 2026 13:50:29 +0000",
+      "summary": "Бывший лидер Демпартии Владимир Плахотнюк, приговоренный к 19 годам лишения свободы по делу о банковском мошенничестве, прокомментировал решение суда Евросоюза оставить в силе отмену санкций, введенных против него Советом ЕС. По мнению Плахотнюка, это решение показывает, что обвинения необходимо про",
       "entities": [
-        "Sheriff (Tiraspol)"
+        "Vladimir Plahotniuc"
       ],
       "tags": [],
-      "score": 8.7,
+      "score": 9.5,
       "meta": {
         "outlet": "NewsMaker"
       },
-      "uid": "5f405e8a4d09fd4c"
-    },
-    {
-      "source": "MD Press",
-      "title": "[RISE Moldova] Cazul Berari: cum a fost investigată administrația spitalului",
-      "url": "https://www.rise.md/articol/cazul-berari-cum-a-fost-investigata-administratia-spitalului/",
-      "date": "Tue, 17 Nov 2026 08:04:22 +0000",
-      "summary": "În noaptea nașterii, 25 iulie 2012, Diana Berari a ajuns la Spitalul Internațional Medpark cu contracții din cinci [&#8230;]\nThe post Cazul Berari: cum a fost investigată administrația spitalului appeared first on Rise Moldova.",
-      "entities": [],
-      "tags": [
-        "leak"
-      ],
-      "score": 6.0,
-      "meta": {
-        "outlet": "RISE Moldova"
-      },
-      "uid": "e6f8a7d7ba38a319"
+      "uid": "6a49dbf2dc295b7c"
     }
   ],
   "momentum": [
     [
       "Igor Dodon",
-      10
+      8
     ],
     [
       "Maia Sandu",
-      9
+      7
     ],
     [
       "Vadim Krasnoselsky",
@@ -50,10 +34,8 @@
     ],
     [
       "Alexandr Stoianoglo",
-      4
+      3
     ]
   ],
-  "errors": [
-    "GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))"
-  ]
+  "errors": []
 }
