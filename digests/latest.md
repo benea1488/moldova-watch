@@ -1,27 +1,27 @@
-# Moldova Watch — 2026-11-18
+# Moldova Watch — 2026-11-19
 
 *1 semnale noi din 1 surse.*
 
 ## 📈 Momentum (ultimele 14 zile)
 
-- **Igor Dodon** — 8 aparitii
-- **Maia Sandu** — 7 aparitii
-- **Vadim Krasnoselsky** — 7 aparitii
+- **Igor Dodon** — 7 aparitii
+- **Maia Sandu** — 5 aparitii
+- **Vadim Krasnoselsky** — 5 aparitii
 - **Alexandr Stoianoglo** — 3 aparitii
 
 ## ⭐ Priority
 
-- [[NewsMaker] «Я не прошу привилегий». Плахотнюк из тюрьмы прокомментировал решение суда ЕС о санкциях против него](https://newsmaker.md/ru/ya-ne-proshu-privilegii-plahotnyuk-iz-tyurmy-prokommentiroval-reshenie-suda-es-o-sankcziyah-protiv-nego) (Wed, 18 No) — Vladimir Plahotniuc **[9.5]**
+- [[NewsMaker] (ВИДЕО) Залечь на дно в Тирасполе. Чем теперь займется Красносельский? #NM_explains it all](https://newsmaker.md/ru/video-zalech-na-dno-v-tiraspole-chem-teper-zaimetsya-krasnoselskii-nm_explains-it-all) (Thu, 19 No) — Vadim Krasnoselsky **[8.7]**
 
 ## 👤 Pe entitate
 
-### Vladimir Plahotniuc (1)
-- [[NewsMaker] «Я не прошу привилегий». Плахотнюк из тюрьмы прокомментировал решение суда ЕС о санкциях против него](https://newsmaker.md/ru/ya-ne-proshu-privilegii-plahotnyuk-iz-tyurmy-prokommentiroval-reshenie-suda-es-o-sankcziyah-protiv-nego) (Wed, 18 No) — Vladimir Plahotniuc
+### Vadim Krasnoselsky (1)
+- [[NewsMaker] (ВИДЕО) Залечь на дно в Тирасполе. Чем теперь займется Красносельский? #NM_explains it all](https://newsmaker.md/ru/video-zalech-na-dno-v-tiraspole-chem-teper-zaimetsya-krasnoselskii-nm_explains-it-all) (Thu, 19 No) — Vadim Krasnoselsky
 
 ## 🗂️ Toate, pe sursa
 
 ### MD Press (1)
-- [[NewsMaker] «Я не прошу привилегий». Плахотнюк из тюрьмы прокомментировал решение суда ЕС о санкциях против него](https://newsmaker.md/ru/ya-ne-proshu-privilegii-plahotnyuk-iz-tyurmy-prokommentiroval-reshenie-suda-es-o-sankcziyah-protiv-nego) (Wed, 18 No) — Vladimir Plahotniuc
+- [[NewsMaker] (ВИДЕО) Залечь на дно в Тирасполе. Чем теперь займется Красносельский? #NM_explains it all](https://newsmaker.md/ru/video-zalech-na-dno-v-tiraspole-chem-teper-zaimetsya-krasnoselskii-nm_explains-it-all) (Thu, 19 No) — Vadim Krasnoselsky
 
 ---
-_Generat automat de moldova-watch la 2026-11-18T15:53:47.054464+00:00._
+_Generat automat de moldova-watch la 2026-11-19T15:57:54.574255+00:00._
