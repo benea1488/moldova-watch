@@ -1,4 +1,4 @@
-# Moldova Watch — 2026-11-20
+# Moldova Watch — 2026-11-21
 
 *1 semnale noi din 1 surse.*
 
@@ -6,25 +6,27 @@
 
 - **Vadim Krasnoselsky** — 6 aparitii
 - **Igor Dodon** — 5 aparitii
-- **Alexandr Stoianoglo** — 3 aparitii
+- **Alexandr Stoianoglo** — 4 aparitii
 
 ## ⭐ Priority
 
-- [[NewsMaker] Красносельский поздравил патриарха Кирилла с днем рождения: «Все свои силы вы отдаете просвещению народа России»](https://newsmaker.md/ru/krasnoselskii-pozdravil-patriarha-kirilla-s-80-letiem-vse-svoi-sily-vy-otdaete-prosvesheniyu-naroda-rossii) (Fri, 20 No) — Vadim Krasnoselsky **[8.7]**
+- [[Ziarul de Garda] VIDEO/ Dronă deasupra Chișinăului | Cutremur de 5,7 grade | Întoarcerea lui Krasnoselski de la Moscova | Stoianoglo și Gagauz, duel în turul doi al alegerilor din Autonomia Găgăuză | Bunuri imobile ale lui Șor, scoase la licitație | SĂPTĂMÂNA DE GARDĂ](https://www.zdg.md/video/video-drone-peste-r-moldova-detalii-despre-cel-mai-mare-cutremur-din-ultimii-ani-intoarcerea-lui-vadim-krasnoselski-de-la-moscova-stoianoglo-si-gagauz-duel-in-turul-doi-al-alegerilor-din/) (Sat, 21 No) — Ilan Shor, Alexandr Stoianoglo, Vadim Krasnoselsky **[15.1]**
 
 ## 👤 Pe entitate
 
+### Ilan Shor (1)
+- [[Ziarul de Garda] VIDEO/ Dronă deasupra Chișinăului | Cutremur de 5,7 grade | Întoarcerea lui Krasnoselski de la Moscova | Stoianoglo și Gagauz, duel în turul doi al alegerilor din Autonomia Găgăuză | Bunuri imobile ale lui Șor, scoase la licitație | SĂPTĂMÂNA DE GARDĂ](https://www.zdg.md/video/video-drone-peste-r-moldova-detalii-despre-cel-mai-mare-cutremur-din-ultimii-ani-intoarcerea-lui-vadim-krasnoselski-de-la-moscova-stoianoglo-si-gagauz-duel-in-turul-doi-al-alegerilor-din/) (Sat, 21 No) — Ilan Shor, Alexandr Stoianoglo, Vadim Krasnoselsky
+
+### Alexandr Stoianoglo (1)
+- [[Ziarul de Garda] VIDEO/ Dronă deasupra Chișinăului | Cutremur de 5,7 grade | Întoarcerea lui Krasnoselski de la Moscova | Stoianoglo și Gagauz, duel în turul doi al alegerilor din Autonomia Găgăuză | Bunuri imobile ale lui Șor, scoase la licitație | SĂPTĂMÂNA DE GARDĂ](https://www.zdg.md/video/video-drone-peste-r-moldova-detalii-despre-cel-mai-mare-cutremur-din-ultimii-ani-intoarcerea-lui-vadim-krasnoselski-de-la-moscova-stoianoglo-si-gagauz-duel-in-turul-doi-al-alegerilor-din/) (Sat, 21 No) — Ilan Shor, Alexandr Stoianoglo, Vadim Krasnoselsky
+
 ### Vadim Krasnoselsky (1)
-- [[NewsMaker] Красносельский поздравил патриарха Кирилла с днем рождения: «Все свои силы вы отдаете просвещению народа России»](https://newsmaker.md/ru/krasnoselskii-pozdravil-patriarha-kirilla-s-80-letiem-vse-svoi-sily-vy-otdaete-prosvesheniyu-naroda-rossii) (Fri, 20 No) — Vadim Krasnoselsky
+- [[Ziarul de Garda] VIDEO/ Dronă deasupra Chișinăului | Cutremur de 5,7 grade | Întoarcerea lui Krasnoselski de la Moscova | Stoianoglo și Gagauz, duel în turul doi al alegerilor din Autonomia Găgăuză | Bunuri imobile ale lui Șor, scoase la licitație | SĂPTĂMÂNA DE GARDĂ](https://www.zdg.md/video/video-drone-peste-r-moldova-detalii-despre-cel-mai-mare-cutremur-din-ultimii-ani-intoarcerea-lui-vadim-krasnoselski-de-la-moscova-stoianoglo-si-gagauz-duel-in-turul-doi-al-alegerilor-din/) (Sat, 21 No) — Ilan Shor, Alexandr Stoianoglo, Vadim Krasnoselsky
 
 ## 🗂️ Toate, pe sursa
 
 ### MD Press (1)
-- [[NewsMaker] Красносельский поздравил патриарха Кирилла с днем рождения: «Все свои силы вы отдаете просвещению народа России»](https://newsmaker.md/ru/krasnoselskii-pozdravil-patriarha-kirilla-s-80-letiem-vse-svoi-sily-vy-otdaete-prosvesheniyu-naroda-rossii) (Fri, 20 No) — Vadim Krasnoselsky
-
-## ⚠️ Erori la fetch
-
-- GDELT: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Max retries exceeded with url: /api/v2/doc/doc?query=%28Moldova+OR+Moldovan%29+%28%22Plahotniuc%22+OR+%22Shor%22+OR+%22Tauber%22+OR+%22Dodon%22+OR+%22Voronin%22+OR+%22Filat%22+OR+%22Sandu%22+OR+%22Stoianoglo%22%29&mode=ArtList&maxrecords=40&timespan=7d&format=json&sort=DateDesc (Caused by ResponseError('too many 429 error responses'))
+- [[Ziarul de Garda] VIDEO/ Dronă deasupra Chișinăului | Cutremur de 5,7 grade | Întoarcerea lui Krasnoselski de la Moscova | Stoianoglo și Gagauz, duel în turul doi al alegerilor din Autonomia Găgăuză | Bunuri imobile ale lui Șor, scoase la licitație | SĂPTĂMÂNA DE GARDĂ](https://www.zdg.md/video/video-drone-peste-r-moldova-detalii-despre-cel-mai-mare-cutremur-din-ultimii-ani-intoarcerea-lui-vadim-krasnoselski-de-la-moscova-stoianoglo-si-gagauz-duel-in-turul-doi-al-alegerilor-din/) (Sat, 21 No) — Ilan Shor, Alexandr Stoianoglo, Vadim Krasnoselsky
 
 ---
-_Generat automat de moldova-watch la 2026-11-20T15:41:22.437289+00:00._
+_Generat automat de moldova-watch la 2026-11-21T14:50:51.610687+00:00._
